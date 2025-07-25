@@ -1,28 +1,30 @@
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQTZ7dJbMy7bUpaKXlaY4CvUoxz7IzQasYg&s",VOV1 HD
-https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRy8DNT2EyV0vPm1oye3N2o43VUthJ0_IdA&s",VOV2 HD
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx1QbZewLeQWABiffxfgjp17UIRByi-lvag&s",VOV3 HD
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkevQ4B-uXkprvQZ6wKCcSqdGnERaSazGVw&s",VOV MINORITIES SERVICE NORTH
+#EXTINF:-1 group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
+http://media.kythuatvov.vn:7001/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
+http://media.kythuatvov.vn:7003/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
+http://media.kythuatvov.vn:7005/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHWEST
 https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0FaMCi9-I6Ni1xsAZ6ReQfQQRvSeCVa2lA&s",VOV MINORITIES SERVICE HIGHLANDS
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHEAST
+https://stream.vovmedia.vn/vov4db
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 CENTRAL HIGHLANDS
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQNhiNTxVkpJRnrGLfGs6MG5H2tqSW4_S9A&s",VOV MINORITIES SERVICE CENTRAL
-https://stream-cdn.vov.vn/live/vov4-audio_only.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/64904.png", VOV MINORITIES SERVICE MEKONG
-http://media.kythuatvov.vn:8031
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q75utnoZ5wyxce99Xb7r3h0ZX2Au0GuFdQ&s",VOV WORLD SERVICE
-https://stream-cdn.vov.vn/live/vov5-audio_only.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://img.radios.com.br/radio/xl/radio140193_1660315263.jpg",VOV ENGLISH SERVICE
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
+http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV WORLD SERVICE
 http://media.kythuatvov.vn:7007/;stream/
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/kFYQ",VOV TRAFFIC SERVICE HANOI
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
+http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
 http://media.kythuatvov.vn:7025/;stream/
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/kFYQ",VOV TRAFFIC SERVICE SAIGON
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAEBReIvKRGhdi-cYk3A7p-JZFfnqWf66hQ&s",VOV TRAFFIC SERVICE MEKONG
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai",VOV TRAFFIC SERVICE COASTAL REGIONS
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
+http://media.kythuatvov.vn:7023/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
+https://stream.vovmedia.vn/vovmekong
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_VOH_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",VOH AM 610Khz
