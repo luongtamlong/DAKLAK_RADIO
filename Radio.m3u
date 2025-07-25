@@ -5,11 +5,11 @@ http://media.kythuatvov.vn:7003/;stream/
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
 http://media.kythuatvov.vn:7005/;stream/
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHWEST
-https://stream.vovmedia.vn/vov4tb
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHEAST
 https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 CENTRAL HIGHLANDS
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
+http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
@@ -23,7 +23,7 @@ http://media.kythuatvov.vn:7025/;stream/
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
 http://media.kythuatvov.vn:7023/;stream/
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
-https://stream.vovmedia.vn/vovmekong
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 
@@ -71,8 +71,6 @@ https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 http://113.160.131.11:8000/
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC NINH (FM92.1MHz)
 https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-c-k-c0x00ffffff-no-rj" radio=true,TBTV FM THAI BINH (FM97MHz) (HUNG YEN FM SINCE JULY 1)
-http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NGHE AN (FM99.6MHz)
@@ -81,13 +79,11 @@ https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,QUANG TRI (FM92.5MHz)
 http://quangtritv.vn/audios/audiovnpt2024.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DANANG RADIO (FM98.5MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QUANG NAM FM (FM97.6MHz) (DANANG RADIO SINCE JULY 1)
-https://beta.qrt.vn/phatthanh/QRT.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
 https://stream.thingnet.vn/radio/quangngai_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BINH DINH RADIO (FM97MHz & FM99.9MHz) (GIA LAI FM SINCE JULY 1)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,GIA LAI FM (FM 93.7MHz, 97MHz & FM99.9MHz) 
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,KHANH HOA RADIO (FM106.5MHz)
 https://tv.ktv.org.vn/hls/radio.m3u8
@@ -95,38 +91,30 @@ https://tv.ktv.org.vn/hls/radio.m3u8
 https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BINH THUAN FM (FM92.3MHz) (LAM DONG RADIO SINCE JULY 1)
 https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,GIA LAI (FM102MHz)
-https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,SCTV HAI DAK LAK FM (FM92.4MHz & FM94.7MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DAK NONG (FM96.6MHz) (LAM DONG RADIO SINCE JULY 1)
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,LAM DONG (FM97MHz)
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BPTV-FM (FM89.4MHz) (DONG NAI RADIO SINCE JULY 1)
-https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BTV-FM BINH DUONG (FM92.5MHz) (VOH SINCE JULY 1)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,BTV-FM BINH DUONG (FM92.5MHz) (VTH SINCE JULY 30)
 https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG NAI RADIO (FM97.5MHz)
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,LONG AN (FM96.9MHz) (TAY NINH RADIO SINCE JULY 1)
-https://cdn.la34.com.vn/live/2851dd3d9016ac74d84b0c4a7a659f76891/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BEN TRE (FM97.9MHz) (THVL RADIO SINCE JULY 1)
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-bentre.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG THAP (FM98.4MHz)
-https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TIEN GIANG (FM96.2MHz) (DONG THAP RADIO SINCE JULY 1)
-http://123.25.238.45:1935/live/radio/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TRA VINH (FM92.7MHz) (THVL RADIO SINCE JULY 1)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,TAY NINH RADIO 1 (FM96.9MHz)
+https://live.la34.com.vn/la34/radio-transmux.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,TAY NINH RADIO 2 (FM103.1MHz)
+http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG THAP RADIO (FM96.2 and 98.4MHz)
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL TRA VINH FEED (FM92.7MHz) (KHMER OPT-OUTS)
 https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL RADIO VINH LONG (FM90.2MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)
 https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,CAN THO (FM97.3MHz)
 https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HAU GIANG (FM89.6MHz) (CAN THO RADIO SINCE JULY 1)
-https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,KIEN GIANG FM (FM99.4MHz) (AN GIANG RADIO SINCE JULY 1)
-http://tv.kgtv.vn/live/kgaudio/kgaudio.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,AN GIANG RADIO (FM 93.1 and 99.4MHz)
+https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BAC LIEU FM (FM93.8MHz) (CA MAU FM SINCE JULY 1)
 https://tv.thbl.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,CA MAU FM (FM94.6MHz)
@@ -1371,7 +1359,7 @@ https://svara-stream.radioddns.net:8443/surabaya_mercuryfm-aac
 #EXTINF:-1 tvg-logo="https://iili.io/JmopJVa.png" radio="true" tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ",Most 1058
 https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmophJV.png" radio="true" tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ",Prambors Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FMAAC.aac?dist=onlineradiobox
+https://s2.cloudmu.id/listen/prambors/radio.aac
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9vcv.png" radio="true" tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ",Delta FM
 https://stream.cloudmu.id/listen/delta_fm/stream?icy=http
 #EXTINF:-1 tvg-logo="https://iili.io/JmomnGj.png" radio="true" tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ",iRadio Jakarta
