@@ -51,7 +51,7 @@ https://radio.thainguyentv.vn/hls/livestream.m3u8
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK39M54WqVK57t9MArYKg059HZ0RjmzUfOkw&s" radio=true,LANG SON (FM88.6MHz)
 https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC GIANG (FM98.4MHz) (BAC NINH FM SINCE JULY 1)
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC NINH (FM98.4MHz)
 https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR1 (FM97.8MHz)
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
@@ -69,8 +69,6 @@ https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CuZ6JFmn5rbE43t3RKgaL9yPVHziv9gzRg&s" radio=true,THP3 FM (FM104.5MHz) 
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC NINH (FM92.1MHz)
-https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NGHE AN (FM99.6MHz)
@@ -79,6 +77,8 @@ https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,QUANG TRI (FM92.5MHz)
 http://quangtritv.vn/audios/audiovnpt2024.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,HUE (FM93MHz)
+https://live.huetv.com.vn/Radio-online/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
