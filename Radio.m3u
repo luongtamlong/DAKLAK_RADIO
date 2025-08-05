@@ -1,33 +1,33 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-http://media.kythuatvov.vn:7001/;stream/
+https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-http://media.kythuatvov.vn:7003/;stream/
+https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-http://media.kythuatvov.vn:7005/;stream/
+https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHWEST
 http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHEAST
 https://stream.vovmedia.vn/vov4db
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 CENTRAL HIGHLANDS
-http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
 http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
 http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV WORLD SERVICE
-http://media.kythuatvov.vn:7007/;stream/
+https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
-http://media.kythuatvov.vn:1936/live/VOV24-7.sdp/playlist.m3u8
+https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
-http://media.kythuatvov.vn:7025/;stream/
+https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
-http://media.kythuatvov.vn:7023/;stream/
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
-http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
-https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
+https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_VOH_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
@@ -1463,3 +1463,4 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
