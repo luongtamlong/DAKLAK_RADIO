@@ -23,9 +23,9 @@ https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
 https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+https://media-audio.vov.vn/vovGTHCM.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+https://media-audio.vov.vn/vovgtMeKong.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
@@ -89,14 +89,8 @@ https://stream.thingnet.vn/radio/quangngai_aac/playlist.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,KHANH HOA RADIO (FM106.5MHz)
 https://tv.ktv.org.vn/hls/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,NINH THUAN FM (FM95MHz) (KHANH HOA RADIO SINCE JULY 1)
-https://618b88f69e53b.streamlock.net/NTVR/ntvradio/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BINH THUAN FM (FM92.3MHz) (LAM DONG RADIO SINCE JULY 1)
-https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,SCTV HAI DAK LAK FM (FM92.4MHz & FM94.7MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DAK NONG (FM96.6MHz) (LAM DONG RADIO SINCE JULY 1)
-https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,LAM DONG (FM97MHz)
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BTV-FM BINH DUONG (FM92.5MHz) (VTH SINCE JULY 30)
@@ -117,8 +111,6 @@ https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
 https://live.canthotv.vn/live/radio/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,AN GIANG RADIO (FM 93.1 and 99.4MHz)
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BAC LIEU FM (FM93.8MHz) (CA MAU FM SINCE JULY 1)
-https://tv.thbl.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,CA MAU FM (FM94.6MHz)
 http://tv.ctvcamau.vn/live/radio/radio.m3u8
 
@@ -1463,4 +1455,5 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
