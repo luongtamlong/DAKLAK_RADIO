@@ -1448,154 +1448,171 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Đài Loan",TVBS Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS News 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS 欢乐台 （备份）
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1,tvg-id="中天新闻 HD" tvg-name="中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="Đài Loan",中天新闻 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1,tvg-id="中天娱乐 CTI Entertaiment" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/中天娱乐CTIENTERTAIMENT.png" group-title="Đài Loan",中天娱乐 CTI Entertaiment
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1,tvg-id="中天综合 CTI Metro" tvg-name="中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/中天综合CTIMETRO.png" group-title="Đài Loan",中天综合 CTI Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="Đài Loan",中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视 TTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视综合台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Đài Loan",华视 CTS HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视 CTV
-https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-#EXTINF:-1,tvg-id="八大第一 GTV First" tvg-name="八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/八大第一GTVFIRST.png" group-title="Đài Loan",八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1,tvg-id="八大综合 GTV Metro" tvg-name="八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/八大综合GTVMETRO.png" group-title="Đài Loan",八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1,tvg-id="八大戏剧 GTV Drama" tvg-name="八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/八大戏剧GTVDRAMA.png" group-title="Đài Loan",八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1,tvg-id="八大娱乐 GTV Entertainment" tvg-name="八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/八大娱乐GTVENTERTAINMENT.png" group-title="Đài Loan",八大娱乐 GTV Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-#EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOODMOVIES.png" group-title="Đài Loan",Hollywood Movies
-https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,tvg-id="三立台湾 Sanli Taiwan" tvg-name="三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/三立台湾SANLITAIWAN.png" group-title="Đài Loan",三立台湾 Sanli Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="Đài Loan",三立戏剧台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1,tvg-id="三立综合 Sanli Metro" tvg-name="三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/三立综合SANLIMETRO.png" group-title="Đài Loan",三立综合 Sanli Metro
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Đài Loan",三立都会台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1,tvg-id="东森综合 ETTV Metro" tvg-name="东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/东森综合ETTVMETRO.png" group-title="Đài Loan",东森综合 ETTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1,tvg-id="东森戏剧 ETTV Drama" tvg-name="东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/东森戏剧ETTVDRAMA.png" group-title="Đài Loan",东森戏剧 ETTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Đài Loan",东森超视
-https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1,tvg-id="东森财经新闻 ETTV Business" tvg-name="东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻ETTVBUSINESS.png" group-title="Đài Loan",东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Đài Loan",寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Đài Loan",寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视2
-https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-#EXTINF:-1,tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png" group-title="Đài Loan",大爱1台
-https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Đài Loan",非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Đài Loan",龙华戏剧 Lunghua Drama
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Đài Loan",龙华经典台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="Đài Loan",龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Đài Loan",AXN Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Đài Loan",靖天国际台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="Đài Loan",年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Đài Loan",纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Đài Loan",纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Đài Loan",纬来体育台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="Đài Loan",纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" group-title="Đài Loan",纬来育乐
-https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1,tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="https://epg.112114.xyz/logo/纬来精彩.png" group-title="Đài Loan",纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1,tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="Đài Loan",好消息 2
-https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-#EXTINF:-1,tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" group-title="Đài Loan",大爱2台
-https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="Đài Loan",亚洲美食
-https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="Đài Loan",美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1,tvg-id="东森电影 ETTV Movie" tvg-name="东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/东森电影ETTVMOVIE.png" group-title="Đài Loan",东森电影 ETTV Movie
-https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-#EXTINF:-1,tvg-id="博斯运动 1" tvg-name="博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="Đài Loan",博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1,tvg-id="博斯运动 2" tvg-name="博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="Đài Loan",博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1,tvg-id="博斯高球2 HD" tvg-name="博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/博斯高球2.png" group-title="Đài Loan",博斯高球2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-#EXTINF:-1,tvg-id="博斯网球 HD" tvg-name="博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" group-title="Đài Loan",博斯网球 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-#EXTINF:-1,tvg-id="东森洋片 ETTV Western" tvg-name="东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/东森洋片ETTVWESTERN.png" group-title="Đài Loan",东森洋片 ETTV Western
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="Đài Loan",龙华洋片 Lunghua Western
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" group-title="Đài Loan",博斯无限
-https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Đài Loan",MTV Live
-https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-#EXTINF:-1,tvg-id="龙详时代" tvg-name="龙详时代" tvg-logo="https://epg.112114.xyz/logo/龙详时代.png" group-title="Đài Loan",龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" group-title="Đài Loan",EYETV 旅游
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="Đài Loan",靖天卡通台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1,tvg-id="EYETV 戏剧" tvg-name="EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" group-title="Đài Loan",EYETV 戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Đài Loan",卫视中文台 Star Movies Chinese
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,tvg-id="东森幼幼 Yoyo TV" tvg-name="东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/东森幼幼YOYOTV.png" group-title="Đài Loan",东森幼幼 Yoyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Đài Loan",卫视电影台
-https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="Đài Loan",美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Đài Loan",爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Đài Loan",爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://epg.112114.xyz/logo/星卫电影.png" group-title="Đài Loan",星卫电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Đài Loan",AFC 亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+#EXTM3U
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="Đài Loan",TVBS新闻
+http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="" group-title="Đài Loan",三立新闻
+http://iptv.4666888.xyz/iptv.php?id=20169
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="" group-title="Đài Loan",三立iNEWS
+http://iptv.4666888.xyz/iptv.php?id=20170
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="Đài Loan",中视新闻
+http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="" group-title="Đài Loan",台视新闻
+http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="Đài Loan",中天新闻
+http://iptv.4666888.xyz/iptv.php?id=20173
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="" group-title="Đài Loan",东森新闻
+http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-id="东森新闻(美)" tvg-name="东森新闻(美)" tvg-logo="" group-title="Đài Loan",东森新闻(美)
+http://iptv.4666888.xyz/iptv.php?id=20175
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="" group-title="Đài Loan",寰宇新闻
+http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="" group-title="Đài Loan",寰宇新闻台湾
+http://iptv.4666888.xyz/iptv.php?id=20293
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="Đài Loan",民视新闻
+http://iptv.4666888.xyz/iptv.php?id=20177
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="" group-title="Đài Loan",年代新闻
+http://iptv.4666888.xyz/iptv.php?id=20178
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="Đài Loan",非凡新闻
+http://iptv.4666888.xyz/iptv.php?id=20179
+#EXTINF:-1 tvg-id="摬新闻" tvg-name="摬新闻" tvg-logo="" group-title="Đài Loan",摬新闻
+http://iptv.4666888.xyz/iptv.php?id=20180
+#EXTINF:-1 tvg-id="中天CTI+" tvg-name="中天CTI+" tvg-logo="" group-title="Đài Loan",中天CTI+
+http://iptv.4666888.xyz/iptv.php?id=20181
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="Đài Loan",民视
+http://iptv.4666888.xyz/iptv.php?id=20182
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="Đài Loan",中视
+http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="" group-title="Đài Loan",华视
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="Đài Loan",公视
+http://iptv.4666888.xyz/iptv.php?id=20185
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="" group-title="Đài Loan",台视
+http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 tvg-id="中旺电视" tvg-name="中旺电视" tvg-logo="" group-title="Đài Loan",中旺电视
+http://iptv.4666888.xyz/iptv.php?id=20187
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="Đài Loan",TVBS HD
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="" group-title="Đài Loan",TVBS欢乐
+http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="" group-title="Đài Loan",TVBS亚洲
+http://iptv.4666888.xyz/iptv.php?id=20190
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="Đài Loan",TVBS精采
+http://iptv.4666888.xyz/iptv.php?id=20191
+#EXTINF:-1 tvg-id="TVBS综艺" tvg-name="TVBS综艺" tvg-logo="" group-title="Đài Loan",TVBS综艺
+http://iptv.4666888.xyz/iptv.php?id=20192
+#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="Đài Loan",TVBS台剧
+http://iptv.4666888.xyz/iptv.php?id=20193
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="" group-title="Đài Loan",中天娱乐
+http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="" group-title="Đài Loan",中天综合
+http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="" group-title="Đài Loan",中天亚洲
+http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="" group-title="Đài Loan",八大第一
+http://iptv.4666888.xyz/iptv.php?id=20197
+#EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="" group-title="Đài Loan",八大综合
+http://iptv.4666888.xyz/iptv.php?id=20198
+#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="" group-title="Đài Loan",八大戏剧
+http://iptv.4666888.xyz/iptv.php?id=20199
+#EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="" group-title="Đài Loan",八大娱乐
+http://iptv.4666888.xyz/iptv.php?id=20200
+#EXTINF:-1 tvg-id="八大精采" tvg-name="八大精采" tvg-logo="" group-title="Đài Loan",八大精采
+http://iptv.4666888.xyz/iptv.php?id=20201
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="" group-title="Đài Loan",三立台湾
+http://iptv.4666888.xyz/iptv.php?id=20202
+#EXTINF:-1 tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="" group-title="Đài Loan",三立戏剧
+http://iptv.4666888.xyz/iptv.php?id=20203
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="" group-title="Đài Loan",三立综合
+http://iptv.4666888.xyz/iptv.php?id=20204
+#EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="" group-title="Đài Loan",三立都会
+http://iptv.4666888.xyz/iptv.php?id=20205
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="" group-title="Đài Loan",东森综合
+http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="" group-title="Đài Loan",东森戏剧
+http://iptv.4666888.xyz/iptv.php?id=20207
+#EXTINF:-1 tvg-id="东森超视34.5" tvg-name="东森超视34.5" tvg-logo="" group-title="Đài Loan",东森超视34.5
+http://iptv.4666888.xyz/iptv.php?id=20208
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="Đài Loan",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20209
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="" group-title="Đài Loan",东森美洲
+http://iptv.4666888.xyz/iptv.php?id=20210
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="Đài Loan",东森电影
+http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="Đài Loan",东森洋片
+http://iptv.4666888.xyz/iptv.php?id=20212
+#EXTINF:-1 tvg-id="东森Yoyo" tvg-name="东森Yoyo" tvg-logo="" group-title="Đài Loan",东森Yoyo
+http://iptv.4666888.xyz/iptv.php?id=20213
+#EXTINF:-1 tvg-id="民事第一" tvg-name="民事第一" tvg-logo="" group-title="Đài Loan",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20214
+#EXTINF:-1 tvg-id="民事第一" tvg-name="民事第一" tvg-logo="" group-title="Đài Loan",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20215
+#EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="" group-title="Đài Loan",民视台湾
+http://iptv.4666888.xyz/iptv.php?id=20216
+#EXTINF:-1 tvg-id="民事综艺" tvg-name="民事综艺" tvg-logo="" group-title="Đài Loan",民事综艺
+http://iptv.4666888.xyz/iptv.php?id=20217
+#EXTINF:-1 tvg-id="民视旅遊" tvg-name="民视旅遊" tvg-logo="" group-title="Đài Loan",民视旅遊
+http://iptv.4666888.xyz/iptv.php?id=20218
+#EXTINF:-1 tvg-id="民视戏剧" tvg-name="民视戏剧" tvg-logo="" group-title="Đài Loan",民视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20219
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="Đài Loan",台视综合
+http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="Đài Loan",中视经典
+http://iptv.4666888.xyz/iptv.php?id=20221
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="" group-title="Đài Loan",中视菁采
+http://iptv.4666888.xyz/iptv.php?id=20222
+#EXTINF:-1 tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="" group-title="Đài Loan",华艺中文
+http://iptv.4666888.xyz/iptv.php?id=20223
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="" group-title="Đài Loan",智林体育
+http://iptv.4666888.xyz/iptv.php?id=20224
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="" group-title="Đài Loan",纬来体育
+http://iptv.4666888.xyz/iptv.php?id=20225
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="" group-title="Đài Loan",纬来日本
+http://iptv.4666888.xyz/iptv.php?id=20226
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="" group-title="Đài Loan",纬来电影
+http://iptv.4666888.xyz/iptv.php?id=20227
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="" group-title="Đài Loan",纬来综合
+http://iptv.4666888.xyz/iptv.php?id=20228
+#EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="" group-title="Đài Loan",纬来精采
+http://iptv.4666888.xyz/iptv.php?id=20229
+#EXTINF:-1 tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="" group-title="Đài Loan",爱尔达影剧
+http://iptv.4666888.xyz/iptv.php?id=20230
+#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="" group-title="Đài Loan",爱尔达综合
+http://iptv.4666888.xyz/iptv.php?id=20231
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="" group-title="Đài Loan",爱尔达体育1
+http://iptv.4666888.xyz/iptv.php?id=20232
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="" group-title="Đài Loan",爱尔达体育2
+http://iptv.4666888.xyz/iptv.php?id=20233
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="" group-title="Đài Loan",爱尔达体育3
+http://iptv.4666888.xyz/iptv.php?id=20234
+#EXTINF:-1 tvg-id="爱尔达体育4" tvg-name="爱尔达体育4" tvg-logo="" group-title="Đài Loan",爱尔达体育4
+http://iptv.4666888.xyz/iptv.php?id=20235
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="" group-title="Đài Loan",靖天国际台
+http://iptv.4666888.xyz/iptv.php?id=20236
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="Đài Loan",靖天卡通
+http://iptv.4666888.xyz/iptv.php?id=20237
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="" group-title="Đài Loan",爱奇艺
+http://iptv.4666888.xyz/iptv.php?id=20238
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="" group-title="Đài Loan",美亚电影
+http://iptv.4666888.xyz/iptv.php?id=20239
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="Đài Loan",龙华电影
+http://iptv.4666888.xyz/iptv.php?id=20240
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="Đài Loan",龙华戏剧
+http://iptv.4666888.xyz/iptv.php?id=20241
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="" group-title="Đài Loan",龙华洋片
+http://iptv.4666888.xyz/iptv.php?id=20242
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="" group-title="Đài Loan",龙华偶像
+http://iptv.4666888.xyz/iptv.php?id=20243
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="" group-title="Đài Loan",龙华日韩
+http://iptv.4666888.xyz/iptv.php?id=20244
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="" group-title="Đài Loan",龙华经典
+http://iptv.4666888.xyz/iptv.php?id=20245
+#EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="" group-title="Đài Loan",龙华卡通
+http://iptv.4666888.xyz/iptv.php?id=20246
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="" group-title="Đài Loan",龙祥时代
+http://iptv.4666888.xyz/iptv.php?id=20247
+#EXTINF:-1 tvg-id="好莱乌电影" tvg-name="好莱乌电影" tvg-logo="" group-title="Đài Loan",好莱乌电影
+http://iptv.4666888.xyz/iptv.php?id=20248
 
 --------------------------------------------------------------------------------
 
@@ -1967,6 +1984,10 @@ https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
 https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
 #EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/d/d5/Mediacorp_Channel_U_2023.svg provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel U HD
 http://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-id="Hub娱家" tvg-name="Hub娱家" tvg-logo="" group-title="Sing",Hub娱家
+http://iptv.4666888.xyz/iptv.php?id=20287
+#EXTINF:-1 tvg-id="Hub都会" tvg-name="Hub都会" tvg-logo="" group-title="Sing",Hub都会
+http://iptv.4666888.xyz/iptv.php?id=20288
 
 --------------------------------------------------------------------------------
 
