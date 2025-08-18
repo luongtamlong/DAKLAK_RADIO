@@ -912,6 +912,8 @@ https://radio.bsod.kr/stream/playback.pls?stn=afn&city=humphreys
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_DGU.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHK World Radio
 https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NHK_FM_2024.svg/1200px-NHK_FM_2024.svg.png" group-title="QUỐC TẾ" radio=true,NHK FM
+http://mnet.x10.mx/nhkfm.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s287011g.png" group-title="QUỐC TẾ" radio=true,American Forces Radio Tokyo
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ" radio=true,J1 Hits
@@ -1455,5 +1457,6 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
 
