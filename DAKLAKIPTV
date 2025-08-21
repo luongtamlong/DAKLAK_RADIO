@@ -656,7 +656,7 @@ https://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
 #EXTINF:-1 tvg-id="lovenature" group-title="Khám phá" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorHD" group-title="Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải trí" group-logo="https://cdn.hqth.me/logo/category/entertainment.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN
@@ -767,7 +767,7 @@ https://photocall.site/h4tw/fo.m3u8?ch=channel5
 #EXTINF:-1 group-title="Đức", ARD Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:-1 group-title="Đức", ZDF
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+https://viamotionhsi.netplus.ch/live/eds/zdHD/browser-dash/zdHD.mpd
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="Đức",RTL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
@@ -1241,148 +1241,69 @@ http://lb.wisp.cat/lb0/Super_plus_HD_UA/mpegts?token=rfroGNs04A
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="Trung Quốc",CCTV1
-https://cqcb.iptv.darwinchow.com/cctv1HD
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="Trung Quốc",CCTV2
-https://cqcb.iptv.darwinchow.com/cctv2HD
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="Trung Quốc",CCTV3
-https://cqcb.iptv.darwinchow.com/cctv3HD
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="Trung Quốc",CCTV4
-https://cqcb.iptv.darwinchow.com/cctv4HD
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="Trung Quốc",CCTV5
-https://cqcb.iptv.darwinchow.com/cctv5HD
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="Trung Quốc",CCTV5+
-https://cqcb.iptv.darwinchow.com/cctv5sportHD
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="Trung Quốc",CCTV6
-https://cqcb.iptv.darwinchow.com/cctv6HD
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="Trung Quốc",CCTV7
-https://cqcb.iptv.darwinchow.com/cctv7HD
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="Trung Quốc",CCTV8
-https://cqcb.iptv.darwinchow.com/cctv8HD
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="Trung Quốc",CCTV9
-https://cqcb.iptv.darwinchow.com/cctv9HD
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="Trung Quốc",CCTV10
-https://cqcb.iptv.darwinchow.com/cctv10HD
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="Trung Quốc",CCTV11
-https://cqcb.iptv.darwinchow.com/cctv11HD
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="Trung Quốc",CCTV12
-https://cqcb.iptv.darwinchow.com/cctv12HD
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="Trung Quốc",CCTV13
-https://cqcb.iptv.darwinchow.com/cctvnewsHD
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="Trung Quốc",CCTV14
-https://cqcb.iptv.darwinchow.com/cctvseHD
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="Trung Quốc",CCTV15
-https://cqcb.iptv.darwinchow.com/cctv15HD
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="" group-title="Trung Quốc",CCTV16
-https://cqcb.iptv.darwinchow.com/cctv16HD
-#EXTINF:-1 tvg-id="CCTV16[4K]" tvg-name="CCTV16[4K]" tvg-logo="" group-title="Trung Quốc",CCTV16[4K]
-https://cqcb.iptv.darwinchow.com/cctv16_4K
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="Trung Quốc",CCTV17
-https://cqcb.iptv.darwinchow.com/cctv17HD
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="" group-title="Trung Quốc",CCTV4K
-https://cqcb.iptv.darwinchow.com/cctv4K
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="" group-title="Trung Quốc",第一剧场
-https://cqcb.iptv.darwinchow.com/diyijuchangHD
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="" group-title="Trung Quốc",怀旧剧场
-https://cqcb.iptv.darwinchow.com/hjjcHD
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="" group-title="Trung Quốc",风云剧场
-https://cqcb.iptv.darwinchow.com/fyjcHD
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="" group-title="Trung Quốc",风云足球
-https://cqcb.iptv.darwinchow.com/fyzqHD
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="" group-title="Trung Quốc",风云音乐
-https://cqcb.iptv.darwinchow.com/fyyyHD
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="" group-title="Trung Quốc",兵器科技
-https://cqcb.iptv.darwinchow.com/bqkjHD
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="" group-title="Trung Quốc",央视台球
-https://cqcb.iptv.darwinchow.com/ystqHD
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="" group-title="Trung Quốc",高尔夫网球
-https://cqcb.iptv.darwinchow.com/golfHD
-#EXTINF:-1 tvg-id="央视文化" tvg-name="央视文化" tvg-logo="" group-title="Trung Quốc",央视文化
-https://cqcb.iptv.darwinchow.com/yswhHD
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="" group-title="Trung Quốc",女性时尚
-https://cqcb.iptv.darwinchow.com/nvxing
-#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="" group-title="Trung Quốc",中学生
-https://cqcb.iptv.darwinchow.com/qicai
-#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="" group-title="Trung Quốc",老故事
-https://cqcb.iptv.darwinchow.com/gushi
-#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="" group-title="Trung Quốc",发现之旅
-https://cqcb.iptv.darwinchow.com/faxian
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="Trung Quốc",CGTN
-https://cqcb.iptv.darwinchow.com/cgtnsd
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="Trung Quốc",CETV1
-https://cqcb.iptv.darwinchow.com/cetv-1sd
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="" group-title="Trung Quốc",CETV4
-https://cqcb.iptv.darwinchow.com/cetv-4sd
-#EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="" group-title="Trung Quốc",早期教育
-https://cqcb.iptv.darwinchow.com/zaojiaoHD
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="Trung Quốc",湖南卫视
-https://cqcb.iptv.darwinchow.com/hunanHD
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="Trung Quốc",金鹰卡通
-https://cqcb.iptv.darwinchow.com/jinyingsd
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="Trung Quốc",北京卫视
-https://cqcb.iptv.darwinchow.com/beijingHD
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="Trung Quốc",东方卫视
-https://cqcb.iptv.darwinchow.com/shanghaiHD
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="Trung Quốc",天津卫视
-https://cqcb.iptv.darwinchow.com/tianjinHD
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="Trung Quốc",重庆卫视
-https://cqcb.iptv.darwinchow.com/chongqingHD
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="Trung Quốc",黑龙江卫视
-https://cqcb.iptv.darwinchow.com/heilongjiangHD
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="Trung Quốc",吉林卫视
-https://cqcb.iptv.darwinchow.com/jilinHD
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="Trung Quốc",辽宁卫视
-https://cqcb.iptv.darwinchow.com/liaoningHD
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="Trung Quốc",江苏卫视
-https://cqcb.iptv.darwinchow.com/jiangsuHD
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="Trung Quốc",浙江卫视
-https://cqcb.iptv.darwinchow.com/zhejiangHD
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="Trung Quốc",东南卫视
-https://cqcb.iptv.darwinchow.com/dongnanHD
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="Trung Quốc",广东卫视
-https://cqcb.iptv.darwinchow.com/guangdongHD
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="Trung Quốc",深圳卫视
-https://cqcb.iptv.darwinchow.com/shenzhenHD
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="Trung Quốc",江西卫视
-https://cqcb.iptv.darwinchow.com/jiangxiHD
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="Trung Quốc",广西卫视
-https://cqcb.iptv.darwinchow.com/guangxiHD
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="Trung Quốc",贵州卫视
-https://cqcb.iptv.darwinchow.com/guizhouHD
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="Trung Quốc",四川卫视
-https://cqcb.iptv.darwinchow.com/sichuanHD
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="Trung Quốc",河南卫视
-https://cqcb.iptv.darwinchow.com/henanHD
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="Trung Quốc",内蒙古卫视
-https://cqcb.iptv.darwinchow.com/neimengkusd
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="Trung Quốc",安徽卫视
-https://cqcb.iptv.darwinchow.com/anhuisd
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="Trung Quốc",湖北卫视
-https://cqcb.iptv.darwinchow.com/hubeisd
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="Trung Quốc",宁夏卫视
-https://cqcb.iptv.darwinchow.com/ningxia
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="Trung Quốc",青海卫视
-https://cqcb.iptv.darwinchow.com/qinghaisd
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="Trung Quốc",河北卫视
-https://cqcb.iptv.darwinchow.com/hebeisd
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="Trung Quốc",云南卫视
-https://cqcb.iptv.darwinchow.com/yunnansd
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="Trung Quốc",新疆卫视
-https://cqcb.iptv.darwinchow.com/xinjiangsd
-#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="Trung Quốc",兵团卫视
-https://cqcb.iptv.darwinchow.com/bingtuansd
-#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="Trung Quốc",西藏卫视
-https://cqcb.iptv.darwinchow.com/xizangsd
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="Trung Quốc",海南卫视
-https://cqcb.iptv.darwinchow.com/hainansd
-#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="Trung Quốc",三沙卫视
-https://cqcb.iptv.darwinchow.com/sanshasd
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="" group-title="Trung Quốc",CHC高清电影
-https://cqcb.iptv.darwinchow.com/chcgqdyHD
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="" group-title="Trung Quốc",CHC动作电影
-https://cqcb.iptv.darwinchow.com/chcdzdyHD
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="" group-title="Trung Quốc",CHC家庭影院
-https://cqcb.iptv.darwinchow.com/chcjtyyHD
+#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 综合 HD" group-title="央视频道",CCTV-1 综合 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv1
+#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
+https://smart.pendy.dpdns.org/Smart.php?id=cctv2
+#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3 综艺 HD" group-title="央视频道",CCTV-3 综艺 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv3
+#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
+https://smart.pendy.dpdns.org/Smart.php?id=cctv4
+#EXTINF:-1 tvg-id="Cctv4" tvg-name="CCTV4 新闻台" group-title="央视频道",CCTV4 新闻台
+https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
+#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 体育频道" group-title="央视频道",CCTV-5 体育频道
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
+#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 体育赛事 HD" group-title="央视频道",CCTV-5+ 体育赛事 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="央视频道",CCTV-6
+https://smart.pendy.dpdns.org/Smart.php?id=cctv6
+#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7 军事农业" group-title="央视频道",CCTV-7 军事农业
+https://smart.pendy.dpdns.org/Smart.php?id=cctv7
+#EXTINF:-1 tvg-id="cctv8hd" tvg-name="CCTV-8 电视剧 HD" group-title="央视频道",CCTV-8 电视剧 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
+#EXTINF:-1 tvg-id="cctv9hd" tvg-name="CCTV-9 记录 HD" group-title="央视频道",CCTV-9 记录 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
+#EXTINF:-1 tvg-id="cctv10hd" tvg-name="CCTV-10 科教 HD" group-title="央视频道",CCTV-10 科教 HD
+https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
+#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11 戏曲" group-title="央视频道",CCTV-11 戏曲
+https://smart.pendy.dpdns.org/Smart.php?id=cctv11
+#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12 社会与法" group-title="央视频道",CCTV-12 社会与法
+https://smart.pendy.dpdns.org/Smart.php?id=cctv12
+#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新闻频道" group-title="央视频道",CCTV-13 新闻频道
+https://smart.pendy.dpdns.org/Smart.php?id=cctv13
+#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14 少儿" group-title="央视频道",CCTV-14 少儿
+https://smart.pendy.dpdns.org/Smart.php?id=cctv14
+#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15 音乐" group-title="央视频道",CCTV-15 音乐
+https://smart.pendy.dpdns.org/Smart.php?id=cctv15
+
+#EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
+#EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
+#EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
+#EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+#EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="卫视频道",福建东南卫视
+https://smart.pendy.dpdns.org/Smart.php?id=fujian
+#EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" group-title="卫视频道",广东南方卫视
+https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
+#EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
+#EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="卫视频道",珠江台
+https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
+#EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="卫视频道",广西卫视
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
+#EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+https://smart.pendy.dpdns.org/Smart.php?id=hubei
+#EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="卫视频道",四川卫视
+https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
+#EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="卫视频道",CGTN
+https://smart.pendy.dpdns.org/Smart.php?id=CGTN
 
 --------------------------------------------------------------------------------
 
@@ -2149,20 +2070,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 https://smart.pendy.dpdns.org/Smart.php?id=Rtv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="JAKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_Jak_tv_%282005-2009%29.png/revision/latest?cb=20131229082946" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", JakTV
 https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-
---------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", TUDN
-https://263.org.vn/TUDN
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", Channel 5
-https://263.org.vn/Channel5
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 France
-https://263.org.vn/dazn1fr
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 DE
-https://263.org.vn/dazn1DE
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", SuperSport Premier League
-https://263.org.vn/supersportpl
-
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Kênh 4K",HanoiTV2 4K
@@ -2205,74 +2112,74 @@ https://7pal.short.gy/mplusuhd
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Kênh 4K",NESN UHD
 https://7pal.short.gy/nesnuhd
 --------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="THỂ THAO QUỐC TẾ", USA NetWork FHD
-https://7pal.short.gy/usanetwork
-#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier1 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.1.sg" tvg-logo="https://i.imgur.com/ON1gzKM.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier1 HD
 https://7pal.short.gy/HPremier1
-#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier2 UHD
+#EXTINF:-1 tvg-id="Hub.Premier.2.sg" tvg-logo="https://i.imgur.com/fxsOa7l.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier2 HD
 https://7pal.short.gy/HPremier2
-#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier3 FHD
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://i.imgur.com/EIVrelH.png" group-title="THỂ THAO QUỐC TẾ", Hub Premier3 HD
 https://7pal.short.gy/HPremier3
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO QUỐC TẾ", Now Sports Premier League1 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.1.hk" tvg-logo="https://i.imgur.com/WWi5Cjx.png" group-title="THỂ THAO QUỐC TẾ", Now Sports Premier League1 HD
 https://7pal.short.gy/nowhkp1
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="THỂ THAO QUỐC TẾ", Now Sports PremierLeague 2 FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://i.imgur.com/Gr1qxbC.png" group-title="THỂ THAO QUỐC TẾ", Now Sports PremierLeague 2 HD
 https://7pal.short.gy/nowhkp2
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="THỂ THAO QUỐC TẾ", Now Sports Premier eague 3-FHD
+#EXTINF:-1 tvg-id="Now.Sports.Premier.League.3.hk" tvg-logo="https://i.imgur.com/kKFsIHz.png" group-title="THỂ THAO QUỐC TẾ", Now Sports Premier eague 3-HD
 https://7pal.short.gy/nowhkp3
-#EXTINF:-1,tvg-id="体育频道|Arena" tvg-name="体育频道|Arena" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA.png" group-title="THỂ THAO QUỐC TẾ",Astro Arena
-https://smart.pendy.dpdns.org/Smart.php?id=Arena
-#EXTINF:-1,tvg-id="体育频道|Arena 2" tvg-name="体育频道|Arena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ARENA2.png" group-title="THỂ THAO QUỐC TẾ",Astro Arena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-#EXTINF:-1,tvg-id="体育频道|BolaArena 1" tvg-name="体育频道|BolaArena 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA1.png" group-title="THỂ THAO QUỐC TẾ",Astro BolaArena 1
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-#EXTINF:-1,tvg-id="体育频道|BolaArena 2" tvg-name="体育频道|BolaArena 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|BOLAARENA2.png" group-title="THỂ THAO QUỐC TẾ",Astro BolaArena 2
-https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="THỂ THAO QUỐC TẾ", Astro Premier League FHD
-https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="THỂ THAO QUỐC TẾ", Astro Premier League 2 FHD
-https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="THỂ THAO QUỐC TẾ", Astro Grandstand FHD
-https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="THỂ THAO QUỐC TẾ", Astro Football FHD
-https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-#EXTINF:-1,tvg-id="体育频道|Astro Sports Plus" tvg-name="体育频道|Astro Sports Plus" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROSPORTSPLUS.png" group-title="THỂ THAO QUỐC TẾ",Astro Sports Plus
-https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 1" tvg-name="体育频道|Astro Badminton 1" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON1.png" group-title="THỂ THAO QUỐC TẾ",Astro Badminton 1
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-#EXTINF:-1,tvg-id="体育频道|Astro Badminton 2" tvg-name="体育频道|Astro Badminton 2" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROBADMINTON2.png" group-title="THỂ THAO QUỐC TẾ",Astro Badminton 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-#EXTINF:-1,tvg-id="体育频道|Astro W-Sports" tvg-name="体育频道|Astro W-Sports" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROWSPORTS.png" group-title="THỂ THAO QUỐC TẾ",Astro W-Sports
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-#EXTINF:-1,tvg-id="体育频道|Astro Cricket" tvg-name="体育频道|Astro Cricket" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROCRICKET.png" group-title="THỂ THAO QUỐC TẾ",Astro Cricket
-https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-#EXTINF:-1,tvg-id="体育频道|Astro Golf" tvg-name="体育频道|Astro Golf" tvg-logo="https://epg.112114.xyz/logo/体育频道|ASTROGOLF.png" group-title="THỂ THAO QUỐC TẾ",Astro Golf
-https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyspnews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sky_sports_news_2021_logo.svg/1200px-Sky_sports_news_2021_logo.svg.png",Sky Sports News
+#EXTINF:-1 tvg-id="Astro.Premier.League.my" tvg-logo="https://i.imgur.com/M4nTRLb.png" group-title="THỂ THAO QUỐC TẾ", Astro Premier League HD
+https://7pal.short.gy/astross1
+#EXTINF:-1 tvg-id="Astro.Premier.League.2.my" tvg-logo="https://i.imgur.com/f6hG3Ok.png" group-title="THỂ THAO QUỐC TẾ", Astro Premier League 2 HD
+https://7pal.short.gy/astross2
+#EXTINF:-1 tvg-id="Astro.Grandstand.my" tvg-logo="https://i.imgur.com/u92HNWn.png" group-title="THỂ THAO QUỐC TẾ", Astro Grandstand HD
+https://7pal.short.gy/astross3
+#EXTINF:-1 tvg-id="Astro.Football.my" tvg-logo="https://i.imgur.com/ixUEirO.png" group-title="THỂ THAO QUỐC TẾ", Astro Football HD
+https://7pal.short.gy/astross4
+#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://i.imgur.com/a7ZwpAe.png" group-title="THỂ THAO QUỐC TẾ", USA NetWork HD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="THỂ THAO QUỐC TẾ", TNT Sports 1 HD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="THỂ THAO QUỐC TẾ", TNT Sports 2 HD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="THỂ THAO QUỐC TẾ", TNT Sports 3 HD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="THỂ THAO QUỐC TẾ", TNT Sports 4 HD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Main Event HD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/CMChNM4.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports PremierLeague HD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/V5FbXRm.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Football HD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/mssdWvm.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports F1 HD
+https://7pal.short.gy/ssportsf1
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Tennis HD
+https://7pal.short.gy/ssportstn
+#EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports+ HD
+https://7pal.short.gy/ssportplus
+#EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://i.imgur.com/ZXq4kGB.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Criket HD
+https://7pal.short.gy/ssportscrk
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/RKUHQi8.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Golf- HD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/buUigAI.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports News-HD
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
-https://rg.hducanh.site/ssportf1
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skyf1" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/blta9409abe5001a140/6400bce3ec12cd34d006003f/Sky_Sports_F1_UHD_PRIMARY_RGB.png",Sky Sport F1 UHD
-https://rg.hducanh.site/Skysportf1
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skypl" tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sport Premier League
-https://rg.hducanh.site/sspl
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
-https://rg.hducanh.site/ssmix
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="skytennis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/1200px-Sky_Sport_Tennis.svg.png",Sky Sport Tennis
-https://rg.hducanh.site/sstennis
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="spd" tvg-logo="https://gbcomcdn.com/uploads/production/5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png",Sportdigital
-https://rg.hducanh.site/sportdgt
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport
-https://rg.hducanh.site/canalsp
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1 4Mbps for 4G
-https://rg.hducanh.site/tntsp1
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2 4Mbps for 4G
-https://rg.hducanh.site/tntsp2
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3 4Mbps for 4G
-https://rg.hducanh.site/tntsp3
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4 4Mbps for 4G
-https://rg.hducanh.site/tntsp4
-#EXTINF:-1 group-title="THỂ THAO QUỐC TẾ" tvg-id="tnt5" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tntsp5.png",TNT Sports 5 4Mbps for 4G
-https://rg.hducanh.site/tntsp5
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://i.imgur.com/i1yzHZj.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Action-HD
+https://7pal.short.gy/ssportsat
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-logo="https://pixvid.org/images/2025/01/23/ssports-bo.png" group-title="THỂ THAO QUỐC TẾ", Sky Sports Box Office
+https://7pal.short.gy/ssportsbo
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport1 NZ HD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport2 NZ HD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport3 NZ HD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport4 NZ HD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport5 NZ HD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport6 NZ HD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport7 NZ HD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="THỂ THAO QUỐC TẾ", Sky Sport Premier League HD
+https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://pixvid.org/images/2025/01/31/Fox501.png" group-title="THỂ THAO QUỐC TẾ", Fox Sports 501
 https://7pal.short.gy/fox501au
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/7G0lOta.png" group-title="THỂ THAO QUỐC TẾ", Fox Sports 502
@@ -2315,7 +2222,7 @@ https://7pal.short.gy/nflnw
 https://7pal.short.gy/nflredz
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg" group-title="THỂ THAO QUỐC TẾ", ESPN 
 https://7pal.short.gy/espnus
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="THỂ THAO QUỐC TẾ", ESPN2 
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://logowik.com/content/uploads/images/espn24510.jpg" group-title="THỂ THAO QUỐC TẾ" ESPN2 
 https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://i.imgur.com/Nq4lPP4.png" group-title="THỂ THAO QUỐC TẾ", WWE Network
 https://7pal.short.gy/wwenw
@@ -2333,27 +2240,32 @@ https://7pal.short.gy/tennisc
 https://7pal.short.gy/secnw
 #EXTINF:-1 tvg-id="YES.Network.us" tvg-logo="https://i.imgur.com/TNICRph.png" group-title="THỂ THAO QUỐC TẾ", YES Network
 https://7pal.short.gy/yesnw
-#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="THỂ THAO QUỐC TẾ", PremierSports1-FHD
+#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="THỂ THAO QUỐC TẾ",FS 1
+https://7pal.short.gy/fs1us
+#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="THỂ THAO QUỐC TẾ", FS 2
+https://7pal.short.gy/fs2us
+#EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/1Ob8v6K.png" group-title="THỂ THAO QUỐC TẾ", PremierSports1-HD
 https://7pal.short.gy/prsport1
-#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="THỂ THAO QUỐC TẾ", PremierSports2-FHD
+#EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/IwezEnz.png" group-title="THỂ THAO QUỐC TẾ", PremierSports2-HD
 https://7pal.short.gy/prsport2
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Premier_League-FHD
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Premier_League-HD
 https://7pal.short.gy/spersppl
-#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Football-FHD
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Football-HD
 https://7pal.short.gy/sperspfb
-#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Laliga-FHD
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Laliga-HD
 https://7pal.short.gy/sperspllg
-#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="THỂ THAO QUỐC TẾ", Supersport_PSL-FHD
+#EXTINF:-1 tvg-id="PSL.za" tvg-logo="https://images.supersport.com/media/o1qmay0z/psl-1.png" group-title="THỂ THAO QUỐC TẾ", Supersport_PSL-HD
 https://7pal.short.gy/spersppsl
-#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Motosport-FHD
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-logo="https://i.imgur.com/WpL99ea.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Motosport-HD
 https://7pal.short.gy/sperspmts
-#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Action-FHD
+#EXTINF:-1 tvg-id="ACTION.za" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Action-HD
 https://7pal.short.gy/sperspat
-#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Rugby-FHD
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Rugby-HD
 https://7pal.short.gy/spersprb
-#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="THỂ THAO QUỐC TẾ", Supersport_Golf-FHD
+#EXTINF:-1 tvg-id="GOLF.za" tvg-logo="https://i.imgur.com/YtTDeWW.jpg" group-title="THỂ THAO QUỐC TẾ", Supersport_Golf-HD
 https://7pal.short.gy/sperspgf
-#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Tennis-FHD
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="hhttps://i.imgur.com/SfYpvJj.png" group-title="THỂ THAO QUỐC TẾ", Supersport_Tennis-HD
 https://7pal.short.gy/spersptns
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="THỂ THAO QUỐC TẾ",Ziggo Sport FHD
-https://7pal.short.gy/zigosfhd
+#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/jVI5bge.png" group-title="THỂ THAO QUỐC TẾ",Ziggo Sport HD
+https://7pal.short.gy/zigosHD
+
