@@ -452,9 +452,10 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
-http://49.0.64.96:8007/ABC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
 #EXTINF:-1 tvg-id="" group-title="Quốc tế" tvg-logo="https://cia.lk/wp-content/uploads/2021/09/logo_aje_social.png", Al Jazeera English
-http://sv.cvtv.xyz:81/aj?token=live
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png",Bloomberg
 https://tv.iill.top/4gtv/4gtv-live059
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
@@ -506,8 +507,6 @@ https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://media.glassdoor.com/sqll/1026196/telesur-squarelogo-1584646341590.png", Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/200px-Rai_Italia_-_Logo_2017.svg.png" tvg-id="RaiItaliaAsia.it",RAI Italia Asia
-http://49.0.64.96:8007/RAI_Asia
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2880px-Das_Erste_2014.svg.png", Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 tvg-id="RTNews.ru" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710", Russia Today
@@ -523,8 +522,6 @@ https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd0
 https://streaming.skynetconnect.online/live/213.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ International
 https://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
-#EXTINF:-1 group-title="Quốc tế" catchup-days="5" catchup-type="flussMOV c" tvg-logo="http://play.wisp.cat/logos/1560.png" tvg-id="1plus1",1+1 International
-http://88.218.242.235:82/0195/index.m3u8?token=k8M5h1RyLb
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLC:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -603,13 +600,11 @@ https://judy.diver.eu.org/websuper265.php?id=JSTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
 https://judy.diver.eu.org/websuper265.php?id=GBTV
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="浙江電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
 https://judy.diver.eu.org/websuper265.php?id=ZJTV
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1816,51 +1811,6 @@ http://43.252.18.195:5080/live/streams/mytv.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="MRTV" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTVNEWS" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
-https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtvnrc" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
-https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtvschannel5" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
-https://lb-as.cdn-perfprod.com/live/arkasar_tv
-#EXTINF:-1 tvg-id="channel_mrtv_farmers" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
-https://lb-as.cdn-perfprod.com/channel_mrtv
-#EXTINF:-1 tvg-id="mrtventertainment" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Entertainment
-https://lb-as.cdn-perfprod.com/mrtvschannel6
-#EXTINF:-1 tvg-id="mitv" group-title="Miến Điện" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
-https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="mntv" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtv4" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-id="mrtv4hd" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
-https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1 tvg-id="5plus" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="channel7" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="channelk" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="dvbmyanmar" group-title="Miến Điện" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
-https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-id="mwd" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD
-http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-id="mwd_variety" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="Miến Điện",MWD Variety
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="mwd_family" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="Miến Điện",MWD Family
-http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-id="mwd_shopping" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="Miến Điện",MWD Shopping
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-id="mwd_document" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="Miến Điện",MWD Documentary
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD Movies
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD Series
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-
---------------------------------------------------------------------------------
-
 #EXTINF:2 group-title="Sing" aktv-server-group="AKTV" tvg-id="channel5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mediacorp_Channel_5_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 5 HD
 http://cdn6.163189.xyz/163189/ch5
 #EXTINF:3 group-title="Sing" aktv-server-group="AKTV" tvg-id="channel8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Mediacorp_Channel_8_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 8 HD
@@ -2074,8 +2024,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=JakTV
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Kênh 4K",HanoiTV2 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://truyenhinh.click/
-https://xem.TruyenHinh.Click/BoSung/hanoi2/TruyenHinh.Click
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://xem.hoiquan.Click/NguonOnliveTV/hanoi2/ToChaThangVThanh
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Kênh 4K",TVB Jade UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
