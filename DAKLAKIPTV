@@ -1243,68 +1243,71 @@ http://lb.wisp.cat/lb0/Super_plus_HD_UA/mpegts?token=rfroGNs04A
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 综合 HD" group-title="央视频道",CCTV-1 综合 HD
-https://smart.946985.qzz.io/Smart.php?id=cctv1
-#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 财经" group-title="央视频道",CCTV-2 财经
-https://smart.946985.qzz.io/Smart.php?id=cctv2
-#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3 综艺 HD" group-title="央视频道",CCTV-3 综艺 HD
+#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="中国",CCTV-1 综合
+https://cdn.946985.qzz.io/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="中国",CCTV-2 财经
+https://cdn3.946985.qzz.io/live/cctv2/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="中国",CCTV-3 综艺
 https://smart.946985.qzz.io/Smart.php?id=cctv3
-#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4 中文国际" group-title="央视频道",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
+https://cdn3.946985.qzz.io/live/cctv4/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
 https://smart.946985.qzz.io/Smart.php?id=cctv4
-#EXTINF:-1 tvg-id="Cctv4" tvg-name="CCTV4 新闻台" group-title="央视频道",CCTV4 新闻台
-https://smart.946985.qzz.io/Smart.php?id=Cctv4
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 体育频道" group-title="央视频道",CCTV-5 体育频道
+#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="中国",CCTV-5 体育
 https://smart.946985.qzz.io/Smart.php?id=cctv5
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 体育赛事 HD" group-title="央视频道",CCTV-5+ 体育赛事 HD
-https://smart.946985.qzz.io/Smart.php?id=cctv5plus
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6" group-title="央视频道",CCTV-6
+#EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中国",CCTV-6 电影
 https://smart.946985.qzz.io/Smart.php?id=cctv6
-#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7 军事农业" group-title="央视频道",CCTV-7 军事农业
+#EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="中国",CCTV-7 国防军事
 https://smart.946985.qzz.io/Smart.php?id=cctv7
-#EXTINF:-1 tvg-id="cctv8hd" tvg-name="CCTV-8 电视剧 HD" group-title="央视频道",CCTV-8 电视剧 HD
+#EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="中国",CCTV-8 电视剧
 https://smart.946985.qzz.io/Smart.php?id=cctv8hd
-#EXTINF:-1 tvg-id="cctv9hd" tvg-name="CCTV-9 记录 HD" group-title="央视频道",CCTV-9 记录 HD
-https://smart.946985.qzz.io/Smart.php?id=cctv9hd
-#EXTINF:-1 tvg-id="cctv10hd" tvg-name="CCTV-10 科教 HD" group-title="央视频道",CCTV-10 科教 HD
+#EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="中国",CCTV-9 记录
+https://cdn3.946985.qzz.io/live/cctv9/stream.m3u8
+#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="中国",CCTV-10 科教
 https://smart.946985.qzz.io/Smart.php?id=cctv10hd
-#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11 戏曲" group-title="央视频道",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="中国",CCTV-11 戏曲
 https://smart.946985.qzz.io/Smart.php?id=cctv11
-#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12 社会与法" group-title="央视频道",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="中国",CCTV-12 社会与法
 https://smart.946985.qzz.io/Smart.php?id=cctv12
-#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新闻频道" group-title="央视频道",CCTV-13 新闻频道
+#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
 https://smart.946985.qzz.io/Smart.php?id=cctv13
-#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14 少儿" group-title="央视频道",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="中国",CCTV-14 少儿
 https://smart.946985.qzz.io/Smart.php?id=cctv14
-#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15 音乐" group-title="央视频道",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="中国",CCTV-15 音乐
 https://smart.946985.qzz.io/Smart.php?id=cctv15
-
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
+https://smart.946985.qzz.io/Smart.php?id=cctv16
+#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="中国",CCTV-17 农业农村
+https://smart.946985.qzz.io/Smart.php?id=cctv17
+#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
+https://smart.946985.qzz.io/Smart.php?id=cctv5plus
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="中国",湖南卫视
 https://smart.946985.qzz.io/Smart.php?id=hunan_twn
-#EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="中国",浙江卫视
 https://smart.946985.qzz.io/Smart.php?id=zhejiang_twn
-#EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="中国",江苏卫视
 https://smart.946985.qzz.io/Smart.php?id=jiangsu_twn
-#EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-https://smart.946985.qzz.io/Smart.php?id=shenzhen
-#EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" group-title="卫视频道",福建东南卫视
-https://smart.946985.qzz.io/Smart.php?id=fujian
-#EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" group-title="卫视频道",广东南方卫视
-https://smart.946985.qzz.io/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-https://smart.946985.qzz.io/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-https://smart.946985.qzz.io/Smart.php?id=beijing
-#EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" group-title="卫视频道",珠江台
-https://smart.946985.qzz.io/Smart.php?id=zhujiang
-#EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-https://smart.946985.qzz.io/Smart.php?id=guangxi
-#EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-https://smart.946985.qzz.io/Smart.php?id=hubei
-#EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-https://smart.946985.qzz.io/Smart.php?id=sichuan_twn
-#EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="中国",东方卫视
 https://smart.946985.qzz.io/Smart.php?id=dongfangweishi_twn
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="卫视频道",CGTN
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="中国",北京卫视
+https://smart.946985.qzz.io/Smart.php?id=beijing
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="中国",深圳卫视
+https://smart.946985.qzz.io/Smart.php?id=shenzhen
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="中国",广东卫视
+https://smart.946985.qzz.io/Smart.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="中国",大湾区卫视
+https://smart.946985.qzz.io/Smart.php?id=nanfang_twn
+#EXTINF:-1 tvg-id="珠江台" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="中国",珠江台
+https://smart.946985.qzz.io/Smart.php?id=zhujiang
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="中国",东南卫视
+https://smart.946985.qzz.io/Smart.php?id=fujian
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="中国",广西卫视
+https://smart.946985.qzz.io/Smart.php?id=guangxi
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="中国",湖北卫视
+https://smart.946985.qzz.io/Smart.php?id=hubei
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="中国",四川卫视
+https://smart.946985.qzz.io/Smart.php?id=sichuan_twn
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="中国",CGTN
 https://smart.946985.qzz.io/Smart.php?id=CGTN
 
 --------------------------------------------------------------------------------
