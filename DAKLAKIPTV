@@ -1,9 +1,4 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
-#EXTM3U url-tvg="http://cvtv.xyz/xmltv"
-#EXTM3U url-tvg="https://iptvx.one/EPG"interlace=0
-#EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/tree/main/epg"che=500interlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0che=500interlace=1 aspect-ratio=16:9 m3uautoload=3
-#EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 
 --------------------------------------------------------------------------------
 
