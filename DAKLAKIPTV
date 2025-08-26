@@ -1326,7 +1326,12 @@ http://iptv.4666888.xyz/iptv.php?id=20077
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
 https://smart.946985.qzz.io/Smart.php?id=hoycaijing_twn
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
+https://judy.diver.eu.org/websuper265.php?id=J
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Quảng Đông
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
@@ -1348,8 +1353,6 @@ http://60.246.171.122:8889/bysid/99
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="Hong Kong và Macao",Now财经
 http://iptv.4666888.xyz/iptv.php?id=20085
-#EXTINF:-1 tvg-id="Now直播" tvg-name="Now直播" tvg-logo="" group-title="Hong Kong và Macao",Now直播
-http://iptv.4666888.xyz/iptv.php?id=20093
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao", TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao", TDM Canal Macau
