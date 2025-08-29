@@ -381,7 +381,7 @@ http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-96 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="HBO",Cinemax
-https://smart.946985.qzz.io/Smart.php?id=Cinemax
+https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 
 --------------------------------------------------------------------------------
 
@@ -409,7 +409,7 @@ https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" group-logo="https://cdn.hqth.me/logo/category/film.png" tvg-logo="https://linear-poster.astro.com.my/prod/poster/ivp_default_10000076_IVP_LAND_586x330.jpg", Celestial Movies
-https://smart.946985.qzz.io/Smart.php?id=Celestial
+https://smart.pendy.dpdns.org/Smart.php?id=Celestial
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700", Celestial Classic Movies
 http://jxiptv.dpdns.org/stream/tvb/null-11/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -419,9 +419,9 @@ http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" group-title="Phim truyện" group-logo="https://static.wikia.nocookie.net/logos/images/5/53/TVB_Classic_International.png/revision/latest/scale-to-width-down/340?cb=20230714155414&path-prefix=vi", TVB Classic Movies
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Phim truyện" tvg-logo="https://i.imgur.com/D2qNVZ7.png",Star Movies
-https://smart.946985.qzz.io/Smart.php?id=starmovies_raj
+https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Phim truyện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png",Thrill
-https://smart.946985.qzz.io/Smart.php?id=Thrill
+https://smart.pendy.dpdns.org/Smart.php?id=Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="xingkong" tvg-name="XINGKONG" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="Phim truyện",XINGKONG
@@ -626,7 +626,7 @@ https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 #EXTINF:-1 tvg-id="bbcearth" group-title="Khám phá" group-logo="https://cdn.hqth.me/logo/category/discovery.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
-https://smart.946985.qzz.io/Smart.php?id=bbcearth_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Khám phá",Discovery Channel 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -659,9 +659,9 @@ https://i.mjh.nz/SamsungTVPlus/CHAK3504510A.m3u8
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
-https://smart.946985.qzz.io/Smart.php?id=bbclifestyle_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2880px-Logo_tvN.svg.png" group-title="Giải trí",tvN
-https://smart.946985.qzz.io/Smart.php?id=TVN
+https://smart.pendy.dpdns.org/Smart.php?id=TVN
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Giải trí",tvN Premium HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -669,9 +669,9 @@ https://smart.946985.qzz.io/Smart.php?id=TVN
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-9-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", ONE
-https://smart.946985.qzz.io/Smart.php?id=One
+https://smart.pendy.dpdns.org/Smart.php?id=One
 #EXTINF:-1 tvg-id="dmax" group-title="Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", Kplus
-https://smart.946985.qzz.io/Smart.php?id=Kplus
+https://smart.pendy.dpdns.org/Smart.php?id=Kplus
 #EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Giải trí",KIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1248,67 +1248,67 @@ https://cdn.946985.qzz.io/live/cctv1/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="中国",CCTV-2 财经
 https://cdn3.946985.qzz.io/live/cctv2/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="中国",CCTV-3 综艺
-https://smart.946985.qzz.io/Smart.php?id=cctv3
+https://smart.pendy.dpdns.org/Smart.php?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
 https://cdn3.946985.qzz.io/live/cctv4/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-https://smart.946985.qzz.io/Smart.php?id=cctv4
+https://smart.pendy.dpdns.org/Smart.php?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="中国",CCTV-5 体育
-https://smart.946985.qzz.io/Smart.php?id=cctv5
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5
 #EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中国",CCTV-6 电影
-https://smart.946985.qzz.io/Smart.php?id=cctv6
+https://smart.pendy.dpdns.org/Smart.php?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="中国",CCTV-7 国防军事
-https://smart.946985.qzz.io/Smart.php?id=cctv7
+https://smart.pendy.dpdns.org/Smart.php?id=cctv7
 #EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="中国",CCTV-8 电视剧
-https://smart.946985.qzz.io/Smart.php?id=cctv8hd
+https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
 #EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="中国",CCTV-9 记录
 https://cdn3.946985.qzz.io/live/cctv9/stream.m3u8
 #EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="中国",CCTV-10 科教
-https://smart.946985.qzz.io/Smart.php?id=cctv10hd
+https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
 #EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="中国",CCTV-11 戏曲
-https://smart.946985.qzz.io/Smart.php?id=cctv11
+https://smart.pendy.dpdns.org/Smart.php?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="中国",CCTV-12 社会与法
-https://smart.946985.qzz.io/Smart.php?id=cctv12
+https://smart.pendy.dpdns.org/Smart.php?id=cctv12
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
-https://smart.946985.qzz.io/Smart.php?id=cctv13
+https://smart.pendy.dpdns.org/Smart.php?id=cctv13
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="中国",CCTV-14 少儿
-https://smart.946985.qzz.io/Smart.php?id=cctv14
+https://smart.pendy.dpdns.org/Smart.php?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="中国",CCTV-15 音乐
-https://smart.946985.qzz.io/Smart.php?id=cctv15
+https://smart.pendy.dpdns.org/Smart.php?id=cctv15
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
-https://smart.946985.qzz.io/Smart.php?id=cctv16
+https://smart.pendy.dpdns.org/Smart.php?id=cctv16
 #EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="中国",CCTV-17 农业农村
-https://smart.946985.qzz.io/Smart.php?id=cctv17
+https://smart.pendy.dpdns.org/Smart.php?id=cctv17
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
-https://smart.946985.qzz.io/Smart.php?id=cctv5plus
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="中国",湖南卫视
-https://smart.946985.qzz.io/Smart.php?id=hunan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="中国",浙江卫视
-https://smart.946985.qzz.io/Smart.php?id=zhejiang_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="中国",江苏卫视
-https://smart.946985.qzz.io/Smart.php?id=jiangsu_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="中国",东方卫视
-https://smart.946985.qzz.io/Smart.php?id=dongfangweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="中国",北京卫视
-https://smart.946985.qzz.io/Smart.php?id=beijing
+https://smart.pendy.dpdns.org/Smart.php?id=beijing
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="中国",深圳卫视
-https://smart.946985.qzz.io/Smart.php?id=shenzhen
+https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="中国",广东卫视
-https://smart.946985.qzz.io/Smart.php?id=guangdongweishi_twn
+https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="中国",大湾区卫视
-https://smart.946985.qzz.io/Smart.php?id=nanfang_twn
+https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
 #EXTINF:-1 tvg-id="珠江台" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="中国",珠江台
-https://smart.946985.qzz.io/Smart.php?id=zhujiang
+https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="中国",东南卫视
-https://smart.946985.qzz.io/Smart.php?id=fujian
+https://smart.pendy.dpdns.org/Smart.php?id=fujian
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="中国",广西卫视
-https://smart.946985.qzz.io/Smart.php?id=guangxi
+https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="中国",湖北卫视
-https://smart.946985.qzz.io/Smart.php?id=hubei
+https://smart.pendy.dpdns.org/Smart.php?id=hubei
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="中国",四川卫视
-https://smart.946985.qzz.io/Smart.php?id=sichuan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="中国",CGTN
-https://smart.946985.qzz.io/Smart.php?id=CGTN
+https://smart.pendy.dpdns.org/Smart.php?id=CGTN
 
 --------------------------------------------------------------------------------
 
@@ -1323,14 +1323,12 @@ http://iptv.4666888.xyz/iptv.php?id=20077
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
-https://smart.946985.qzz.io/Smart.php?id=hoycaijing_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
 https://judy.diver.eu.org/websuper265.php?id=J
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
-https://mytv.946985.qzz.io/hls/fct/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Quảng Đông
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
@@ -1340,7 +1338,7 @@ http://110.235.82.60:8001/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://110.235.82.60:8001/bysid/2
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl Cable
-https://o12.946985.qzz.io/hls/mzt/playlist.m3u8
+https://cdn.946985.qzz.io/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
@@ -1367,151 +1365,151 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 #EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Đài Loan",TVBS Asia
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS News 新闻台
-https://smart.946985.qzz.io/Smart.php?id=tvbs_n
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS 欢乐台 （备份）
-https://smart.946985.qzz.io/Smart.php?id=tvbshuanle_twn
+https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS HD
-https://smart.946985.qzz.io/Smart.php?id=tvbs
+https://smart.pendy.dpdns.org/Smart.php?id=tvbs
 #EXTINF:-1,tvg-id="中天新闻 HD" tvg-name="中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="Đài Loan",中天新闻 HD
-https://smart.946985.qzz.io/Smart.php?id=ctinews
+https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF:-1,tvg-id="中天娱乐 CTI Entertaiment" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/中天娱乐CTIENTERTAIMENT.png" group-title="Đài Loan",中天娱乐 CTI Entertaiment
-https://smart.946985.qzz.io/Smart.php?id=ctient
+https://smart.pendy.dpdns.org/Smart.php?id=ctient
 #EXTINF:-1,tvg-id="中天综合 CTI Metro" tvg-name="中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/中天综合CTIMETRO.png" group-title="Đài Loan",中天综合 CTI Metro
-https://smart.946985.qzz.io/Smart.php?id=ctizhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
 #EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="Đài Loan",中天亚洲台
-https://smart.946985.qzz.io/Smart.php?id=ctiasia_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视 TTV HD
-https://smart.946985.qzz.io/Smart.php?id=ttv_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视新闻台
-https://smart.946985.qzz.io/Smart.php?id=ttvnews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视综合台
-https://smart.946985.qzz.io/Smart.php?id=ttvzhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视 HD
-https://smart.946985.qzz.io/Smart.php?id=zhongshihd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视新闻台
-https://smart.946985.qzz.io/Smart.php?id=zhongshinews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视 HD
-https://smart.946985.qzz.io/Smart.php?id=ftvhd_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",民视新闻台 FTV News
-https://smart.946985.qzz.io/Smart.php?id=ftvnew_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视台湾台
-https://smart.946985.qzz.io/Smart.php?id=ftvtaiwan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Đài Loan",华视 CTS HD
-https://smart.946985.qzz.io/Smart.php?id=ctshd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视 CTV
-https://smart.946985.qzz.io/Smart.php?id=ctv_taiwan
+https://smart.pendy.dpdns.org/Smart.php?id=ctv_taiwan
 #EXTINF:-1,tvg-id="八大第一 GTV First" tvg-name="八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/八大第一GTVFIRST.png" group-title="Đài Loan",八大第一 GTV First
-https://smart.946985.qzz.io/Smart.php?id=badafirst
+https://smart.pendy.dpdns.org/Smart.php?id=badafirst
 #EXTINF:-1,tvg-id="八大综合 GTV Metro" tvg-name="八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/八大综合GTVMETRO.png" group-title="Đài Loan",八大综合 GTV Metro
-https://smart.946985.qzz.io/Smart.php?id=badazhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 #EXTINF:-1,tvg-id="八大戏剧 GTV Drama" tvg-name="八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/八大戏剧GTVDRAMA.png" group-title="Đài Loan",八大戏剧 GTV Drama
-https://smart.946985.qzz.io/Smart.php?id=badadrama
+https://smart.pendy.dpdns.org/Smart.php?id=badadrama
 #EXTINF:-1,tvg-id="八大娱乐 GTV Entertainment" tvg-name="八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/八大娱乐GTVENTERTAINMENT.png" group-title="Đài Loan",八大娱乐 GTV Entertainment
-https://smart.946985.qzz.io/Smart.php?id=badaentertain
+https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
 #EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOODMOVIES.png" group-title="Đài Loan",Hollywood Movies
-https://smart.946985.qzz.io/Smart.php?id=hollywoodmovies_twn
+https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
 #EXTINF:-1,tvg-id="三立台湾 Sanli Taiwan" tvg-name="三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/三立台湾SANLITAIWAN.png" group-title="Đài Loan",三立台湾 Sanli Taiwan
-https://smart.946985.qzz.io/Smart.php?id=sanlitaiwan
+https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 #EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="Đài Loan",三立戏剧台
-https://smart.946985.qzz.io/Smart.php?id=sanlixiju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 #EXTINF:-1,tvg-id="三立综合 Sanli Metro" tvg-name="三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/三立综合SANLIMETRO.png" group-title="Đài Loan",三立综合 Sanli Metro
-https://smart.946985.qzz.io/Smart.php?id=sanlizhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 #EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Đài Loan",三立都会台
-https://smart.946985.qzz.io/Smart.php?id=sanlidouhui
+https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
 #EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",东森新闻 ETTV News
-https://smart.946985.qzz.io/Smart.php?id=ettvnews
+https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
 #EXTINF:-1,tvg-id="东森综合 ETTV Metro" tvg-name="东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/东森综合ETTVMETRO.png" group-title="Đài Loan",东森综合 ETTV Metro
-https://smart.946985.qzz.io/Smart.php?id=ettvzhonghe
+https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 #EXTINF:-1,tvg-id="东森戏剧 ETTV Drama" tvg-name="东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/东森戏剧ETTVDRAMA.png" group-title="Đài Loan",东森戏剧 ETTV Drama
-https://smart.946985.qzz.io/Smart.php?id=ettvdrama
+https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Đài Loan",东森超视
-https://smart.946985.qzz.io/Smart.php?id=ettvsuper
+https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 #EXTINF:-1,tvg-id="东森财经新闻 ETTV Business" tvg-name="东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻ETTVBUSINESS.png" group-title="Đài Loan",东森财经新闻 ETTV Business
-https://smart.946985.qzz.io/Smart.php?id=ettvcaijing_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
 #EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Đài Loan",寰宇财经
-https://smart.946985.qzz.io/Smart.php?id=huanyutaiwan_twn
+https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
 #EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Đài Loan",寰宇新闻台
-https://smart.946985.qzz.io/Smart.php?id=huanyuxinwen_twn
+https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视2
-https://smart.946985.qzz.io/Smart.php?id=ctv2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
 #EXTINF:-1,tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png" group-title="Đài Loan",大爱1台
-https://smart.946985.qzz.io/Smart.php?id=daai_twn
+https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
 #EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Đài Loan",非凡新闻台
-https://smart.946985.qzz.io/Smart.php?id=feifannews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
 #EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Đài Loan",龙华戏剧 Lunghua Drama
-https://smart.946985.qzz.io/Smart.php?id=lunghuaxiju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 #EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Đài Loan",龙华经典台
-https://smart.946985.qzz.io/Smart.php?id=lunghuajingdian_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 #EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="Đài Loan",龙华偶像
-https://smart.946985.qzz.io/Smart.php?id=lunghuaidol_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
 #EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Đài Loan",AXN Taiwan
-https://smart.946985.qzz.io/Smart.php?id=axn_twn
+https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
 #EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Đài Loan",靖天国际台
-https://smart.946985.qzz.io/Smart.php?id=jingtianintl_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
 #EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="Đài Loan",年代新闻
-https://smart.946985.qzz.io/Smart.php?id=niandainews_twn
+https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
 #EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Đài Loan",纬来日本台
-https://smart.946985.qzz.io/Smart.php?id=videolandjapan
+https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Đài Loan",纬来电影台
-https://smart.946985.qzz.io/Smart.php?id=videolandmovie
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Đài Loan",纬来体育台
-https://smart.946985.qzz.io/Smart.php?id=videolandsport
+https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 #EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="Đài Loan",纬来综合台
-https://smart.946985.qzz.io/Smart.php?id=videolandzonghe
+https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
 #EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" group-title="Đài Loan",纬来育乐
-https://smart.946985.qzz.io/Smart.php?id=videolandyule
+https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 #EXTINF:-1,tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="https://epg.112114.xyz/logo/纬来精彩.png" group-title="Đài Loan",纬来精彩
-https://smart.946985.qzz.io/Smart.php?id=videolandspecial_twn
+https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
 #EXTINF:-1,tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="Đài Loan",好消息 2
-https://smart.946985.qzz.io/Smart.php?id=good2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
 #EXTINF:-1,tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" group-title="Đài Loan",大爱2台
-https://smart.946985.qzz.io/Smart.php?id=daai2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
 #EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="Đài Loan",亚洲美食
-https://smart.946985.qzz.io/Smart.php?id=afc_twn
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
 #EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="Đài Loan",美食星球
-https://smart.946985.qzz.io/Smart.php?id=foodplanet_twn
+https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
 #EXTINF:-1,tvg-id="东森电影 ETTV Movie" tvg-name="东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/东森电影ETTVMOVIE.png" group-title="Đài Loan",东森电影 ETTV Movie
-https://smart.946985.qzz.io/Smart.php?id=ettvmovie
+https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 #EXTINF:-1,tvg-id="博斯运动 1" tvg-name="博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="Đài Loan",博斯运动 1
-https://smart.946985.qzz.io/Smart.php?id=bosisport1_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
 #EXTINF:-1,tvg-id="博斯运动 2" tvg-name="博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="Đài Loan",博斯运动 2
-https://smart.946985.qzz.io/Smart.php?id=bosisport2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
 #EXTINF:-1,tvg-id="博斯高球2 HD" tvg-name="博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/博斯高球2.png" group-title="Đài Loan",博斯高球2 HD
-https://smart.946985.qzz.io/Smart.php?id=bosigolf2_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
 #EXTINF:-1,tvg-id="博斯网球 HD" tvg-name="博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" group-title="Đài Loan",博斯网球 HD
-https://smart.946985.qzz.io/Smart.php?id=bositennis_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 #EXTINF:-1,tvg-id="东森洋片 ETTV Western" tvg-name="东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/东森洋片ETTVWESTERN.png" group-title="Đài Loan",东森洋片 ETTV Western
-https://smart.946985.qzz.io/Smart.php?id=ettvwestern
+https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
 #EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="Đài Loan",龙华洋片 Lunghua Western
-https://smart.946985.qzz.io/Smart.php?id=lunghuawestern_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 #EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" group-title="Đài Loan",博斯无限
-https://smart.946985.qzz.io/Smart.php?id=bosiunlimited_twn
+https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
 #EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Đài Loan",MTV Live
-https://smart.946985.qzz.io/Smart.php?id=mtvhd_twn
+https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
 #EXTINF:-1,tvg-id="龙详时代" tvg-name="龙详时代" tvg-logo="https://epg.112114.xyz/logo/龙详时代.png" group-title="Đài Loan",龙详时代
-https://smart.946985.qzz.io/Smart.php?id=lungxiangtime_twn
+https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 #EXTINF:-1,tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" group-title="Đài Loan",EYETV 旅游
-https://smart.946985.qzz.io/Smart.php?id=eyetvtravel_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="Đài Loan",靖天卡通台
-https://smart.946985.qzz.io/Smart.php?id=jingtiancartoon_twn
+https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
 #EXTINF:-1,tvg-id="EYETV 戏剧" tvg-name="EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" group-title="Đài Loan",EYETV 戏剧
-https://smart.946985.qzz.io/Smart.php?id=eyetvxiju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
 #EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Đài Loan",卫视中文台 Star Movies Chinese
-https://smart.946985.qzz.io/Smart.php?id=weishichinese_twn
+https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
 #EXTINF:-1,tvg-id="东森幼幼 Yoyo TV" tvg-name="东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/东森幼幼YOYOTV.png" group-title="Đài Loan",东森幼幼 Yoyo TV
-https://smart.946985.qzz.io/Smart.php?id=yoyo_twn
+https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
 #EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Đài Loan",卫视电影台
-https://smart.946985.qzz.io/Smart.php?id=weishimovie_twn
+https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
 #EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="Đài Loan",美亚电影
-https://smart.946985.qzz.io/Smart.php?id=meiyamovie_twn
+https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
 #EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Đài Loan",爱尔达影剧台
-https://smart.946985.qzz.io/Smart.php?id=eltayingju_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 #EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Đài Loan",爱尔达综合台
-https://smart.946985.qzz.io/Smart.php?id=eltazonghe_twn
+https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
 #EXTINF:-1,tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://epg.112114.xyz/logo/星卫电影.png" group-title="Đài Loan",星卫电影
-https://smart.946985.qzz.io/Smart.php?id=xingwei_movie
+https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
 #EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Đài Loan",AFC 亚洲旅游台
-https://smart.946985.qzz.io/Smart.php?id=asiatravel_twn
+https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 
 --------------------------------------------------------------------------------
 
@@ -1830,11 +1828,11 @@ http://cdn6.163189.xyz/163189/ch5
 #EXTINF:3 group-title="Sing" aktv-server-group="AKTV" tvg-id="channel8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Mediacorp_Channel_8_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 8 HD
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="suriahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/250px-Mediacorp_Suria_2023.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Suria
-https://smart.946985.qzz.io/Smart.php?id=Suria
+https://smart.pendy.dpdns.org/Smart.php?id=Suria
 #EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="vasanthamhd" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714408%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=1000&Height=260" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Vasantham
-https://smart.946985.qzz.io/Smart.php?id=Vasantham
+https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
 #EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="cnahd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" provider-type="iptv", CNA (Domestic Feed)
-https://smart.946985.qzz.io/Smart.php?id=Mewatch_cna
+https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
 #EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/d/d5/Mediacorp_Channel_U_2023.svg provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel U HD
 http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="Hub娱家" tvg-name="Hub娱家" tvg-logo="" group-title="Sing",Hub娱家
@@ -1867,7 +1865,7 @@ https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/2880px-RTM_Asean_%282024%29.svg.png",RTM ASEAN
-https://smart.946985.qzz.io/Smart.php?id=Rtmasean
+https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
 https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
@@ -1891,21 +1889,21 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:-1 tvg-id="Astro.Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Astro_Prima_%282024%29.png" group-title="ĐÔNG NAM Á",Astro Prima
-https://smart.946985.qzz.io/Smart.php?id=Prima-
+https://smart.pendy.dpdns.org/Smart.php?id=Prima-
 #EXTINF:-1 tvg-id="Astro.Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png" group-title="ĐÔNG NAM Á",Astro Ria
-https://smart.946985.qzz.io/Smart.php?id=Ria-
+https://smart.pendy.dpdns.org/Smart.php?id=Ria-
 #EXTINF:-1 tvg-id="Astro.Citra" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="ĐÔNG NAM Á",Astro Citra
-https://smart.946985.qzz.io/Smart.php?id=AAcitra
+https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
 #EXTINF:-1 tvg-id="Astro.Oasis" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="ĐÔNG NAM Á",Astro Oasis
-https://smart.946985.qzz.io/Smart.php?id=Oasis
+https://smart.pendy.dpdns.org/Smart.php?id=Oasis
 #EXTINF:-1 tvg-id="Astro.Rania" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="ĐÔNG NAM Á",Astro Rania
-https://smart.946985.qzz.io/Smart.php?id=Rania
+https://smart.pendy.dpdns.org/Smart.php?id=Rania
 #EXTINF:-1 tvg-id="Astro.Aura" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png" group-title="ĐÔNG NAM Á",Astro Aura
-https://smart.946985.qzz.io/Smart.php?id=Aura
+https://smart.pendy.dpdns.org/Smart.php?id=Aura
 #EXTINF:-1 tvg-id="Astro.Vaanavil" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" group-title="ĐÔNG NAM Á",Astro Vaanavil
-https://smart.946985.qzz.io/Smart.php?id=Vaanavil
+https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
 #EXTINF:-1 tvg-id="Astro.Vellithirai" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" group-title="ĐÔNG NAM Á",Astro Vellithirai 
-https://smart.946985.qzz.io/Smart.php?id=Vellithirai
+https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
 #EXTINF:-1 tvg-id="Astro.AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Astro_AEC_%282024%29.png" group-title="ĐÔNG NAM Á",Astro AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
 #EXTINF:-1 tvg-id="Wahlaitoi.Jade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="ĐÔNG NAM Á",Astro Wah Lai Toi
@@ -1915,7 +1913,7 @@ http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="Huahee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png" group-title="ĐÔNG NAM Á",Astro Hua Hee Dai
 http://php.jdshipin.com:8880/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Astro_AOD_%282024%29.png" group-title="ĐÔNG NAM Á",Astro AOD
-https://smart.946985.qzz.io/Smart.php?id=Aodhd
+https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
 #EXTINF:-1 tvg-id="iQiyi" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="ĐÔNG NAM Á",Astro iQiyi
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1  tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="ĐÔNG NAM Á",RTB Sukmaindera
@@ -1989,7 +1987,7 @@ https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TVRISMART" tvg-logo="https://pictr.com/images/2025/01/23/xpbBK2.jpg",TVRI Smart
-https://smart.946985.qzz.io/Smart.php?id=TVRI
+https://smart.pendy.dpdns.org/Smart.php?id=TVRI
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TVRI.id" tvg-logo="https://pictr.com/images/2025/01/23/xpbBK2.jpg",TVRI Nasional
 #KODIPROP:inputstream.adaptive.common_headers=user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:contentlookup=False
@@ -2009,31 +2007,31 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="RCTI" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", RCTI HD
-https://smart.946985.qzz.io/Smart.php?id=Rcti
+https://smart.pendy.dpdns.org/Smart.php?id=Rcti
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="Kompass" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Kompass
-https://smart.946985.qzz.io/Smart.php?id=Kompass
+https://smart.pendy.dpdns.org/Smart.php?id=Kompass
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="indosiarhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Indosiar
-https://smart.946985.qzz.io/Smart.php?id=Indosiar
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="Antvdeophaikenhcongan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", ANTV (KHÔNG PHẢI KÊNH CÔNG AN)
-https://smart.946985.qzz.io/Smart.php?id=Antv
+https://smart.pendy.dpdns.org/Smart.php?id=Antv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Trans7
-https://smart.946985.qzz.io/Smart.php?id=Trans7_eko
+https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="transtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TransTV
-https://smart.946985.qzz.io/Smart.php?id=Transtv
+https://smart.pendy.dpdns.org/Smart.php?id=Transtv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Metro TV
-https://smart.946985.qzz.io/Smart.php?id=metrotv_eko
+https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="metrotv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", MNCTV
-https://smart.946985.qzz.io/Smart.php?id=Mnctv
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="sctvkhongphaikenhhai" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", SCTV (KHÔNG PHẢI KÊNH HÀI ĐẮK LẮK)
-https://smart.946985.qzz.io/Smart.php?id=SCTV
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="tvone" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TVOne
-https://smart.946985.qzz.io/Smart.php?id=Tvone
+https://smart.pendy.dpdns.org/Smart.php?id=Tvone
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", GTV
-https://smart.946985.qzz.io/Smart.php?id=Gtv
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/250px-Rajawali_Televisi.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", RTV
-https://smart.946985.qzz.io/Smart.php?id=Rtv
+https://smart.pendy.dpdns.org/Smart.php?id=Rtv
 #EXTINF:4 group-title="ĐÔNG NAM Á" aktv-server-group="AKTV" tvg-id="JAKTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Logo_Jak_tv_%282005-2009%29.png/revision/latest?cb=20131229082946" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", JakTV
-https://smart.946985.qzz.io/Smart.php?id=JakTV
+https://smart.pendy.dpdns.org/Smart.php?id=JakTV
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Kênh 4K",HanoiTV2 4K
