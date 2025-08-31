@@ -1325,11 +1325,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
 https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-https://judy.diver.eu.org/websuper265.php?id=J
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Quảng Đông
+http://60.246.171.122:8889/bysid/1
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
 http://110.235.82.60:8001/bysid/82
