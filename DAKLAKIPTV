@@ -547,19 +547,16 @@ http://t.061899.xyz/tl/tl.php?id=cctv4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
 https://judy.diver.eu.org/websuper265.php?id=DTV
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
 https://judy.diver.eu.org/websuper265.php?id=YNTV
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
 https://judy.diver.eu.org/websuper265.php?id=AHTV
-
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="北京電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -605,10 +602,8 @@ https://judy.diver.eu.org/websuper265.php?id=ZJTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 https://judy.diver.eu.org/websuper265.php?id=SZTV
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Jade Asia
-https://v2h.946985.qzz.io/live/hlfct/stream.m3u8
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVBI
-https://cdn6.946985.qzz.io/live/tvb1/stream.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Jade International
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6S49S1&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB News International
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-9/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Satellite
@@ -1319,11 +1314,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 76
-http://iptv.4666888.xyz/iptv.php?id=20077
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K1GCbL&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
-https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RArB4M&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
 http://60.246.171.122:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
@@ -1902,15 +1897,15 @@ https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
 #EXTINF:-1 tvg-id="Astro.Vellithirai" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/399_144.png" group-title="ĐÔNG NAM Á",Astro Vellithirai 
 https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
 #EXTINF:-1 tvg-id="Astro.AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Astro_AEC_%282024%29.png" group-title="ĐÔNG NAM Á",Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SZ4ykb&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="Wahlaitoi.Jade" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="ĐÔNG NAM Á",Astro Wah Lai Toi
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 #EXTINF:-1 tvg-id="Quanjua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Astro_QJ_%282024%29.png" group-title="ĐÔNG NAM Á",Astro QJ
-http://php.jdshipin.com:8880/smt.php?id=Quanjia
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=k0Oevi&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="Huahee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png" group-title="ĐÔNG NAM Á",Astro Hua Hee Dai
-http://php.jdshipin.com:8880/smt.php?id=Huahee
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TXKapJ&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Astro_AOD_%282024%29.png" group-title="ĐÔNG NAM Á",Astro AOD
-https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
+ttp://kkk.888.3116598.xyz/api.php?n=HKTV&id=uuncCf&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="iQiyi" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="ĐÔNG NAM Á",Astro iQiyi
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1  tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="ĐÔNG NAM Á",RTB Sukmaindera
