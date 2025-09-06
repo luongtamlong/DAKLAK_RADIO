@@ -603,7 +603,9 @@ https://judy.diver.eu.org/websuper265.php?id=ZJTV
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
 https://judy.diver.eu.org/websuper265.php?id=SZTV
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Jade International
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6S49S1&tk=cl177bPI6scY
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVBI
+https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB News International
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-9/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Satellite
@@ -1238,72 +1240,170 @@ http://lb.wisp.cat/lb0/Super_plus_HD_UA/mpegts?token=rfroGNs04A
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="中国",CCTV-1 综合
-https://cdn.946985.qzz.io/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="中国",CCTV-2 财经
-https://cdn3.946985.qzz.io/live/cctv2/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="中国",CCTV-3 综艺
-https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-https://cdn3.946985.qzz.io/live/cctv4/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="中国",CCTV-4 中文国际
-https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-#EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="中国",CCTV-5 体育
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="中国",CCTV-6 电影
-https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-#EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="中国",CCTV-7 国防军事
-https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-#EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="中国",CCTV-8 电视剧
-https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-#EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="中国",CCTV-9 记录
-https://cdn3.946985.qzz.io/live/cctv9/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="中国",CCTV-10 科教
-https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-#EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="中国",CCTV-11 戏曲
-https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-#EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="中国",CCTV-12 社会与法
-https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-#EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="中国",CCTV-13 新闻
-https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-#EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="中国",CCTV-14 少儿
-https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-#EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="中国",CCTV-15 音乐
-https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-#EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="中国",CCTV-16 奥林匹克
-https://smart.pendy.dpdns.org/Smart.php?id=cctv16
-#EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="中国",CCTV-17 农业农村
-https://smart.pendy.dpdns.org/Smart.php?id=cctv17
-#EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="中国",CCTV-5+ 体育赛事
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="中国",湖南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="中国",浙江卫视
-https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="中国",江苏卫视
-https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="中国",东方卫视
-https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="中国",北京卫视
-https://smart.pendy.dpdns.org/Smart.php?id=beijing
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="中国",深圳卫视
-https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="中国",广东卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="中国",大湾区卫视
-https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
-#EXTINF:-1 tvg-id="珠江台" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="中国",珠江台
-https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="中国",东南卫视
-https://smart.pendy.dpdns.org/Smart.php?id=fujian
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="中国",广西卫视
-https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="中国",湖北卫视
-https://smart.pendy.dpdns.org/Smart.php?id=hubei
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="中国",四川卫视
-https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="中国",CGTN
-https://smart.pendy.dpdns.org/Smart.php?id=CGTN
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="256" tvg-logo="https://livecdn.zbds.org/logo/CCTV1.png" group-title="Trung Quốc", CCTV1
+http://xg.52sw.top/cctv.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="235" tvg-logo="https://livecdn.zbds.org/logo/CCTV2.png" group-title="Trung Quốc", CCTV2
+http://xg.52sw.top/cctv.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="214" tvg-logo="https://livecdn.zbds.org/logo/CCTV3.png" group-title="Trung Quốc", CCTV3
+http://58.57.40.22:9901/tsfile/live/1002_1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="240" tvg-logo="https://livecdn.zbds.org/logo/CCTV4.png" group-title="Trung Quốc", CCTV4
+http://xg.52sw.top/cctv.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="253" tvg-logo="https://livecdn.zbds.org/logo/CCTV5.png" group-title="Trung Quốc", CCTV5
+http://58.57.40.22:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="115" tvg-logo="https://livecdn.zbds.org/logo/CCTV5+.png" group-title="Trung Quốc", CCTV5+
+http://58.57.40.22:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="215" tvg-logo="https://livecdn.zbds.org/logo/CCTV6.png" group-title="Trung Quốc", CCTV6
+http://58.57.40.22:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="220" tvg-logo="https://livecdn.zbds.org/logo/CCTV7.png" group-title="Trung Quốc", CCTV7
+http://xg.52sw.top/cctv.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="206" tvg-logo="https://livecdn.zbds.org/logo/CCTV8.png" group-title="Trung Quốc", CCTV8
+http://58.57.40.22:9901/tsfile/live/1008_1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="218" tvg-logo="https://livecdn.zbds.org/logo/CCTV9.png" group-title="Trung Quốc", CCTV9
+http://xg.52sw.top/cctv.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="221" tvg-logo="https://livecdn.zbds.org/logo/CCTV10.png" group-title="Trung Quốc", CCTV10
+http://xg.52sw.top/cctv.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="202" tvg-logo="https://livecdn.zbds.org/logo/CCTV11.png" group-title="Trung Quốc", CCTV11
+http://58.57.40.22:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="215" tvg-logo="https://livecdn.zbds.org/logo/CCTV12.png" group-title="Trung Quốc", CCTV12
+http://xg.52sw.top/cctv.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="203" tvg-logo="https://livecdn.zbds.org/logo/CCTV13.png" group-title="Trung Quốc", CCTV13
+http://xg.52sw.top/cctv.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="218" tvg-logo="https://livecdn.zbds.org/logo/CCTV14.png" group-title="Trung Quốc", CCTV14
+http://58.57.40.22:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="209" tvg-logo="https://livecdn.zbds.org/logo/CCTV15.png" group-title="Trung Quốc", CCTV15
+http://58.57.40.22:9901/tsfile/live/1015_1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://livecdn.zbds.org/logo/CCTV16.png" group-title="Trung Quốc", CCTV16
+http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-id="135" tvg-logo="https://livecdn.zbds.org/logo/CCTV17.png" group-title="Trung Quốc", CCTV17
+http://xg.52sw.top/cctv.php?id=cctv17
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K"  group-title="Trung Quốc",CCTV4K
+http://xg.52sw.top/cctv.php?id=cctv4k
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://livecdn.zbds.org/logo/CCTV央视台球.png" group-title="Trung Quốc", CCTV央视台球
+https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-id="CCTV女性时尚" tvg-logo="https://livecdn.zbds.org/logo/CCTV女性时尚.png" group-title="Trung Quốc", CCTV女性时尚
+https://cc06.tv12.xyz/95.m3u8
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-id="CCTV怀旧剧场" tvg-logo="https://livecdn.zbds.org/logo/CCTV怀旧剧场.png" group-title="Trung Quốc", CCTV怀旧剧场
+https://cc06.tv12.xyz/52.m3u8
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-id="CCTV第一剧场" tvg-logo="https://livecdn.zbds.org/logo/CCTV第一剧场.png" group-title="Trung Quốc", CCTV第一剧场
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://livecdn.zbds.org/logo/CGTN.png" group-title="Trung Quốc", CGTN
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://livecdn.zbds.org/logo/CGTN俄语.png" group-title="Trung Quốc", CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://livecdn.zbds.org/logo/CGTN法语.png" group-title="Trung Quốc", CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://livecdn.zbds.org/logo/CGTN纪录.png" group-title="Trung Quốc", CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://livecdn.zbds.org/logo/CGTN西语.png" group-title="Trung Quốc", CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语" tvg-logo="https://livecdn.zbds.org/logo/CGTN阿语.png" group-title="Trung Quốc", CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="CETV1" tvg-id="CETV1" tvg-logo="https://livecdn.zbds.org/logo/CETV1.png" group-title="Trung Quốc", CETV1
+https://cc06.tv12.xyz/23.m3u8
+#EXTINF:-1 tvg-name="CETV2" tvg-id="CETV2" tvg-logo="https://livecdn.zbds.org/logo/CETV2.png" group-title="Trung Quốc", CETV2
+https://cc06.tv12.xyz/24.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-id="CETV4" tvg-logo="https://livecdn.zbds.org/logo/CETV4.png" group-title="Trung Quốc", CETV4
+https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy
+#EXTINF:-1 tvg-name="中国交通" tvg-id="中国交通" tvg-logo="https://livecdn.zbds.org/logo/中国交通.png" group-title="Trung Quốc", 中国交通
+http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+#EXTINF:-1 tvg-name="熊猫直播" tvg-id="熊猫直播" tvg-logo="https://livecdn.zbds.org/logo/熊猫直播.png" group-title="Trung Quốc", 熊猫直播
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-id="电视指南" tvg-logo="https://livecdn.zbds.org/logo/电视指南.png" group-title="Trung Quốc", 电视指南
+https://cc06.tv12.xyz/39.m3u8
+#EXTINF:-1 tvg-name="直播中国" tvg-id="直播中国" tvg-logo="https://livecdn.zbds.org/logo/直播中国.png" group-title="Trung Quốc", 直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="安徽卫视" tvg-id="安徽卫视" tvg-logo="https://livecdn.zbds.org/logo/安徽卫视.png" group-title="Trung Quốc", 安徽卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873469.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-id="北京卫视" tvg-logo="https://livecdn.zbds.org/logo/北京卫视.png" group-title="Trung Quốc", 北京卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8
+#EXTINF:-1 tvg-name="兵团卫视" tvg-id="兵团卫视" tvg-logo="https://livecdn.zbds.org/logo/兵团卫视.png" group-title="Trung Quốc", 兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="29" tvg-logo="https://livecdn.zbds.org/logo/东方卫视.png" group-title="Trung Quốc", 东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="https://livecdn.zbds.org/logo/东南卫视.png" group-title="Trung Quốc", 东南卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873473.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-id="76" tvg-logo="https://livecdn.zbds.org/logo/甘肃卫视.png" group-title="Trung Quốc", 甘肃卫视
+http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-id="157" tvg-logo="https://livecdn.zbds.org/logo/广东卫视.png" group-title="Trung Quốc", 广东卫视
+http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-id="113" tvg-logo="https://livecdn.zbds.org/logo/广西卫视.png" group-title="Trung Quốc", 广西卫视
+http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-id="贵州卫视" tvg-logo="https://livecdn.zbds.org/logo/贵州卫视.png" group-title="Trung Quốc", 贵州卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873471.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-id="海南卫视" tvg-logo="https://livecdn.zbds.org/logo/海南卫视.png" group-title="Trung Quốc", 海南卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796877.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-id="3" tvg-logo="https://livecdn.zbds.org/logo/海峡卫视.png" group-title="Trung Quốc", 海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-id="河北卫视" tvg-logo="https://livecdn.zbds.org/logo/河北卫视.png" group-title="Trung Quốc", 河北卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-id="河南卫视" tvg-logo="https://livecdn.zbds.org/logo/河南卫视.png" group-title="Trung Quốc", 河南卫视
+http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-id="湖北卫视" tvg-logo="https://livecdn.zbds.org/logo/湖北卫视.png" group-title="Trung Quốc", 湖北卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-id="43" tvg-logo="https://livecdn.zbds.org/logo/湖南卫视.png" group-title="Trung Quốc", 湖南卫视
+http://39.164.160.249:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-id="吉林卫视" tvg-logo="https://livecdn.zbds.org/logo/吉林卫视.png" group-title="Trung Quốc", 吉林卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000004972569.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="江苏卫视" tvg-logo="https://livecdn.zbds.org/logo/江苏卫视.png" group-title="Trung Quốc", 江苏卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-id="江西卫视" tvg-logo="https://livecdn.zbds.org/logo/江西卫视.png" group-title="Trung Quốc", 江西卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796511.m3u8
+#EXTINF:-1 tvg-name="康巴卫视" tvg-id="8" tvg-logo="https://livecdn.zbds.org/logo/康巴卫视.png" group-title="Trung Quốc", 康巴卫视
+http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-id="辽宁卫视" tvg-logo="https://livecdn.zbds.org/logo/辽宁卫视.png" group-title="Trung Quốc", 辽宁卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-id="宁夏卫视" tvg-logo="https://livecdn.zbds.org/logo/宁夏卫视.png" group-title="Trung Quốc", 宁夏卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887433.m3u8
+#EXTINF:-1 tvg-name="农林卫视" tvg-id="农林卫视" tvg-logo="https://livecdn.zbds.org/logo/农林卫视.png" group-title="Trung Quốc", 农林卫视
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-id="青海卫视" tvg-logo="https://livecdn.zbds.org/logo/青海卫视.png" group-title="Trung Quốc", 青海卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887430.m3u8
+#EXTINF:-1 tvg-name="三沙卫视" tvg-id="三沙卫视" tvg-logo="https://livecdn.zbds.org/logo/三沙卫视.png" group-title="Trung Quốc", 三沙卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="15" tvg-logo="https://livecdn.zbds.org/logo/厦门卫视.png" group-title="Trung Quốc", 厦门卫视
+http://1b6467f415.iok.la:9931/tsfile/live/1093_1.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="45" tvg-logo="https://livecdn.zbds.org/logo/山东卫视.png" group-title="Trung Quốc", 山东卫视
+http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-id="山西卫视" tvg-logo="https://livecdn.zbds.org/logo/山西卫视.png" group-title="Trung Quốc", 山西卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887413.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-id="陕西卫视" tvg-logo="https://livecdn.zbds.org/logo/陕西卫视.png" group-title="Trung Quốc", 陕西卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-id="深圳卫视" tvg-logo="https://livecdn.zbds.org/logo/深圳卫视.png" group-title="Trung Quốc", 深圳卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-id="四川卫视" tvg-logo="https://livecdn.zbds.org/logo/四川卫视.png" group-title="Trung Quốc", 四川卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887274.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-id="144" tvg-logo="https://livecdn.zbds.org/logo/天津卫视.png" group-title="Trung Quốc", 天津卫视
+http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" tvg-id="西藏卫视" tvg-logo="https://livecdn.zbds.org/logo/西藏卫视.png" group-title="Trung Quốc", 西藏卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887434.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-id="新疆卫视" tvg-logo="https://livecdn.zbds.org/logo/新疆卫视.png" group-title="Trung Quốc", 新疆卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887448.m3u8
+#EXTINF:-1 tvg-name="延边卫视" tvg-id="延边卫视" tvg-logo="https://livecdn.zbds.org/logo/延边卫视.png" group-title="Trung Quốc", 延边卫视
+http://120.76.248.139/live/bfgd/4200000117.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-id="云南卫视" tvg-logo="https://livecdn.zbds.org/logo/云南卫视.png" group-title="Trung Quốc", 云南卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887453.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="158" tvg-logo="https://livecdn.zbds.org/logo/浙江卫视.png" group-title="Trung Quốc", 浙江卫视
+http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-id="重庆卫视" tvg-logo="https://livecdn.zbds.org/logo/重庆卫视.png" group-title="Trung Quốc", 重庆卫视
+http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-id="安多卫视" tvg-logo="https://livecdn.zbds.org/logo/安多卫视.png" group-title="Trung Quốc", 安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-id="黑龙江卫视" tvg-logo="https://livecdn.zbds.org/logo/黑龙江卫视.png" group-title="Trung Quốc", 黑龙江卫视
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873470.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-id="内蒙古卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古卫视.png" group-title="Trung Quốc", 内蒙古卫视
+http://120.76.248.139/live/bfgd/4200000110.m3u8
+#EXTINF:-1 tvg-name="内蒙古蒙语卫视" tvg-id="内蒙古蒙语卫视" tvg-logo="https://livecdn.zbds.org/logo/内蒙古蒙语卫视.png" group-title="Trung Quốc", 内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 tvg-name="香港卫视" tvg-id="香港卫视" tvg-logo="https://livecdn.zbds.org/logo/香港卫视.png" group-title="Trung Quốc", 香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 tvg-name="莲花卫视" tvg-id="莲花卫视" tvg-logo="https://livecdn.zbds.org/logo/莲花卫视.png" group-title="Trung Quốc", 莲花卫视
+https://fenghuang.tv12.xyz/187.m3u8
+#EXTINF:-1 tvg-name="央视新闻" tvg-id="央视新闻" tvg-logo="https://livecdn.zbds.org/logo/央视新闻.png" group-title="Trung Quốc", 央视新闻
+http://tencentplaygsm.gztv.com/live/jingsai.m3u8
+#EXTINF:-1 tvg-name="河北4K" tvg-id="河北4K" tvg-logo="https://livecdn.zbds.org/logo/河北4K.png" group-title="Trung Quốc", 河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1 tvg-name="苏州4K" tvg-id="苏州4K" tvg-logo="https://livecdn.zbds.org/logo/苏州4K.png" group-title="Trung Quốc", 苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 --------------------------------------------------------------------------------
 
@@ -1339,8 +1439,6 @@ http://60.246.171.122:8889/bysid/96
 http://60.246.171.122:8889/bysid/99
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="" group-title="Hong Kong và Macao",Now财经
-http://iptv.4666888.xyz/iptv.php?id=20085
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao", TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao", TDM Canal Macau
@@ -1354,154 +1452,204 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Đài Loan",TVBS Asia
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS News 新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS 欢乐台 （备份）
-https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="Đài Loan",TVBS HD
-https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-#EXTINF:-1,tvg-id="中天新闻 HD" tvg-name="中天新闻 HD" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="Đài Loan",中天新闻 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-#EXTINF:-1,tvg-id="中天娱乐 CTI Entertaiment" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="https://epg.112114.xyz/logo/中天娱乐CTIENTERTAIMENT.png" group-title="Đài Loan",中天娱乐 CTI Entertaiment
-https://smart.pendy.dpdns.org/Smart.php?id=ctient
-#EXTINF:-1,tvg-id="中天综合 CTI Metro" tvg-name="中天综合 CTI Metro" tvg-logo="https://epg.112114.xyz/logo/中天综合CTIMETRO.png" group-title="Đài Loan",中天综合 CTI Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png" group-title="Đài Loan",中天亚洲台
-https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视 TTV HD
-https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="Đài Loan",台视综合台
-https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="Đài Loan",中视新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视 HD
-https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",民视新闻台 FTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="Đài Loan",民视台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="Đài Loan",华视 CTS HD
-https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视 CTV
-https://smart.pendy.dpdns.org/Smart.php?id=ctv_taiwan
-#EXTINF:-1,tvg-id="八大第一 GTV First" tvg-name="八大第一 GTV First" tvg-logo="https://epg.112114.xyz/logo/八大第一GTVFIRST.png" group-title="Đài Loan",八大第一 GTV First
-https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-#EXTINF:-1,tvg-id="八大综合 GTV Metro" tvg-name="八大综合 GTV Metro" tvg-logo="https://epg.112114.xyz/logo/八大综合GTVMETRO.png" group-title="Đài Loan",八大综合 GTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-#EXTINF:-1,tvg-id="八大戏剧 GTV Drama" tvg-name="八大戏剧 GTV Drama" tvg-logo="https://epg.112114.xyz/logo/八大戏剧GTVDRAMA.png" group-title="Đài Loan",八大戏剧 GTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-#EXTINF:-1,tvg-id="八大娱乐 GTV Entertainment" tvg-name="八大娱乐 GTV Entertainment" tvg-logo="https://epg.112114.xyz/logo/八大娱乐GTVENTERTAINMENT.png" group-title="Đài Loan",八大娱乐 GTV Entertainment
-https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-#EXTINF:-1,tvg-id="Hollywood Movies" tvg-name="Hollywood Movies" tvg-logo="https://epg.112114.xyz/logo/HOLLYWOODMOVIES.png" group-title="Đài Loan",Hollywood Movies
-https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-#EXTINF:-1,tvg-id="三立台湾 Sanli Taiwan" tvg-name="三立台湾 Sanli Taiwan" tvg-logo="https://epg.112114.xyz/logo/三立台湾SANLITAIWAN.png" group-title="Đài Loan",三立台湾 Sanli Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="Đài Loan",三立戏剧台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-#EXTINF:-1,tvg-id="三立综合 Sanli Metro" tvg-name="三立综合 Sanli Metro" tvg-logo="https://epg.112114.xyz/logo/三立综合SANLIMETRO.png" group-title="Đài Loan",三立综合 Sanli Metro
-https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="Đài Loan",三立都会台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-#EXTINF:-1,tvg-id="TVN" tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="Đài Loan",东森新闻 ETTV News
-https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-#EXTINF:-1,tvg-id="东森综合 ETTV Metro" tvg-name="东森综合 ETTV Metro" tvg-logo="https://epg.112114.xyz/logo/东森综合ETTVMETRO.png" group-title="Đài Loan",东森综合 ETTV Metro
-https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-#EXTINF:-1,tvg-id="东森戏剧 ETTV Drama" tvg-name="东森戏剧 ETTV Drama" tvg-logo="https://epg.112114.xyz/logo/东森戏剧ETTVDRAMA.png" group-title="Đài Loan",东森戏剧 ETTV Drama
-https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-#EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="Đài Loan",东森超视
-https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-#EXTINF:-1,tvg-id="东森财经新闻 ETTV Business" tvg-name="东森财经新闻 ETTV Business" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻ETTVBUSINESS.png" group-title="Đài Loan",东森财经新闻 ETTV Business
-https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="Đài Loan",寰宇财经
-https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="Đài Loan",寰宇新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="Đài Loan",公视2
-https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-#EXTINF:-1,tvg-id="大爱1台" tvg-name="大爱1台" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png" group-title="Đài Loan",大爱1台
-https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-#EXTINF:-1,tvg-id="非凡新闻台" tvg-name="非凡新闻台" tvg-logo="https://epg.112114.xyz/logo/非凡新闻台.png" group-title="Đài Loan",非凡新闻台
-https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="Đài Loan",龙华戏剧 Lunghua Drama
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="Đài Loan",龙华经典台
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="Đài Loan",龙华偶像
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-#EXTINF:-1,tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="Đài Loan",AXN Taiwan
-https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-#EXTINF:-1,tvg-id="靖天国际" tvg-name="靖天国际" tvg-logo="https://epg.112114.xyz/logo/靖天国际.png" group-title="Đài Loan",靖天国际台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-#EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="Đài Loan",年代新闻
-https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-#EXTINF:-1,tvg-id="纬来日本台" tvg-name="纬来日本台" tvg-logo="https://epg.112114.xyz/logo/纬来日本台.png" group-title="Đài Loan",纬来日本台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-#EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.112114.xyz/logo/纬来电影台.png" group-title="Đài Loan",纬来电影台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-#EXTINF:-1,tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://epg.112114.xyz/logo/纬来体育台.png" group-title="Đài Loan",纬来体育台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-#EXTINF:-1,tvg-id="纬来综合台" tvg-name="纬来综合台" tvg-logo="https://epg.112114.xyz/logo/纬来综合台.png" group-title="Đài Loan",纬来综合台
-https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-#EXTINF:-1,tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" group-title="Đài Loan",纬来育乐
-https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-#EXTINF:-1,tvg-id="纬来精彩" tvg-name="纬来精彩" tvg-logo="https://epg.112114.xyz/logo/纬来精彩.png" group-title="Đài Loan",纬来精彩
-https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-#EXTINF:-1,tvg-id="好消息 2" tvg-name="好消息 2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="Đài Loan",好消息 2
-https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-#EXTINF:-1,tvg-id="大爱2台" tvg-name="大爱2台" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png" group-title="Đài Loan",大爱2台
-https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-#EXTINF:-1,tvg-id="亚洲美食" tvg-name="亚洲美食" tvg-logo="https://epg.112114.xyz/logo/亚洲美食.png" group-title="Đài Loan",亚洲美食
-https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-#EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="Đài Loan",美食星球
-https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-#EXTINF:-1,tvg-id="东森电影 ETTV Movie" tvg-name="东森电影 ETTV Movie" tvg-logo="https://epg.112114.xyz/logo/东森电影ETTVMOVIE.png" group-title="Đài Loan",东森电影 ETTV Movie
-https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-#EXTINF:-1,tvg-id="博斯运动 1" tvg-name="博斯运动 1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="Đài Loan",博斯运动 1
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-#EXTINF:-1,tvg-id="博斯运动 2" tvg-name="博斯运动 2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="Đài Loan",博斯运动 2
-https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-#EXTINF:-1,tvg-id="博斯高球2 HD" tvg-name="博斯高球2 HD" tvg-logo="https://epg.112114.xyz/logo/博斯高球2.png" group-title="Đài Loan",博斯高球2 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-#EXTINF:-1,tvg-id="博斯网球 HD" tvg-name="博斯网球 HD" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" group-title="Đài Loan",博斯网球 HD
-https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-#EXTINF:-1,tvg-id="东森洋片 ETTV Western" tvg-name="东森洋片 ETTV Western" tvg-logo="https://epg.112114.xyz/logo/东森洋片ETTVWESTERN.png" group-title="Đài Loan",东森洋片 ETTV Western
-https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="Đài Loan",龙华洋片 Lunghua Western
-https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-#EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" group-title="Đài Loan",博斯无限
-https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-#EXTINF:-1,tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.112114.xyz/logo/MTV.png" group-title="Đài Loan",MTV Live
-https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-#EXTINF:-1,tvg-id="龙详时代" tvg-name="龙详时代" tvg-logo="https://epg.112114.xyz/logo/龙详时代.png" group-title="Đài Loan",龙详时代
-https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-#EXTINF:-1,tvg-id="EYETV 旅游" tvg-name="EYETV 旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" group-title="Đài Loan",EYETV 旅游
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-#EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="Đài Loan",靖天卡通台
-https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-#EXTINF:-1,tvg-id="EYETV 戏剧" tvg-name="EYETV 戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" group-title="Đài Loan",EYETV 戏剧
-https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-#EXTINF:-1,tvg-id="卫视中文台" tvg-name="卫视中文台" tvg-logo="https://epg.112114.xyz/logo/卫视中文台.png" group-title="Đài Loan",卫视中文台 Star Movies Chinese
-https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-#EXTINF:-1,tvg-id="东森幼幼 Yoyo TV" tvg-name="东森幼幼 Yoyo TV" tvg-logo="https://epg.112114.xyz/logo/东森幼幼YOYOTV.png" group-title="Đài Loan",东森幼幼 Yoyo TV
-https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-#EXTINF:-1,tvg-id="卫视电影台" tvg-name="卫视电影台" tvg-logo="https://epg.112114.xyz/logo/卫视电影台.png" group-title="Đài Loan",卫视电影台
-https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-#EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影.png" group-title="Đài Loan",美亚电影
-https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-#EXTINF:-1,tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="https://epg.112114.xyz/logo/爱尔达影剧.png" group-title="Đài Loan",爱尔达影剧台
-https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-#EXTINF:-1,tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="https://epg.112114.xyz/logo/爱尔达综合.png" group-title="Đài Loan",爱尔达综合台
-https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-#EXTINF:-1,tvg-id="星卫电影" tvg-name="星卫电影" tvg-logo="https://epg.112114.xyz/logo/星卫电影.png" group-title="Đài Loan",星卫电影
-https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-#EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="Đài Loan",AFC 亚洲旅游台
-https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="" group-title="Đài Loan",TVBS新闻
+http://iptv.4666888.xyz/iptv.php?id=20168
+#EXTINF:-1 tvg-id="TVBSNew" tvg-name="TVBSNew" tvg-logo="" group-title="Đài Loan",TVBSNew
+http://iptv.4666888.xyz/iptv.php?id=20309
+#EXTINF:-1 tvg-id="LIVE三立" tvg-name="LIVE三立" tvg-logo="" group-title="Đài Loan",LIVE三立
+http://iptv.4666888.xyz/iptv.php?id=20169
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="" group-title="Đài Loan",三立iNEWS
+http://iptv.4666888.xyz/iptv.php?id=20170
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="" group-title="Đài Loan",中视新闻
+http://iptv.4666888.xyz/iptv.php?id=20171
+#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="" group-title="Đài Loan",台视新闻
+http://iptv.4666888.xyz/iptv.php?id=20172
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="" group-title="Đài Loan",中天新闻
+http://iptv.4666888.xyz/iptv.php?id=20173
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="" group-title="Đài Loan",东森新闻
+http://iptv.4666888.xyz/iptv.php?id=20174
+#EXTINF:-1 tvg-id="东森新闻(美)" tvg-name="东森新闻(美)" tvg-logo="" group-title="Đài Loan",东森新闻(美)
+http://iptv.4666888.xyz/iptv.php?id=20175
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="" group-title="Đài Loan",寰宇新闻
+http://iptv.4666888.xyz/iptv.php?id=20176
+#EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="" group-title="Đài Loan",寰宇新闻台湾
+http://iptv.4666888.xyz/iptv.php?id=20324
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="" group-title="Đài Loan",民视新闻
+http://iptv.4666888.xyz/iptv.php?id=20177
+#EXTINF:-1 tvg-id="公视新闻" tvg-name="公视新闻" tvg-logo="" group-title="Đài Loan",公视新闻
+http://iptv.4666888.xyz/iptv.php?id=20203
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="Đài Loan",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20310
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="" group-title="Đài Loan",年代新闻
+http://iptv.4666888.xyz/iptv.php?id=20178
+#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="" group-title="Đài Loan",非凡新闻
+http://iptv.4666888.xyz/iptv.php?id=20179
+#EXTINF:-1 tvg-id="摬新闻" tvg-name="摬新闻" tvg-logo="" group-title="Đài Loan",摬新闻
+http://iptv.4666888.xyz/iptv.php?id=20180
+#EXTINF:-1 tvg-id="中天CTI+" tvg-name="中天CTI+" tvg-logo="" group-title="Đài Loan",中天CTI+
+http://iptv.4666888.xyz/iptv.php?id=20181
+#EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="" group-title="Đài Loan",民视
+http://iptv.4666888.xyz/iptv.php?id=20182
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="" group-title="Đài Loan",中视
+http://iptv.4666888.xyz/iptv.php?id=20183
+#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="" group-title="Đài Loan",华视
+http://iptv.4666888.xyz/iptv.php?id=20184
+#EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="" group-title="Đài Loan",公视
+http://iptv.4666888.xyz/iptv.php?id=20185
+#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="" group-title="Đài Loan",台视
+http://iptv.4666888.xyz/iptv.php?id=20186
+#EXTINF:-1 tvg-id="中旺电视" tvg-name="中旺电视" tvg-logo="" group-title="Đài Loan",中旺电视
+http://iptv.4666888.xyz/iptv.php?id=20187
+#EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS HD" tvg-logo="" group-title="Đài Loan",TVBS HD
+http://iptv.4666888.xyz/iptv.php?id=20188
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="" group-title="Đài Loan",TVBS欢乐
+http://iptv.4666888.xyz/iptv.php?id=20189
+#EXTINF:-1 tvg-id="TVBS亚洲" tvg-name="TVBS亚洲" tvg-logo="" group-title="Đài Loan",TVBS亚洲
+http://iptv.4666888.xyz/iptv.php?id=20190
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="" group-title="Đài Loan",TVBS精采
+http://iptv.4666888.xyz/iptv.php?id=20191
+#EXTINF:-1 tvg-id="TVBS综艺" tvg-name="TVBS综艺" tvg-logo="" group-title="Đài Loan",TVBS综艺
+http://iptv.4666888.xyz/iptv.php?id=20192
+#EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="" group-title="Đài Loan",TVBS台剧
+http://iptv.4666888.xyz/iptv.php?id=20193
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="" group-title="Đài Loan",中天娱乐
+http://iptv.4666888.xyz/iptv.php?id=20194
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="" group-title="Đài Loan",中天综合
+http://iptv.4666888.xyz/iptv.php?id=20195
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="" group-title="Đài Loan",中天亚洲
+http://iptv.4666888.xyz/iptv.php?id=20196
+#EXTINF:-1 tvg-id="八大第一" tvg-name="八大第一" tvg-logo="" group-title="Đài Loan",八大第一
+http://iptv.4666888.xyz/iptv.php?id=20197
+#EXTINF:-1 tvg-id="八大综合" tvg-name="八大综合" tvg-logo="" group-title="Đài Loan",八大综合
+http://iptv.4666888.xyz/iptv.php?id=20198
+#EXTINF:-1 tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="" group-title="Đài Loan",八大戏剧
+http://iptv.4666888.xyz/iptv.php?id=20199
+#EXTINF:-1 tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="" group-title="Đài Loan",八大娱乐
+http://iptv.4666888.xyz/iptv.php?id=20200
+#EXTINF:-1 tvg-id="八大精采" tvg-name="八大精采" tvg-logo="" group-title="Đài Loan",八大精采
+http://iptv.4666888.xyz/iptv.php?id=20201
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="" group-title="Đài Loan",三立台湾
+http://iptv.4666888.xyz/iptv.php?id=20202
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="" group-title="Đài Loan",三立综合
+http://iptv.4666888.xyz/iptv.php?id=20204
+#EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="" group-title="Đài Loan",三立都会
+http://iptv.4666888.xyz/iptv.php?id=20205
+#EXTINF:-1 tvg-id="东森LIVE" tvg-name="东森LIVE" tvg-logo="" group-title="Đài Loan",东森LIVE
+http://iptv.4666888.xyz/iptv.php?id=20308
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="" group-title="Đài Loan",东森综合
+http://iptv.4666888.xyz/iptv.php?id=20206
+#EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="" group-title="Đài Loan",东森戏剧
+http://iptv.4666888.xyz/iptv.php?id=20207
+#EXTINF:-1 tvg-id="东森超视34.5" tvg-name="东森超视34.5" tvg-logo="" group-title="Đài Loan",东森超视34.5
+http://iptv.4666888.xyz/iptv.php?id=20208
+#EXTINF:-1 tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="" group-title="Đài Loan",华视新闻
+http://iptv.4666888.xyz/iptv.php?id=20209
+#EXTINF:-1 tvg-id="东森美洲" tvg-name="东森美洲" tvg-logo="" group-title="Đài Loan",东森美洲
+http://iptv.4666888.xyz/iptv.php?id=20210
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="" group-title="Đài Loan",东森电影
+http://iptv.4666888.xyz/iptv.php?id=20211
+#EXTINF:-1 tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="" group-title="Đài Loan",东森洋片
+http://iptv.4666888.xyz/iptv.php?id=20212
+#EXTINF:-1 tvg-id="东森Yoyo" tvg-name="东森Yoyo" tvg-logo="" group-title="Đài Loan",东森Yoyo
+http://iptv.4666888.xyz/iptv.php?id=20213
+#EXTINF:-1 tvg-id="民事第一" tvg-name="民事第一" tvg-logo="" group-title="Đài Loan",民事第一
+http://iptv.4666888.xyz/iptv.php?id=20214
+#EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="" group-title="Đài Loan",民视台湾
+http://iptv.4666888.xyz/iptv.php?id=20216
+#EXTINF:-1 tvg-id="民事综艺" tvg-name="民事综艺" tvg-logo="" group-title="Đài Loan",民事综艺
+http://iptv.4666888.xyz/iptv.php?id=20217
+#EXTINF:-1 tvg-id="民视旅遊" tvg-name="民视旅遊" tvg-logo="" group-title="Đài Loan",民视旅遊
+http://iptv.4666888.xyz/iptv.php?id=20218
+#EXTINF:-1 tvg-id="民视戏剧" tvg-name="民视戏剧" tvg-logo="" group-title="Đài Loan",民视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20219
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="" group-title="Đài Loan",台视综合
+http://iptv.4666888.xyz/iptv.php?id=20220
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="" group-title="Đài Loan",中视经典
+http://iptv.4666888.xyz/iptv.php?id=20221
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="" group-title="Đài Loan",中视菁采
+http://iptv.4666888.xyz/iptv.php?id=20222
+#EXTINF:-1 tvg-id="华艺中文" tvg-name="华艺中文" tvg-logo="" group-title="Đài Loan",华艺中文
+http://iptv.4666888.xyz/iptv.php?id=20223
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="" group-title="Đài Loan",智林体育
+http://iptv.4666888.xyz/iptv.php?id=20224
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="" group-title="Đài Loan",纬来体育
+http://iptv.4666888.xyz/iptv.php?id=20225
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="" group-title="Đài Loan",纬来日本
+http://iptv.4666888.xyz/iptv.php?id=20226
+#EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="" group-title="Đài Loan",纬来电影
+http://iptv.4666888.xyz/iptv.php?id=20227
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="" group-title="Đài Loan",纬来综合
+http://iptv.4666888.xyz/iptv.php?id=20228
+#EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="" group-title="Đài Loan",纬来精采
+http://iptv.4666888.xyz/iptv.php?id=20229
+#EXTINF:-1 tvg-id="爱尔达影剧" tvg-name="爱尔达影剧" tvg-logo="" group-title="Đài Loan",爱尔达影剧
+http://iptv.4666888.xyz/iptv.php?id=20230
+#EXTINF:-1 tvg-id="爱尔达娱乐" tvg-name="爱尔达娱乐" tvg-logo="" group-title="Đài Loan",爱尔达娱乐
+http://iptv.4666888.xyz/iptv.php?id=20303
+#EXTINF:-1 tvg-id="爱尔达日韩" tvg-name="爱尔达日韩" tvg-logo="" group-title="Đài Loan",爱尔达日韩
+http://iptv.4666888.xyz/iptv.php?id=20261
+#EXTINF:-1 tvg-id="爱尔达综合" tvg-name="爱尔达综合" tvg-logo="" group-title="Đài Loan",爱尔达综合
+http://iptv.4666888.xyz/iptv.php?id=20231
+#EXTINF:-1 tvg-id="靖天国际台" tvg-name="靖天国际台" tvg-logo="" group-title="Đài Loan",靖天国际台
+http://iptv.4666888.xyz/iptv.php?id=20236
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="" group-title="Đài Loan",靖天卡通
+http://iptv.4666888.xyz/iptv.php?id=20237
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="" group-title="Đài Loan",爱奇艺
+http://iptv.4666888.xyz/iptv.php?id=20238
+#EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="" group-title="Đài Loan",美亚电影
+http://iptv.4666888.xyz/iptv.php?id=20239
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="" group-title="Đài Loan",龙华电影
+http://iptv.4666888.xyz/iptv.php?id=20240
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="" group-title="Đài Loan",龙华戏剧
+http://iptv.4666888.xyz/iptv.php?id=20241
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="" group-title="Đài Loan",龙华洋片
+http://iptv.4666888.xyz/iptv.php?id=20242
+#EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="" group-title="Đài Loan",龙华偶像
+http://iptv.4666888.xyz/iptv.php?id=20243
+#EXTINF:-1 tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="" group-title="Đài Loan",龙华日韩
+http://iptv.4666888.xyz/iptv.php?id=20244
+#EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="" group-title="Đài Loan",龙华经典
+http://iptv.4666888.xyz/iptv.php?id=20245
+#EXTINF:-1 tvg-id="龙华卡通" tvg-name="龙华卡通" tvg-logo="" group-title="Đài Loan",龙华卡通
+http://iptv.4666888.xyz/iptv.php?id=20246
+#EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="" group-title="Đài Loan",龙祥时代
+http://iptv.4666888.xyz/iptv.php?id=20247
+#EXTINF:-1 tvg-id="好莱乌电影" tvg-name="好莱乌电影" tvg-logo="" group-title="Đài Loan",好莱乌电影
+http://iptv.4666888.xyz/iptv.php?id=20248
+#EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="" group-title="Đài Loan",公视戏剧
+http://iptv.4666888.xyz/iptv.php?id=20293
+#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="" group-title="Đài Loan",靖洋戏剧
+http://iptv.4666888.xyz/iptv.php?id=20294
+#EXTINF:-1 tvg-id="靖洋卡通" tvg-name="靖洋卡通" tvg-logo="" group-title="Đài Loan",靖洋卡通
+http://iptv.4666888.xyz/iptv.php?id=20295
+#EXTINF:-1 tvg-id="靖天综合" tvg-name="靖天综合" tvg-logo="" group-title="Đài Loan",靖天综合
+http://iptv.4666888.xyz/iptv.php?id=20296
+#EXTINF:-1 tvg-id="靖天欢乐" tvg-name="靖天欢乐" tvg-logo="" group-title="Đài Loan",靖天欢乐
+http://iptv.4666888.xyz/iptv.php?id=20297
+#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="" group-title="Đài Loan",靖天映画
+http://iptv.4666888.xyz/iptv.php?id=20298
+#EXTINF:-1 tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="" group-title="Đài Loan",靖天戏剧
+http://iptv.4666888.xyz/iptv.php?id=20299
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="" group-title="Đài Loan",靖天电影
+http://iptv.4666888.xyz/iptv.php?id=20300
+#EXTINF:-1 tvg-id="靖天育乐" tvg-name="靖天育乐" tvg-logo="" group-title="Đài Loan",靖天育乐
+http://iptv.4666888.xyz/iptv.php?id=20301
+#EXTINF:-1 tvg-id="靖天资讯" tvg-name="靖天资讯" tvg-logo="" group-title="Đài Loan",靖天资讯
+http://iptv.4666888.xyz/iptv.php?id=20302
+#EXTINF:-1 tvg-id="壹电影" tvg-name="壹电影" tvg-logo="" group-title="Đài Loan",壹电影
+http://iptv.4666888.xyz/iptv.php?id=20314
+#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="" group-title="Đài Loan",采昌影剧
+http://iptv.4666888.xyz/iptv.php?id=20316
+#EXTINF:-1 tvg-id="国兴卫视" tvg-name="国兴卫视" tvg-logo="" group-title="Đài Loan",国兴卫视
+http://iptv.4666888.xyz/iptv.php?id=20315
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="" group-title="Đài Loan",猪哥亮歌厅秀
+http://iptv.4666888.xyz/iptv.php?id=20317
+#EXTINF:-1 tvg-id="TTV" tvg-name="TTV" tvg-logo="" group-title="Đài Loan",TTV
+http://iptv.4666888.xyz/iptv.php?id=20318
+#EXTINF:-1 tvg-id="探索频道" tvg-name="探索频道" tvg-logo="" group-title="Đài Loan",探索频道
+http://iptv.4666888.xyz/iptv.php?id=20319
+#EXTINF:-1 tvg-id="台湾戏剧" tvg-name="台湾戏剧" tvg-logo="" group-title="Đài Loan",台湾戏剧
+http://iptv.4666888.xyz/iptv.php?id=20320
 
 --------------------------------------------------------------------------------
 
@@ -1680,75 +1828,218 @@ https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1  tvg-id="NBT" tvg-name="NBT" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png", NBT
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Thái Lẻn", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
-#EXTINF:-1 tvg-id="TPBS" tvg-name="TPBS" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png", TPBS
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="Thái Lẻn", NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
-#EXTINF:-1 tvg-id="ALTV" tvg-name="ALTV" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png", ALTV
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS.th" tvg-name="TPBS" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Thái Lẻn", TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
-#EXTINF:-1 tvg-id="5HD" tvg-name="5HD" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png", 5HD
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
+
+#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV.th" tvg-name="ALTV" tvg-logo="https://media-mvtv.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png" group-title="Thái Lẻn", ALTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
-#EXTINF:-1 tvg-id="T SPORT" tvg-name="T SPORT" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png", T SPORT
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
+
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD.th" tvg-name="5HD" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Thái Lẻn", 5HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 tvg-id="TPTV" tvg-name="TPTV" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png", TPTV
+https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
+
+#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Thái Lẻn", Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
-#EXTINF:-1 tvg-id="TNN" tvg-name="TNN" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png", TNN
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
+
+#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="Thái Lẻn", T SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
-#EXTINF:-1 tvg-id="JKN18" tvg-name="JKN18" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png", JKN18
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="MVMall Trend.th" tvg-name="MVMall Trend" tvg-logo="https://media-mvtv2.imgix.net/channel/89_y_l7aeSDC2FoVrMXdqQ93vutZisHmhxykL.jpg" group-title="Thái Lẻn", MVMall Trend
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdfe/mvmalltrend/mvmalltrend.m3u8
+
+#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-id="MVMall Plus (51).th" tvg-name="MVMall Plus (51)" tvg-logo="https://media-mvtv6.imgix.net/channel/32_y_FVzqJyNiGrdE0seQxCptgUcfmOYbnhLK.png" group-title="Thái Lẻn", MVMall Plus (51)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+
+#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://media-mvtv.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png" group-title="Thái Lẻn", TPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
+
+#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy (58).th" tvg-name="MVMall Healthy (58)" tvg-logo="https://media-mvtv.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png" group-title="Thái Lẻn", MVMall Healthy (58)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8
+
+#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD (59).th" tvg-name="MVMall DD (59)" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="Thái Lẻn", MVMall DD (59)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
+
+#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living (26).th" tvg-name="MVMall Living (26)" tvg-logo="https://media-mvtv.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png" group-title="Thái Lẻn", MVMall Living (26)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fddc/mvmallliving/mvmallliving.m3u8
+
+#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN.th" tvg-name="TNN" tvg-logo="https://media-mvtv.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png" group-title="Thái Lẻn", TNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+
+#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family (40).th" tvg-name="MVMall Family (40)" tvg-logo="https://media-mvtv.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png" group-title="Thái Lẻn", MVMall Family (40)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffdb/mvmallfamily/mvmallfamily.m3u8
+
+#EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN18.th" tvg-name="JKN18" tvg-logo="https://media-mvtv.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png" group-title="Thái Lẻn", JKN18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 tvg-id="MVMall Happy (65)" tvg-name="MVMall Happy (65)" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/69_y_FD5yRW1S6BqcGHEbZmKsepTMldijN0wv.jpg", MVMall Happy (65)
+
+#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี.th" tvg-name="ไทบ้านทีวี" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="Thái Lẻn", ไทบ้านทีวี
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-#EXTINF:-1 tvg-id="ไทบ้านทีวี" tvg-name="ไทบ้านทีวี" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png", ไทบ้านทีวี
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+
+#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation.th" tvg-name="Nation" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Thái Lẻn", Nation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-#EXTINF:-1 tvg-id="Nation" tvg-name="Nation" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png", Nation
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+
+#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint.th" tvg-name="Workpoint" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png" group-title="Thái Lẻn", Workpoint
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
-#EXTINF:-1 tvg-id="Workpoint" tvg-name="Workpoint" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png", Workpoint
+https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
+
+#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True24.th" tvg-name="True24" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="Thái Lẻn", True24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
-#EXTINF:-1 tvg-id="True24" tvg-name="True24" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png", True24
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25.th" tvg-name="GMM25" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Thái Lẻn", GMM25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
-#EXTINF:-1 tvg-id="GMM25" tvg-name="GMM25" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png", GMM25
+https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
+
+#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png" group-title="Thái Lẻn", MVTV ท้องถิ่นไทย (75)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
-#EXTINF:-1 group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg", Boom Anime
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+
+#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ช่อง 8.th" tvg-name="ช่อง 8" tvg-logo="https://media-mvtv.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png" group-title="Thái Lẻn", ช่อง 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
-#EXTINF:-1 tvg-id="MONO 29" tvg-name="MONO 29" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png", MONO 29
+http://edge2a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boom Cartoon.th" tvg-name="Boom Cartoon" tvg-logo="https://media-mvtv.imgix.net/channel/188_y_SHbpOor8a2ClM0g3LFcsT5I4GkRmu6q9.jpg" group-title="Thái Lẻn", Boom Cartoon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
-#EXTINF:-1 tvg-id="MCOT" tvg-name="MCOT" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png", MCOT
+https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
+
+#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29.th" tvg-name="MONO 29" tvg-logo="https://media-mvtv.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png" group-title="Thái Lẻn", MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
-#EXTINF:-1  tvg-id="ONE" tvg-name="ONE" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png", ONE
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
+
+#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT.th" tvg-name="MCOT" tvg-logo="https://media-mvtv.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png" group-title="Thái Lẻn", MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
-#EXTINF:-1 tvg-id="Thairath" tvg-name="Thairath" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png", Thairath
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
+#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Thái Lẻn", ONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-#EXTINF:-1 tvg-id="3HD" tvg-name="3HD" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png", 3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath.th" tvg-name="Thairath" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png" group-title="Thái Lẻn", Thairath
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-#EXTINF:-1 tvg-id="Amarin" tvg-name="Amarin" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png", Amarin
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
+
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="Thái Lẻn", 3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
-#EXTINF:-1 tvg-id="7HD" tvg-name="7HD" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png", 7HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+
+#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="Thái Lẻn", Amarin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
-#EXTINF:-1 tvg-id="PPTV" tvg-name="PPTV" group-title="Thái Lan" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png", PPTV
+https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+
+#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="Thái Lẻn", 7HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+
+#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV.th" tvg-name="PPTV" tvg-logo="https://media-mvtv.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png" group-title="Thái Lẻn", PPTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+
+#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="MVLAO.th" tvg-name="MVLAO" tvg-logo="https://media-mvtv.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png" group-title="Thái Lẻn", MVLAO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+
+#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM.th" tvg-name="MVM" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png" group-title="Thái Lẻn", MVM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Thái Lẻn", France 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+
+#EXTINF:-1 tvg-chno="105" ch-number="105" tvg-id="CNA.th" tvg-name="CNA" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Thái Lẻn", CNA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+#EXTINF:-1 tvg-chno="106" ch-number="106" tvg-id="NHK WORLD.th" tvg-name="NHK WORLD" tvg-logo="https://media-mvtv.imgix.net/channel/155_y_ERge294wz1fsLvyCjX3DStPGcMmYFIKo.jpg" group-title="Thái Lẻn", NHK WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+
+#EXTINF:-1 tvg-chno="107" ch-number="107" tvg-id="CCTV4.th" tvg-name="CCTV4" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Thái Lẻn", CCTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+
+#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Thái Lẻn", DLTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://media-mvtv.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="Thái Lẻn", DLTV2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV3.th" tvg-name="DLTV3" tvg-logo="https://media-mvtv.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="Thái Lẻn", DLTV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV4.th" tvg-name="DLTV4" tvg-logo="https://media-mvtv.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="Thái Lẻn", DLTV4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV5.th" tvg-name="DLTV5" tvg-logo="https://media-mvtv.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="Thái Lẻn", DLTV5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV6.th" tvg-name="DLTV6" tvg-logo="https://media-mvtv.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="Thái Lẻn", DLTV6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV7.th" tvg-name="DLTV7" tvg-logo="https://media-mvtv.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="Thái Lẻn", DLTV7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV8.th" tvg-name="DLTV8" tvg-logo="https://media-mvtv.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="Thái Lẻn", DLTV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV9.th" tvg-name="DLTV9" tvg-logo="https://media-mvtv.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="Thái Lẻn", DLTV9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV10.th" tvg-name="DLTV10" tvg-logo="https://media-mvtv.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="Thái Lẻn", DLTV10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV11.th" tvg-name="DLTV11" tvg-logo="https://media-mvtv.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="Thái Lẻn", DLTV11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV12.th" tvg-name="DLTV12" tvg-logo="https://media-mvtv.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="Thái Lẻn", DLTV12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV13.th" tvg-name="DLTV13" tvg-logo="https://media-mvtv.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="Thái Lẻn", DLTV13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV14.th" tvg-name="DLTV14" tvg-logo="https://media-mvtv.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="Thái Lẻn", DLTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15.th" tvg-name="DLTV15" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="Thái Lẻn", DLTV15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-live.dltv.ac.th/dltv15.m3u8
+
 
 --------------------------------------------------------------------------------
 
