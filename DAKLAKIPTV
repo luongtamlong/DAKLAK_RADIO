@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
+#EXTM3U url-tvg="https://mytvsuperepg.860775.xyz/epg.xml“
 
 --------------------------------------------------------------------------------
 
@@ -1235,104 +1237,110 @@ http://lb.wisp.cat/lb0/Super_plus_HD_UA/mpegts?token=rfroGNs04A
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gvExt2&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",CCTV2
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=TWpjSJ&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",CCTV3
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=gvmtPX&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",CCTV4
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ooxVO0&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yLfQQT&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",CCTV6
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SJ06aC&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png",CCTV8
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5BovlB&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png",CCTV9
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=JOJnq6&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png",CCTV10
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xPB8gz&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png",CCTV11
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=6dOs58&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png",CCTV12
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BUzXOs&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png",CCTV13
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=MqAcjU&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png",CCTV14
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PtXqWk&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png",CCTV15
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yxegE3&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png",CCTV16
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hHtsPv&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png",CCTV17
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Ee3HVq&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png",广东卫视4K
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=a6FqGN&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png",广西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BB2WT8&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png",海南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=auGXrr&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png",河南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=SRBKpP&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png",湖北卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dwxQaZ&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png",湖南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=qKKbTo&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png",怀旧剧场
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XJ7IBw&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oC8gA9&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="数字电影" tvg-logo="https://live.fanmingming.cn/tv/数字电影.png",数字电影
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DJ0OG0&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png",深圳卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F9nt6w&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png",四川卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=3D746j&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png",重庆卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XCM4Ls&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=DEHHOV&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png",浙江卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=kD9K38&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png",东方卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QpjoKF&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png",北京卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WsSwez&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png",江西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BU9Uwr&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",山东卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Gelvrk&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png",安徽卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=k30FCP&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png",天津卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5OZQAO&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png",贵州卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ck2xwa&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png",河北卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wvtLxM&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png",山西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=z22MCI&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png",陕西卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xF6fcL&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png",内蒙古卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Nz4Nw2&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png",吉林卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5rvIto&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png",西藏卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A5soQI&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png",新疆卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oUC0Ee&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png",云南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Dg4HTw&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png",宁夏卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NwVyfY&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png",甘肃卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nk0qn6&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png",东南卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5edvkV&tk=cl177bPI6scY
-#EXTINF:-1 group title="Trung Quốc" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png",兵团卫视
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=EfaDn6&tk=cl177bPI6scY
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="Trung Cộng",CCTV-1综合
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="Trung Cộng",CCTV-2财经
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="Trung Cộng",CCTV-3综艺
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4中文国际
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4欧洲
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4美洲
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="Trung Cộng",CCTV-5体育
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="Trung Cộng",CCTV-5+体育赛事
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="Trung Cộng",CCTV-6电影
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="Trung Cộng",CCTV-7国防军事
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="Trung Cộng",CCTV-8电视剧
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="Trung Cộng",CCTV-9纪录
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="Trung Cộng",CCTV-10科教
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="Trung Cộng",CCTV-11戏曲
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="Trung Cộng",CCTV-12社会与法
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="Trung Cộng",CCTV-13新闻
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="Trung Cộng",CCTV-14少儿
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="Trung Cộng",CCTV-15音乐
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="Trung Cộng",CCTV-17农业农村
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
+#EXTINF:-1 tvg-name="CCTV发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV发现之旅.png" group-title="Trung Cộng",CCTV发现之旅
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
+#EXTINF:-1 tvg-name="CCTV老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png" group-title="Trung Cộng",CCTV老故事
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
+#EXTINF:-1 tvg-name="CCTV中学生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV中学生.png" group-title="Trung Cộng",CCTV中学生
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="Trung Cộng",CGTN
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="Trung Cộng",CGTN纪录
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnjl
+#EXTINF:-1 tvg-name="CCTV西班牙语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV西班牙语.png" group-title="Trung Cộng",CCTV西班牙语
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtne
+#EXTINF:-1 tvg-name="CCTV法语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV法语.png" group-title="Trung Cộng",CCTV法语
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnf
+#EXTINF:-1 tvg-name="CCTV阿拉伯语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV阿拉伯语.png" group-title="Trung Cộng",CCTV阿拉伯语
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtna
+#EXTINF:-1 tvg-name="CCTV俄语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV俄语.png" group-title="Trung Cộng",CCTV俄语
+http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnr
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="Trung Cộng",北京卫视
+http://112.27.235.94:8000/hls/27/index.m3u8
+#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="Trung Cộng",上海卫视
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="Trung Cộng",浙江卫视
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="Trung Cộng",广东卫视
+http://112.27.235.94:8000/hls/30/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="Trung Cộng",湖南卫视
+http://112.27.235.94:8000/hls/31/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="Trung Cộng",江苏卫视
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="Trung Cộng",深圳卫视
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="Trung Cộng",山东卫视
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="Trung Cộng",四川卫视
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="Trung Cộng",重庆卫视
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="Trung Cộng",河南卫视
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="Trung Cộng",东南卫视
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="Trung Cộng",河北卫视
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="Trung Cộng",云南卫视
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="Trung Cộng",湖北卫视
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="Trung Cộng",天津卫视
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="Trung Cộng",陕西卫视
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="Trung Cộng",江西卫视
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="Trung Cộng",山西卫视
+http://112.27.235.94:8000/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="Trung Cộng",贵州卫视
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="Trung Cộng",辽宁卫视
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="Trung Cộng",黑龙江卫视
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="Trung Cộng",内蒙古卫视
+http://112.27.235.94:8000/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="Trung Cộng",重温经典
+http://112.27.235.94:8000/hls/50/index.m3u8
 
 --------------------------------------------------------------------------------
 
@@ -1342,24 +1350,20 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 76
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K1GCbL&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RArB4M&tk=cl177bPI6scY
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
+http://iptv.4666888.xyz/iptv.php?id=20079
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
 http://60.246.171.122:8889/bysid/1
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
+#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
+#EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
 http://110.235.82.60:8001/bysid/82
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
+#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
 http://110.235.82.60:8001/bysid/83
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
+#EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://110.235.82.60:8001/bysid/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl Cable
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=XNstgq&tk=cl177bPI6scY
 #EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
@@ -2053,21 +2057,34 @@ http://43.252.18.195:5080/live/streams/mytv.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:2 group-title="Sing" aktv-server-group="AKTV" tvg-id="channel5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mediacorp_Channel_5_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 5 HD
-http://cdn6.163189.xyz/163189/ch5
-#EXTINF:3 group-title="Sing" aktv-server-group="AKTV" tvg-id="channel8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Mediacorp_Channel_8_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 8 HD
-http://cdn6.163189.xyz/163189/ch8
-#EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="suriahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/250px-Mediacorp_Suria_2023.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Suria
-https://smart.pendy.dpdns.org/Smart.php?id=Suria
-#EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="vasanthamhd" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714408%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=1000&Height=260" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Vasantham
-https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
-#EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="cnahd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" provider-type="iptv", CNA (Domestic Feed)
-https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
-#EXTINF:4 group-title="Sing" aktv-server-group="AKTV" tvg-id="channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/d/d5/Mediacorp_Channel_U_2023.svg provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel U HD
-http://cdn6.163189.xyz/163189/chu
-#EXTINF:-1 tvg-id="Hub娱家" tvg-name="Hub娱家" tvg-logo="" group-title="Sing",Hub娱家
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4ee336861eed4840a555788dc54aea6e&key=f1f53644d4941d4ed31b4bb2478f8cf4
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" group-title="Sing", CNA (DOMESTIC)
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b8ee3db17d34547983a2c3ddc3d28fc&key=fb5deb5f688fd67ec20c71191c7f4590
+#EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/2560px-Mediacorp_Channel_5_2023.svg.png" group-title="Sing", Channel 5 Singapore
+https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a4315e7266024dfc9ddb9667727d9635&key=485a55859fda05a1e3e8ae1ae63906e8
+#EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/2560px-Mediacorp_Channel_8_2023.svg.png" group-title="Sing", Channel 8 Singapore
+https://tglmp02.akamaized.net/out/v1/423fa206c4ea458ebe83d6edd172eb10/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=981fda1d42aa4d81b367d85794447e2a&key=61f0b7e53768214d4d56917fbcfc2723
+#EXTINF:-1 tvg-id="Ch U" tvg-name="Channel U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/2560px-Mediacorp_Channel_U_2023.svg.png" group-title="Sing", Channel U Singapore
+https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=db646b3742ba42718a28436a1f401aa8&key=75a545066954b9b7fafa96d72a844e00
+#EXTINF:-1 tvg-id="Suria" tvg-name="Suria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/2560px-Mediacorp_Suria_2023.svg.png" group-title="Sing", Suria
+https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fcdb0c21368d4c6aa8f4c08e4cd44256&key=31b348d059593c81f8eb7a8f5f999a76
+#EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/2560px-Mediacorp_Vasantham_2023.svg.png" group-title="Sing", Vasantham
+https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
+#EXTINF:-1 tvg-id="Hub娱家" tvg-name="Hub娱家" tvg-logo="" group-title="Sing",HUB VV Drama
 http://iptv.4666888.xyz/iptv.php?id=20287
-#EXTINF:-1 tvg-id="Hub都会" tvg-name="Hub都会" tvg-logo="" group-title="Sing",Hub都会
+#EXTINF:-1 tvg-id="Hub都会" tvg-name="Hub都会" tvg-logo="" group-title="Sing",Hub ECity
 http://iptv.4666888.xyz/iptv.php?id=20288
 
 --------------------------------------------------------------------------------
