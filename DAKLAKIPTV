@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
-#EXTM3U url-tvg="https://epg1.168.us.kg/mytvsuper.com.xml“
+#EXTM3U url-tvg="https://epg.946985.xyz/t.xml.gz"
 
 --------------------------------------------------------------------------------
 
@@ -1142,62 +1141,36 @@ http://lb.wisp.cat/lb0/Super_plus_HD_UA/mpegts?token=rfroGNs04A
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="Trung Cộng",CCTV-1综合
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="Trung Cộng",CCTV-2财经
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv2
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="Trung Cộng",CCTV-3综艺
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv3
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4中文国际
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4欧洲
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4m
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="Trung Cộng",CCTV-4美洲
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv4o
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="Trung Cộng",CCTV-5体育
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="Trung Cộng",CCTV-5+体育赛事
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv5p
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="Trung Cộng",CCTV-6电影
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv6
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="Trung Cộng",CCTV-7国防军事
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv7
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="Trung Cộng",CCTV-8电视剧
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="Trung Cộng",CCTV-9纪录
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv9
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="Trung Cộng",CCTV-10科教
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv10
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="Trung Cộng",CCTV-11戏曲
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="Trung Cộng",CCTV-12社会与法
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv12
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="Trung Cộng",CCTV-13新闻
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv13
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="Trung Cộng",CCTV-14少儿
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv14
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV15.png" group-title="Trung Cộng",CCTV-15音乐
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv15
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV17.png" group-title="Trung Cộng",CCTV-17农业农村
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cctv17
-#EXTINF:-1 tvg-name="CCTV发现之旅" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV发现之旅.png" group-title="Trung Cộng",CCTV发现之旅
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=fxzl
-#EXTINF:-1 tvg-name="CCTV老故事" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV老故事.png" group-title="Trung Cộng",CCTV老故事
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=lgs
-#EXTINF:-1 tvg-name="CCTV中学生" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV中学生.png" group-title="Trung Cộng",CCTV中学生
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=zxs
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="Trung Cộng",CGTN
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtn
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="Trung Cộng",CGTN纪录
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnjl
-#EXTINF:-1 tvg-name="CCTV西班牙语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV西班牙语.png" group-title="Trung Cộng",CCTV西班牙语
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtne
-#EXTINF:-1 tvg-name="CCTV法语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV法语.png" group-title="Trung Cộng",CCTV法语
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnf
-#EXTINF:-1 tvg-name="CCTV阿拉伯语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV阿拉伯语.png" group-title="Trung Cộng",CCTV阿拉伯语
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtna
-#EXTINF:-1 tvg-name="CCTV俄语" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV俄语.png" group-title="Trung Cộng",CCTV俄语
-http://mg.hmysapp.cn:177/ckmg/zb.php?id=cgtnr
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="备用频道",CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="备用频道",CCTV2
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="备用频道",CCTV3
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="备用频道",CCTV4
+http://112.27.235.94:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="备用频道",CCTV5
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5p.png" group-title="备用频道",CCTV5+
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="备用频道",CCTV6
+http://112.27.235.94:8000/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="备用频道",CCTV7
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="备用频道",CCTV8
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="备用频道",CCTV9
+http://112.27.235.94:8000/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="备用频道",CCTV10
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="备用频道",CCTV11
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="备用频道",CCTV12
+http://112.27.235.94:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="备用频道",CCTV13
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="备用频道",CCTV14
+http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="Trung Cộng",北京卫视
 http://112.27.235.94:8000/hls/27/index.m3u8
 #EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="Trung Cộng",上海卫视
@@ -1249,11 +1222,11 @@ http://112.27.235.94:8000/hls/50/index.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong và Macao", RTHK 31
+#EXTINF:-1 tvg-id="TV 31" tvg-name="港台電視 31" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Hong Kong và Macao", RTHK 31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="Hong Kong và Macao", RTHK 32
+#EXTINF:-1 tvg-id="TV 32" tvg-name="港台電視 32" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="Hong Kong và Macao", RTHK 32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
+#EXTINF:-1 tvg-id="TV 33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -1261,21 +1234,21 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://iptv.4666888.xyz/iptv.php?id=20079
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
 http://60.246.171.122:8889/bysid/1
-#EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
+#EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
 http://110.235.82.60:8001/bysid/82
-#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
+#EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
 http://110.235.82.60:8001/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://110.235.82.60:8001/bysid/2
-#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
 http://60.246.171.122:8889/bysid/96
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
 http://60.246.171.122:8889/bysid/99
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
+#EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao", TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
