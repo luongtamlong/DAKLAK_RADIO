@@ -440,7 +440,7 @@ http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-https://i.mjh.nz/.r/bbc-news.m3u8
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 https://hls.mskycdn.online/tv/bloomberg/index.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
@@ -1242,6 +1242,8 @@ http://110.235.82.60:8001/bysid/82
 http://110.235.82.60:8001/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://110.235.82.60:8001/bysid/2
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl Cable
+http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
