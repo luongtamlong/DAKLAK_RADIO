@@ -1118,6 +1118,10 @@ https://1716664847.rsc.cdn77.org/1716664847/index.m3u8
 https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/090/metro-plus-am-1044.7601dbed.png" group-title="QUỐC TẾ" radio=true,Metro Plus
 https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://pic.qtfm.cn/2022/1019/20221019042732.jpeg" group-title="QUỐC TẾ" radio=true,Asia FM Cantonese
+https://lhttp-hw.qtfm.cn/live/15318569/64k.mp3
+#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/zRVg6uZzcT.png" group-title="QUỐC TẾ" radio=true,Asia Sky FM
+https://lhttp-hw.qtfm.cn/live/20071/64k.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="DRHK" tvg-logo="https://cdn-radiotime-logos.tunein.com/s120798g.png" group-title="QUỐC TẾ" radio=true,Apple FM
 http://sc.apple-fm.net:8188/;
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="DRHK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8he6l8vxdRHBBcqFUGMMjH-1jWBBSQxANw&s" group-title="QUỐC TẾ" radio=true,Radio Lantau
@@ -1509,6 +1513,7 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
 
 
