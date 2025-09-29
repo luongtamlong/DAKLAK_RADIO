@@ -1447,11 +1447,11 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByPUcL&tk=Jw9dngYWiHEK
 http://60.246.171.122:8891/bysid/91
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao",TDM Canal Macau
 http://60.246.171.122:8891/bysid/92
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png",TDM Desporto
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png" group-title="Hong Kong và Macao",TDM Desporto
 http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMInforma%C3%A7%C3%A3o.png" group-title="Hong Kong và Macao", TDM Informação
 http://60.246.171.122:8891/bysid/94
-#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/500px-TDM_Entertainment.png",TDM Entretenimento
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/500px-TDM_Entertainment.png" group-title="Hong Kong và Macao",TDM Entretenimento
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Cantonese)
 https://globallive.tdm.com.mo/tv/ch21.live/playlist.m3u8
