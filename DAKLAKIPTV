@@ -479,6 +479,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2880px-Das_Erste_2014.svg.png", Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 group-title="Quốc tế" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTNews.ru" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Quốc tế" tvg-logo="https://picon.ml/pervy-kanal-eu.png", OPT1
@@ -1397,10 +1400,17 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="TV 33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 76
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eyV6tL&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NMA8HV&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
-http://110.235.82.60:8000/bysid/1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
+https://mytv.860775.xyz/J
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
@@ -1409,22 +1419,40 @@ http://110.235.82.60:8001/bysid/82
 http://110.235.82.60:8001/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://110.235.82.60:8001/bysid/2
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl Cable
-http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
-http://110.235.82.60:8000/bysid/96
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Gtzshc&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
-http://110.235.82.60:8000/bysid/99
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao", TDM Ou Mun
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://live.fanmingming.cn/tv/Now财经.png",Now Finance
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5yUqdT&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png",Now Movies
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PL7bpb&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png",Now Popcorn
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pB4lh&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.cn/tv/Now紫金国际.png",Now Jelli
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RXLnlt&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png",Now Chinese Drama
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RwBgTW&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://live.fanmingming.cn/tv/Now剧集台.png",Now Drama
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=esgQiD&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now英超1" tvg-logo="https://live.fanmingming.cn/tv/Now英超1.png",Now EPL 1
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rvQZNa&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="Now668赛马" tvg-logo="https://live.fanmingming.cn/tv/Now668赛马.png",Now668
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByPUcL&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao",TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao", TDM Canal Macau
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao",TDM Canal Macau
 http://60.246.171.122:8891/bysid/92
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png",TDM Desporto
+http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMInforma%C3%A7%C3%A3o.png" group-title="Hong Kong và Macao", TDM Informação
 http://60.246.171.122:8891/bysid/94
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/500px-TDM_Entertainment.png",TDM Entretenimento
+http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Cantonese)
 https://globallive.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Portuguese)
