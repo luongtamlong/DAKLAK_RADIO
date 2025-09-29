@@ -1313,84 +1313,143 @@ https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
 
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV1.png" group-title="备用频道",CCTV1
-http://112.27.235.94:8000/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV2.png" group-title="备用频道",CCTV2
-http://112.27.235.94:8000/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV3.png" group-title="备用频道",CCTV3
-http://112.27.235.94:8000/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV4.png" group-title="备用频道",CCTV4
-http://112.27.235.94:8000/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" group-title="备用频道",CCTV5
-http://112.27.235.94:8000/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5p.png" group-title="备用频道",CCTV5+
-http://112.27.235.94:8000/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV6.png" group-title="备用频道",CCTV6
-http://112.27.235.94:8000/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV7.png" group-title="备用频道",CCTV7
-http://112.27.235.94:8000/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV8.png" group-title="备用频道",CCTV8
-http://112.27.235.94:8000/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV9.png" group-title="备用频道",CCTV9
-http://112.27.235.94:8000/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" group-title="备用频道",CCTV10
-http://112.27.235.94:8000/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV11.png" group-title="备用频道",CCTV11
-http://112.27.235.94:8000/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV12.png" group-title="备用频道",CCTV12
-http://112.27.235.94:8000/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV13.png" group-title="备用频道",CCTV13
-http://112.27.235.94:8000/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV14.png" group-title="备用频道",CCTV14
-http://112.27.235.94:8000/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="Trung Cộng",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="上海卫视" tvg-logo="https://live.fanmingming.cn/tv/上海卫视.png" group-title="Trung Cộng",上海卫视
-http://112.27.235.94:8000/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="Trung Cộng",浙江卫视
-http://112.27.235.94:8000/hls/29/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="Trung Cộng",CCTV1
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=oz1OFx&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="Trung Cộng",CCTV2
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cmu5O5&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="Trung Cộng",CCTV3
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fIHbvs&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="Trung Cộng",CCTV4
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=VcjM8l&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="Trung Cộng",CCTV5
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=F3VJxF&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="Trung Cộng",CCTV6
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NKYwBN&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="Trung Cộng",CCTV7
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=A5WRi9&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="Trung Cộng",CCTV8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9CH4bg&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="Trung Cộng",CCTV9
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=iq8gRe&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="Trung Cộng",CCTV10
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=1BShWR&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="Trung Cộng",CCTV11
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Idb3b6&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="Trung Cộng",CCTV12
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yilWXu&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="Trung Cộng",CCTV13
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=b9q0rj&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="Trung Cộng",CCTV14
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=QCOKjZ&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="Trung Cộng",CCTV15
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=WGP2Tm&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="Trung Cộng",CCTV16
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nciDvw&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="Trung Cộng",广东卫视4K
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GkbOBC&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东大湾区" tvg-logo="https://live.fanmingming.cn/tv/广东大湾区.png" group-title="Trung Cộng",广东大湾区
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=CUhN28&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://live.fanmingming.cn/tv/广东民生.png" group-title="Trung Cộng",广东民生
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fZZwmN&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://live.fanmingming.cn/tv/广东少儿.png" group-title="Trung Cộng",广东少儿
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=lSa06E&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="Trung Cộng",广东体育
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=4E34jd&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="Trung Cộng",广东卫视
-http://112.27.235.94:8000/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="Trung Cộng",湖南卫视
-http://112.27.235.94:8000/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="Trung Cộng",江苏卫视
-http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="Trung Cộng",深圳卫视
-http://112.27.235.94:8000/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="Trung Cộng",山东卫视
-http://112.27.235.94:8000/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="Trung Cộng",四川卫视
-http://112.27.235.94:8000/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="Trung Cộng",重庆卫视
-http://112.27.235.94:8000/hls/36/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=xcXThc&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://live.fanmingming.cn/tv/广东新闻.png" group-title="Trung Cộng",广东新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bXkMv6&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://live.fanmingming.cn/tv/广东影视.png" group-title="Trung Cộng",广东影视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=YRA1zK&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="Trung Cộng",广东珠江
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7lLNse&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广东经济" tvg-logo="https://live.fanmingming.cn/tv/广东经济.png" group-title="Trung Cộng",广东经济
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BNt1qf&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.cn/tv/汕头综合.png" group-title="Trung Cộng",汕头综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0ugUjx&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="汕头经济" tvg-logo="https://live.fanmingming.cn/tv/汕头经济.png" group-title="Trung Cộng",汕头经济
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=jADgSY&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://live.fanmingming.cn/tv/揭阳综合.png" group-title="Trung Cộng",揭阳综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=K4WbuP&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://live.fanmingming.cn/tv/揭阳生活.png" group-title="Trung Cộng",揭阳生活
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cv4MsP&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://live.fanmingming.cn/tv/深圳都市.png" group-title="Trung Cộng",深圳都市
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eHIpjm&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="Trung Cộng",广州综合
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=nE5LJE&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="Trung Cộng",广州新闻
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7p6YpM&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="Trung Cộng",广州影视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=9YrM5r&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="Trung Cộng",广州法治
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=uAVWWl&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市.png" group-title="Trung Cộng",广州南国都市
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hkXPT5&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="Trung Cộng",广西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=il7NYf&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="Trung Cộng",海南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rdlxSR&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="Trung Cộng",河南卫视
-http://112.27.235.94:8000/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="Trung Cộng",东南卫视
-http://112.27.235.94:8000/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="Trung Cộng",河北卫视
-http://112.27.235.94:8000/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="Trung Cộng",云南卫视
-http://112.27.235.94:8000/hls/40/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ZukRdC&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="Trung Cộng",湖北卫视
-http://112.27.235.94:8000/hls/41/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="Trung Cộng",天津卫视
-http://112.27.235.94:8000/hls/42/index.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="Trung Cộng",陕西卫视
-http://112.27.235.94:8000/hls/43/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yE9pbG&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="Trung Cộng",湖南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PEVEQN&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.cn/tv/怀旧剧场.png" group-title="Trung Cộng",怀旧剧场
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=bFsPpE&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="Trung Cộng",江苏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=hCf1wg&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="数字电影" tvg-logo="https://live.fanmingming.cn/tv/数字电影.png" group-title="Trung Cộng",数字电影
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FSOHhD&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="Trung Cộng",深圳卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rtUbRI&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="Trung Cộng",四川卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fqta2X&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="Trung Cộng",重庆卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=fb1cCw&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="Trung Cộng",浙江卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=FhIQvF&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="Trung Cộng",浙江卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=wK0pZ6&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="Trung Cộng",东方卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dnDe2X&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="Trung Cộng",北京卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=8fSJIg&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="Trung Cộng",江西卫视
-http://112.27.235.94:8000/hls/44/index.m3u8
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="Trung Cộng",山西卫视
-http://112.27.235.94:8000/hls/45/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dls13R&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="Trung Cộng",山东卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=exbATf&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="Trung Cộng",安徽卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Cnha2y&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="Trung Cộng",天津卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=i98791&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="Trung Cộng",贵州卫视
-http://112.27.235.94:8000/hls/46/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="Trung Cộng",辽宁卫视
-http://112.27.235.94:8000/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="Trung Cộng",黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yyICLS&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="Trung Cộng",河北卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=u4ybqZ&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="Trung Cộng",山西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=GKrr8b&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="Trung Cộng",陕西卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RQAP1h&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="Trung Cộng",内蒙古卫视
-http://112.27.235.94:8000/hls/49/index.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png" group-title="Trung Cộng",重温经典
-http://112.27.235.94:8000/hls/50/index.m3u8
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=vPrvyG&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="Trung Cộng",吉林卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=yzij0w&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="Trung Cộng",西藏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=cWIffw&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="Trung Cộng",新疆卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=tgacDz&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="Trung Cộng",云南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=OWt7ou&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="Trung Cộng",宁夏卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=s89SUK&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="Trung Cộng",甘肃卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=7QnTE8&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="Trung Cộng",东南卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Sc8XJc&tk=Jw9dngYWiHEK
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.cn/tv/兵团卫视.png" group-title="Trung Cộng",兵团卫视
+http://kkk.888.3116598.xyz/api.php?n=HKTV&id=BKrtwN&tk=Jw9dngYWiHEK
 
 --------------------------------------------------------------------------------
 
@@ -1405,7 +1464,7 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=eyV6tL&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=NMA8HV&tk=Jw9dngYWiHEK
+https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
