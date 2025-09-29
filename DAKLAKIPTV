@@ -1427,21 +1427,21 @@ http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Gtzshc&tk=Jw9dngYWiHEK
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://live.fanmingming.cn/tv/Now财经.png",Now Finance
+#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://live.fanmingming.cn/tv/Now财经.png" group-title="Hong Kong và Macao",Now Finance
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5yUqdT&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png",Now Movies
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="Hong Kong và Macao",Now Movies
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PL7bpb&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png",Now Popcorn
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="Hong Kong và Macao",Now Popcorn
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pB4lh&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.cn/tv/Now紫金国际.png",Now Jelli
+#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.cn/tv/Now紫金国际.png" group-title="Hong Kong và Macao",Now Jelli
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RXLnlt&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png",Now Chinese Drama
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png" group-title="Hong Kong và Macao",Now Chinese Drama
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RwBgTW&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://live.fanmingming.cn/tv/Now剧集台.png",Now Drama
+#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://live.fanmingming.cn/tv/Now剧集台.png" group-title="Hong Kong và Macao",Now Drama
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=esgQiD&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now英超1" tvg-logo="https://live.fanmingming.cn/tv/Now英超1.png",Now EPL 1
+#EXTINF:-1 tvg-name="Now英超1" tvg-logo="https://live.fanmingming.cn/tv/Now英超1.png" group-title="Hong Kong và Macao",Now EPL 1
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rvQZNa&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now668赛马" tvg-logo="https://live.fanmingming.cn/tv/Now668赛马.png",Now668
+#EXTINF:-1 tvg-name="Now668赛马" tvg-logo="https://live.fanmingming.cn/tv/Now668赛马.png" group-title="Hong Kong và Macao",Now668
 http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByPUcL&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao",TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
