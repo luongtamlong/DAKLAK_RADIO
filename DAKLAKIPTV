@@ -1314,84 +1314,118 @@ https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
 --------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="Tàu Cộng",CCTV-1 综合
-http://61.52.76.2:8888/hls/1/index.m3u8
-#EXTINF:-1 tvg-name="CCTV2" group-title="Tàu Cộng",CCTV-2 财经
-http://61.52.76.2:8888/hls/2/index.m3u8
-#EXTINF:-1 tvg-name="CCTV3" group-title="Tàu Cộng",CCTV-3 综艺
-http://61.52.76.2:8888/hls/3/index.m3u8
-#EXTINF:-1 tvg-name="CCTV4" group-title="Tàu Cộng",CCTV-4 中文国际
-http://61.52.76.2:8888/hls/4/index.m3u8
-#EXTINF:-1 tvg-name="CCTV5" group-title="Tàu Cộng",CCTV-5 体育
-http://61.52.76.2:8888/hls/5/index.m3u8
-#EXTINF:-1 tvg-name="CCTV6" group-title="Tàu Cộng",CCTV-6 电影
-http://61.52.76.2:8888/hls/6/index.m3u8
-#EXTINF:-1 tvg-name="CCTV7" group-title="Tàu Cộng",CCTV-7 国防军事
-http://61.52.76.2:8888/hls/7/index.m3u8
-#EXTINF:-1 tvg-name="CCTV8" group-title="Tàu Cộng",CCTV-8 电视剧
-http://61.52.76.2:8888/hls/8/index.m3u8
-#EXTINF:-1 tvg-name="CCTV9" group-title="Tàu Cộng",CCTV-9 纪录
-http://61.52.76.2:8888/hls/9/index.m3u8
-#EXTINF:-1 tvg-name="CCTV10" group-title="Tàu Cộng",CCTV-10 科教
-http://61.52.76.2:8888/hls/10/index.m3u8
-#EXTINF:-1 tvg-name="CCTV11" group-title="Tàu Cộng",CCTV-11 戏曲
-http://61.52.76.2:8888/hls/11/index.m3u8
-#EXTINF:-1 tvg-name="CCTV12" group-title="Tàu Cộng",CCTV-12 社会与法
-http://61.52.76.2:8888/hls/12/index.m3u8
-#EXTINF:-1 tvg-name="CCTV13" group-title="Tàu Cộng",CCTV-13 新闻
-http://61.52.76.2:8888/hls/13/index.m3u8
-#EXTINF:-1 tvg-name="CCTV14" group-title="Tàu Cộng",CCTV-14 少儿
-http://61.52.76.2:8888/hls/14/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" group-title="Tàu Cộng",CCTV-15 音乐
-http://61.52.76.2:8888/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CGTN" group-title="Tàu Cộng",CGTN
-http://123.14.81.54:8888/hls/16/index.m3u8
-#EXTINF:-1 tvg-name="CCTV17" group-title="Tàu Cộng",CCTV-17 农业农村
-http://123.14.81.54:8888/hls/17/index.m3u8
-#EXTINF:-1 tvg-name="河南卫视" group-title="Tàu Cộng",河南卫视
-http://123.14.81.54:8888/hls/19/index.m3u8
-#EXTINF:-1 tvg-name="湖南卫视" group-title="Tàu Cộng",湖南卫视
-http://123.14.81.54:8888/hls/20/index.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" group-title="Tàu Cộng",江苏卫视
-http://123.14.81.54:8888/hls/21/index.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" group-title="Tàu Cộng",浙江卫视
-http://123.14.81.54:8888/hls/22/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" group-title="Tàu Cộng",北京卫视
-http://123.14.81.54:8888/hls/23/index.m3u8
-#EXTINF:-1 tvg-name="东方卫视" group-title="Tàu Cộng",东方卫视
-http://123.14.81.54:8888/hls/24/index.m3u8
-#EXTINF:-1 tvg-name="天津卫视" group-title="Tàu Cộng",天津卫视
-http://123.14.81.54:8888/hls/25/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" group-title="Tàu Cộng",山东卫视
-http://123.14.81.54:8888/hls/26/index.m3u8
-#EXTINF:-1 tvg-name="安徽卫视" group-title="Tàu Cộng",安徽卫视
-http://123.14.81.54:8888/hls/27/index.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" group-title="Tàu Cộng",深圳卫视
-http://123.14.81.54:8888/hls/28/index.m3u8
-#EXTINF:-1 tvg-name="江西卫视" group-title="Tàu Cộng",江西卫视
-http://123.14.81.54:8888/hls/29/index.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" group-title="Tàu Cộng",湖北卫视
-http://123.14.81.54:8888/hls/30/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视" group-title="Tàu Cộng",四川卫视
-http://123.14.81.54:8888/hls/31/index.m3u8
-#EXTINF:-1 tvg-name="黑龙江卫视" group-title="Tàu Cộng",黑龙江卫视
-http://123.14.81.54:8888/hls/32/index.m3u8
-#EXTINF:-1 tvg-name="云南卫视" group-title="Tàu Cộng",云南卫视
-http://123.14.81.54:8888/hls/33/index.m3u8
-#EXTINF:-1 tvg-name="贵州卫视" group-title="Tàu Cộng",贵州卫视
-http://123.14.81.54:8888/hls/34/index.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" group-title="Tàu Cộng",辽宁卫视
-http://123.14.81.54:8888/hls/35/index.m3u8
-#EXTINF:-1 tvg-name="东南卫视" group-title="Tàu Cộng",东南卫视
-http://123.14.81.54:8888/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" group-title="Tàu Cộng",重庆卫视
-http://123.14.81.54:8888/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="广东卫视" group-title="Tàu Cộng",广东卫视
-http://123.14.81.54:8888/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="广西卫视" group-title="Tàu Cộng",广西卫视
-http://123.14.81.54:8888/hls/39/index.m3u8
-#EXTINF:-1 tvg-name="河北卫视" group-title="Tàu Cộng",河北卫视
-http://123.14.81.54:8888/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="Trung Cộng", CCTV1
+https://iptv.catvod.com/catvod.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="Trung Cộng", CCTV2
+https://iptv.catvod.com/catvod.php?id=cctv2
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="Trung Cộng", CCTV3
+https://iptv.catvod.com/catvod.php?id=cctv3
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="Trung Cộng", CCTV4
+https://iptv.catvod.com/catvod.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://logo.catvod.com/CCTV4%E6%AC%A7%E6%B4%B2.png" group-title="Trung Cộng", CCTV4欧洲
+https://iptv.catvod.com/catvod.php?id=cctv4o
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://logo.catvod.com/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="Trung Cộng", CCTV4美洲
+https://iptv.catvod.com/catvod.php?id=cctv4a
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="Trung Cộng", CCTV5
+https://iptv.catvod.com/catvod.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://logo.catvod.com/CCTV5%2B.png" group-title="Trung Cộng", CCTV5+
+https://iptv.catvod.com/catvod.php?id=cctv5p
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="Trung Cộng", CCTV6
+https://iptv.catvod.com/catvod.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="Trung Cộng", CCTV7
+https://iptv.catvod.com/catvod.php?id=cctv7
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="Trung Cộng", CCTV8
+https://iptv.catvod.com/catvod.php?id=cctv8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="Trung Cộng", CCTV9
+https://iptv.catvod.com/catvod.php?id=cctv9
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="Trung Cộng", CCTV10
+https://iptv.catvod.com/catvod.php?id=cctv10
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="Trung Cộng", CCTV11
+https://iptv.catvod.com/catvod.php?id=cctv11
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="Trung Cộng", CCTV12
+https://iptv.catvod.com/catvod.php?id=cctv12
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="Trung Cộng", CCTV13
+https://iptv.catvod.com/catvod.php?id=cctv13
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="Trung Cộng", CCTV14
+https://iptv.catvod.com/catvod.php?id=cctv14
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://logo.catvod.com/CCTV15.png" group-title="Trung Cộng", CCTV15
+https://iptv.catvod.com/catvod.php?id=cctv15
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://logo.catvod.com/CCTV17.png" group-title="Trung Cộng", CCTV17
+https://iptv.catvod.com/catvod.php?id=cctv17
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1.png" group-title="Trung Cộng", CHC影迷电影
+https://iptv.catvod.com/catvod.php?id=chcym
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://logo.catvod.com/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="Trung Cộng", CHC动作电影
+https://iptv.catvod.com/catvod.php?id=chcdz
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://logo.catvod.com/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="Trung Cộng", CHC家庭影院
+https://iptv.catvod.com/catvod.php?id=chcjt
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://logo.catvod.com/%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 北京卫视
+https://iptv.catvod.com/catvod.php?id=bjws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 东方卫视
+https://iptv.catvod.com/catvod.php?id=dfws
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://logo.catvod.com/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 天津卫视
+https://iptv.catvod.com/catvod.php?id=tjws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://logo.catvod.com/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 重庆卫视
+https://iptv.catvod.com/catvod.php?id=cqws
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://logo.catvod.com/%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 黑龙江卫视
+https://iptv.catvod.com/catvod.php?id=hljws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://logo.catvod.com/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 吉林卫视
+https://iptv.catvod.com/catvod.php?id=jlws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://logo.catvod.com/%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 辽宁卫视
+https://iptv.catvod.com/catvod.php?id=lnws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://logo.catvod.com/%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 内蒙古卫视
+https://iptv.catvod.com/catvod.php?id=nmws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://logo.catvod.com/%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 宁夏卫视
+https://iptv.catvod.com/catvod.php?id=nxws
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://logo.catvod.com/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 甘肃卫视
+https://iptv.catvod.com/catvod.php?id=gsws
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://logo.catvod.com/%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 青海卫视
+https://iptv.catvod.com/catvod.php?id=qhws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://logo.catvod.com/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 陕西卫视
+https://iptv.catvod.com/catvod.php?id=sxws
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 河北卫视
+https://iptv.catvod.com/catvod.php?id=hbws
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 山西卫视
+https://iptv.catvod.com/catvod.php?id=sxiws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://logo.catvod.com/%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 山东卫视
+https://iptv.catvod.com/catvod.php?id=sdws
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://logo.catvod.com/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 安徽卫视
+https://iptv.catvod.com/catvod.php?id=ahws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://logo.catvod.com/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 河南卫视
+https://iptv.catvod.com/catvod.php?id=hnws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 湖北卫视
+https://iptv.catvod.com/catvod.php?id=hubws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://logo.catvod.com/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 湖南卫视
+https://iptv.catvod.com/catvod.php?id=hunws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://logo.catvod.com/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 江西卫视
+https://iptv.catvod.com/catvod.php?id=jxws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://logo.catvod.com/%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 浙江卫视
+https://iptv.catvod.com/catvod.php?id=zjws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://logo.catvod.com/%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 东南卫视
+https://iptv.catvod.com/catvod.php?id=dnws
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://logo.catvod.com/%E5%8E%A6%E9%97%A8%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 厦门卫视
+https://iptv.catvod.com/catvod.php?id=xmws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 广东卫视
+https://iptv.catvod.com/catvod.php?id=gdws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 深圳卫视
+https://iptv.catvod.com/catvod.php?id=szws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://logo.catvod.com/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 广西卫视
+https://iptv.catvod.com/catvod.php?id=gxws
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://logo.catvod.com/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 云南卫视
+https://iptv.catvod.com/catvod.php?id=ynws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://logo.catvod.com/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 贵州卫视
+https://iptv.catvod.com/catvod.php?id=gzws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://logo.catvod.com/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 四川卫视
+https://iptv.catvod.com/catvod.php?id=scws
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://logo.catvod.com/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 新疆卫视
+https://iptv.catvod.com/catvod.php?id=xjws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://logo.catvod.com/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 兵团卫视
+https://iptv.catvod.com/catvod.php?id=btws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://logo.catvod.com/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 西藏卫视
+https://iptv.catvod.com/catvod.php?id=xzws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://logo.catvod.com/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="Trung Cộng", 海南卫视
+https://iptv.catvod.com/catvod.php?id=hinws
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="" group-title="Trung Cộng", FUCK YOU CHINA
+https://iptv.catvod.com/catvod.php?id=ssws
 
 --------------------------------------------------------------------------------
 
@@ -1402,16 +1436,13 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="TV 33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 76
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=dYnnu8&tk=zBOsAksFrYM2
+http://113.95.141.191:8891/bysid/76
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
-https://mytv.860775.xyz/J
+http://60.246.171.122:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
@@ -1423,27 +1454,11 @@ http://110.235.82.60:8001/bysid/2
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
 http://110.235.82.60:8001/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=Gtzshc&tk=Jw9dngYWiHEK
+http://60.246.171.122:8889/bysid/96
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
-http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+http://60.246.171.122:8889/bysid/99
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="Now财经" tvg-logo="https://live.fanmingming.cn/tv/Now财经.png" group-title="Hong Kong và Macao",Now Finance
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=5yUqdT&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="Hong Kong và Macao",Now Movies
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=PL7bpb&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="Hong Kong và Macao",Now Popcorn
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=0pB4lh&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.cn/tv/Now紫金国际.png" group-title="Hong Kong và Macao",Now Jelli
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RXLnlt&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png" group-title="Hong Kong và Macao",Now Chinese Drama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=RwBgTW&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://live.fanmingming.cn/tv/Now剧集台.png" group-title="Hong Kong và Macao",Now Drama
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=esgQiD&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now英超1" tvg-logo="https://live.fanmingming.cn/tv/Now英超1.png" group-title="Hong Kong và Macao",Now EPL 1
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=rvQZNa&tk=Jw9dngYWiHEK
-#EXTINF:-1 tvg-name="Now668赛马" tvg-logo="https://live.fanmingming.cn/tv/Now668赛马.png" group-title="Hong Kong và Macao",Now668
-http://kkk.888.3116598.xyz/api.php?n=HKTV&id=ByPUcL&tk=Jw9dngYWiHEK
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao",TDM Ou Mun
 http://60.246.171.122:8891/bysid/91
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao",TDM Canal Macau
