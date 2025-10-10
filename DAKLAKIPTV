@@ -705,7 +705,7 @@ https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
 #EXTINF:-1 group-title="Đức", ARD Das Erste
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:-1 group-title="Đức", ZDF
-https://viamotionhsi.netplus.ch/live/eds/zdHD/browser-dash/zdHD.mpd
+https://viamotionhsi.netplus.ch/live/eds/zdfHD/browser-dash/zdfHD.mpd
 #EXTINF:-1 tvg-id="zdfinfohd" tvg-chno="213" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png", ZDF info HD
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
 #EXTINF:-1 tvg-id="zdfneohd" tvg-chno="214" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png", ZDF neo HD
