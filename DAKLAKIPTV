@@ -1446,13 +1446,13 @@ http://60.246.171.122:8889/bysid/1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
-http://110.235.82.60:8001/bysid/82
+http://60.246.171.122:8892/bysid/82
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Hong Kong và Macao",TVB News
-http://110.235.82.60:8001/bysid/83
+http://60.246.171.122:8892/bysid/83
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
-http://110.235.82.60:8001/bysid/2
+http://60.246.171.122:8892/bysid/2
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
-http://110.235.82.60:8001/bysid/85
+http://60.246.171.122:8892/bysid/85
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
 http://60.246.171.122:8889/bysid/96
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
@@ -1460,7 +1460,7 @@ http://60.246.171.122:8889/bysid/99
 #EXTINF:-1 tvg-id="NOW NEWS" tvg-name="NOW NEWS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch332_425_305" group-title="Hong Kong và Macao", NOW News
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/TDMOuMun.png" group-title="Hong Kong và Macao",TDM Ou Mun
-http://60.246.171.122:8891/bysid/91
+https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/CanalMacau.png" group-title="Hong Kong và Macao",TDM Canal Macau
 http://60.246.171.122:8891/bysid/92
 #EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TDMSport.png/500px-TDMSport.png" group-title="Hong Kong và Macao",TDM Desporto
