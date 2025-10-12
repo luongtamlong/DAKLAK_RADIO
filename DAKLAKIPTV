@@ -1790,6 +1790,9 @@ https://mt02.utako.moe/gingach/index.m3u8
 https://mt02.utako.moe/tabi/index.m3u8
 
 --------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/1200px-Korean_Central_Television_2005.svg.png" group-title="Hột nhãn tiên sinh",KCTV
+http://hoiquan.click/kctv
+--------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="🇰🇷 Hàn Quốc",KBS 1TV 
 http://mytv.dothome.co.kr/ch/public/1.php
