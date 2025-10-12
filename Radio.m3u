@@ -880,6 +880,10 @@ http://live.trusl.com:1180/;
 http://live.trusl.com:1150/listen.pls?sid=1
 #EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="LAKHANDA" tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s900-c-k-c0x00ffffff-no-rj",ITN Lakhanda FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Korean Central Broadcasting Service
+https://radio.intchoson.com/kcbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-Kp1aqtcL7ahCzZiX-DtucTQ-t500x500.jpg" group-title="QUỐC TẾ" radio=true,Voice of Korea
+https://radio.intchoson.com/vok/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Pyongyang FM
 https://myradio24.org/69366
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KBS_Radio_1_logo.svg/1920px-KBS_Radio_1_logo.svg.png" group-title="QUỐC TẾ" radio=true,KBS World Radio Vietnamese
@@ -1513,6 +1517,7 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
 
 
