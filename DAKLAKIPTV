@@ -520,69 +520,12 @@ https://absp-live.akamaized.net/dash/live/2099526/gmanw/manifest.mpd|Referer=htt
 https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd|Referer=https://www.iwanttfc.com/
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cctv4Asia.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/cctv4-sg.png",cctv4 Asia 
 http://t.061899.xyz/tl/tl.php?id=cctv4
-#EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png" group-title="Quốc tế", 東方衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-https://judy.diver.eu.org/websuper265.php?id=DTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 雲南瀾湄國際衛視
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://judy.diver.eu.org/websuper265.php?id=YNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 安徽廣播電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://judy.diver.eu.org/websuper265.php?id=AHTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="北京電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 北京電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://judy.diver.eu.org/websuper265.php?id=BJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣西電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 廣西電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://judy.diver.eu.org/websuper265.php?id=GXTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 福建海峽衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://judy.diver.eu.org/websuper265.php?id=FJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="湖南電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 湖南電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://judy.diver.eu.org/websuper265.php?id=HNTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="江蘇電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 江蘇電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://judy.diver.eu.org/websuper265.php?id=JSTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 廣東廣播電視台大灣區衛視頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://judy.diver.eu.org/websuper265.php?id=GBTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="浙江電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 浙江電視台國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://judy.diver.eu.org/websuper265.php?id=ZJTV
-#EXTINF:-1 tvg-id="MytvSuper" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="Quốc tế", 深圳衛視國際頻道
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://judy.diver.eu.org/websuper265.php?id=SZTV
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Jade International
 http://php.jdshipin.com/TVOD/iptv.php?id=huali
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVBI
-https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB News International
 https://tvb.860775.xyz/I-NEWS
-#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-9/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM Satellite
-https://globallive.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-9/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM-Macau Satéllite
+https://cdn6.163189.xyz/163189/as
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="Quốc tế",Phượng Hoàng Trung Văn
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="Quốc tế",Phượng Hoàng Tin Tức
@@ -612,7 +555,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/57385
 #EXTINF:-1 group-title="Anh Quốc", BBC News Channel
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC One
-https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+http://86.156.254.56:4202/bysid/17545
 #EXTINF:-1 group-title="Anh Quốc", BBC Two
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
@@ -623,7 +566,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC Parliament
-https://photocall.site/h4tw/fo.m3u8?ch=bbcparliament
+http://86.156.254.56:4200/bysid/4736
 #EXTINF:-1 group-title="Anh Quốc", CBBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
@@ -631,10 +574,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", ITV1
-#EXTVLCOPT:http-origin=https://jxoxkplay.xyz
-#EXTVLCOPT:http-referrer=https://jxoxkplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://dokko1new.newkso.ru/dokko1/premium350/mono.m3u8
+http://86.156.254.56:4202/bysid/17609
 #EXTINF:-1 group-title="Anh Quốc", ITV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
@@ -1435,8 +1375,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-id="TV 33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Hong Kong và Macao", RTHK 33
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 76
-http://113.95.141.191:8891/bysid/76
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
@@ -1473,183 +1411,6 @@ http://cdn6.163189.xyz/163189/amzy
 https://globallive.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Portuguese)
 https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
-
---------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="170cd53a6909f7d77c55305b366c8393" tvg-logo="https://via.placeholder.com/150x80?text=TVBS+News+%E6%96%B0%E9%97%BB%E5%8F%B0" group-title="Đài Loan", TVBS News 新闻台
-http://tv123.vvvv.ee/live.php/?ch=101
-#EXTINF:-1 tvg-id="0eb18eb8d202b0bdec679a16cda10eaf" tvg-logo="https://via.placeholder.com/150x80?text=TVBS+%E6%AC%A2%E4%B9%90%E5%8F%B0+%EF%BC%88%E5%A4%87%E4%BB%BD%EF%BC%89" group-title="Đài Loan", TVBS 欢乐台 （备份）
-http://tv123.vvvv.ee/live.php/?ch=102
-#EXTINF:-1 tvg-id="a21908e985446569aa2f4c8671056d30" tvg-logo="https://via.placeholder.com/150x80?text=TVBS+HD" group-title="Đài Loan", TVBS HD
-http://tv123.vvvv.ee/live.php/?ch=103
-#EXTINF:-1 tvg-id="eca4e7f119ceed1ae6742407521ddad9" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD" group-title="Đài Loan", 中天新闻 HD
-http://tv123.vvvv.ee/live.php/?ch=104
-#EXTINF:-1 tvg-id="0db34b293c2aeec868fc7af7a858799c" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E5%A4%A9%E5%A8%B1%E4%B9%90+CTI+Entertaiment" group-title="Đài Loan", 中天娱乐 CTI Entertaiment
-http://tv123.vvvv.ee/live.php/?ch=105
-#EXTINF:-1 tvg-id="b97e7bd8ba9b2e457f736c287f0fa0bf" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88+CTI+Metro" group-title="Đài Loan", 中天综合 CTI Metro
-http://tv123.vvvv.ee/live.php/?ch=106
-#EXTINF:-1 tvg-id="4a789f0e146848bda0dee842cba28533" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB" group-title="Đài Loan", 中天新闻
-http://tv123.vvvv.ee/live.php/?ch=107
-#EXTINF:-1 tvg-id="0c4d22de10addcf6831b980ef9eab4a1" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8F%B0%E8%A7%86+TTV+HD" group-title="Đài Loan", 台视 TTV HD
-http://tv123.vvvv.ee/live.php/?ch=108
-#EXTINF:-1 tvg-id="39aef193cafcdc30d2b300c8729aba4b" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0" group-title="Đài Loan", 台视新闻台
-http://tv123.vvvv.ee/live.php/?ch=109
-#EXTINF:-1 tvg-id="f1614635571f635bdc8f7d509df8bf10" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8F%B0%E8%A7%86%E7%BB%BC%E5%90%88%E5%8F%B0" group-title="Đài Loan", 台视综合台
-http://tv123.vvvv.ee/live.php/?ch=110
-#EXTINF:-1 tvg-id="2d34b4bf9246d324ae52bad8a5e44c5d" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E8%A7%86+HD" group-title="Đài Loan", 中视 HD
-http://tv123.vvvv.ee/live.php/?ch=111
-#EXTINF:-1 tvg-id="a315144d5c81e77db2da7b8caf9f118a" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0" group-title="Đài Loan", 中视新闻台
-http://tv123.vvvv.ee/live.php/?ch=112
-#EXTINF:-1 tvg-id="0681b40e11aed8f4bcce64256f566ae7" tvg-logo="https://via.placeholder.com/150x80?text=%E6%B0%91%E8%A7%86+HD" group-title="Đài Loan", 民视 HD
-http://tv123.vvvv.ee/live.php/?ch=113
-#EXTINF:-1 tvg-id="d281e8649026fbcd2ff7ff3533fdbd2c" tvg-logo="https://via.placeholder.com/150x80?text=%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0+FTV+News" group-title="Đài Loan", 民视新闻台 FTV News
-http://tv123.vvvv.ee/live.php/?ch=114
-#EXTINF:-1 tvg-id="fba0106851541d6409e8b004e6f6e117" tvg-logo="https://via.placeholder.com/150x80?text=%E6%B0%91%E8%A7%86%E5%8F%B0%E6%B9%BE%E5%8F%B0" group-title="Đài Loan", 民视台湾台
-http://tv123.vvvv.ee/live.php/?ch=115
-#EXTINF:-1 tvg-id="78edfab1df91f240eb7e793bd1b15fe9" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%8E%E8%A7%86+CTS+HD" group-title="Đài Loan", 华视 CTS HD
-http://tv123.vvvv.ee/live.php/?ch=116
-#EXTINF:-1 tvg-id="e08c492a371c2ab6e8435031b3f32bf8" tvg-logo="https://via.placeholder.com/150x80?text=%E5%A4%A9%E6%98%A0%E9%A0%BB%E9%81%93" group-title="Đài Loan", 天映頻道
-http://tv123.vvvv.ee/live.php/?ch=117
-#EXTINF:-1 tvg-id="cb844f97b46bb9c659bbad90f3a1cd86" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AB%E5%A4%A7%E7%AC%AC%E4%B8%80+GTV+First" group-title="Đài Loan", 八大第一 GTV First
-http://tv123.vvvv.ee/live.php/?ch=118
-#EXTINF:-1 tvg-id="770c6be10b7a37809d873fcd1ec9f7fb" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AB%E5%A4%A7%E7%BB%BC%E5%90%88+GTV+Metro" group-title="Đài Loan", 八大综合 GTV Metro
-http://tv123.vvvv.ee/live.php/?ch=119
-#EXTINF:-1 tvg-id="9f92d2eeba3ef4bddaa9c46f1d64fedc" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7+GTV+Drama" group-title="Đài Loan", 八大戏剧 GTV Drama
-http://tv123.vvvv.ee/live.php/?ch=120
-#EXTINF:-1 tvg-id="cc0490ba6fdd56649e02ad1a13c7e7b9" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AB%E5%A4%A7%E5%A8%B1%E4%B9%90+GTV+Entertainment" group-title="Đài Loan", 八大娱乐 GTV Entertainment
-http://tv123.vvvv.ee/live.php/?ch=121
-#EXTINF:-1 tvg-id="68a273c7a3ba7578a2ca58fe24f3c2be" tvg-logo="https://via.placeholder.com/150x80?text=HBO_HD" group-title="Đài Loan", HBO_HD
-http://tv123.vvvv.ee/live.php/?ch=122
-#EXTINF:-1 tvg-id="691d4ec0d845f027529d5c573e14b144" tvg-logo="https://via.placeholder.com/150x80?text=HBO_HITS" group-title="Đài Loan", HBO_HITS
-http://tv123.vvvv.ee/live.php/?ch=123
-#EXTINF:-1 tvg-id="eb7222ef9cacc4c8f3f07bcc5754e3c5" tvg-logo="https://via.placeholder.com/150x80?text=Hollywood+Movies" group-title="Đài Loan", Hollywood Movies
-http://tv123.vvvv.ee/live.php/?ch=124
-#EXTINF:-1 tvg-id="c4842a68ee19e238c0222c2a3879e10e" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%89%E7%AB%8B%E5%8F%B0%E6%B9%BE+Sanli+Taiwan" group-title="Đài Loan", 三立台湾 Sanli Taiwan
-http://tv123.vvvv.ee/live.php/?ch=125
-#EXTINF:-1 tvg-id="254ea8766c2e4f42a22f527ace38520b" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%89%E7%AB%8B%E6%88%8F%E5%89%A7%E5%8F%B0" group-title="Đài Loan", 三立戏剧台
-http://tv123.vvvv.ee/live.php/?ch=126
-#EXTINF:-1 tvg-id="a9c8739b9d4ac77dcf47e6ba7f907f05" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%89%E7%AB%8B%E7%BB%BC%E5%90%88+Sanli+Metro" group-title="Đài Loan", 三立综合 Sanli Metro
-http://tv123.vvvv.ee/live.php/?ch=127
-#EXTINF:-1 tvg-id="168e9996f33410551c3f38777f7e8780" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%89%E7%AB%8B%E9%83%BD%E4%BC%9A%E5%8F%B0" group-title="Đài Loan", 三立都会台
-http://tv123.vvvv.ee/live.php/?ch=128
-#EXTINF:-1 tvg-id="b0cfd8555a8ccf72d7dd85e29b0a0984" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB+ETTV+News" group-title="Đài Loan", 东森新闻 ETTV News
-http://tv123.vvvv.ee/live.php/?ch=129
-#EXTINF:-1 tvg-id="ea561c74560f38d405a67622947bae32" tvg-logo="https://via.placeholder.com/150x80?text=CINEMAX" group-title="Đài Loan", CINEMAX
-http://tv123.vvvv.ee/live.php/?ch=130
-#EXTINF:-1 tvg-id="9f208679016304df8c8242b21829bc44" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88+ETTV+Metro" group-title="Đài Loan", 东森综合 ETTV Metro
-http://tv123.vvvv.ee/live.php/?ch=131
-#EXTINF:-1 tvg-id="b4d5af4b17eccd0c771e4dc6acde00c2" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7+ETTV+Drama" group-title="Đài Loan", 东森戏剧 ETTV Drama
-http://tv123.vvvv.ee/live.php/?ch=132
-#EXTINF:-1 tvg-id="163e6c3e3bd21f2beb6af46d4b6b9353" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86" group-title="Đài Loan", 东森超视
-http://tv123.vvvv.ee/live.php/?ch=133
-#EXTINF:-1 tvg-id="629e4a38c497f0ee55ed4649598e995c" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB+ETTV+Business" group-title="Đài Loan", 东森财经新闻 ETTV Business
-http://tv123.vvvv.ee/live.php/?ch=134
-#EXTINF:-1 tvg-id="4ca0fb15a522aa388588ddd247cbcc24" tvg-logo="https://via.placeholder.com/150x80?text=%E4%BF%A1%E5%90%89%E9%A0%BB%E9%81%93" group-title="Đài Loan", 信吉頻道
-http://tv123.vvvv.ee/live.php/?ch=135
-#EXTINF:-1 tvg-id="28edce7a8df0c3e1ceebadc18e04a842" tvg-logo="https://via.placeholder.com/150x80?text=%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB%E5%8F%B0" group-title="Đài Loan", 寰宇新闻台
-http://tv123.vvvv.ee/live.php/?ch=136
-#EXTINF:-1 tvg-id="1179540f6853d3fdd5cb97402854def6" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AC%E8%A7%862" group-title="Đài Loan", 公视2
-http://tv123.vvvv.ee/live.php/?ch=137
-#EXTINF:-1 tvg-id="264d91ef13b8b084895fc52494a1404c" tvg-logo="https://via.placeholder.com/150x80?text=%E5%A4%A7%E7%88%B11%E5%8F%B0" group-title="Đài Loan", 大爱1台
-http://tv123.vvvv.ee/live.php/?ch=138
-#EXTINF:-1 tvg-id="0caf39045685810782a726a983ee24d8" tvg-logo="https://via.placeholder.com/150x80?text=%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB%E5%8F%B0" group-title="Đài Loan", 非凡新闻台
-http://tv123.vvvv.ee/live.php/?ch=139
-#EXTINF:-1 tvg-id="1f1fd460f41124dbe65d5fe74c4f6644" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E5%8D%8E%E6%88%8F%E5%89%A7+Lunghua+Drama" group-title="Đài Loan", 龙华戏剧 Lunghua Drama
-http://tv123.vvvv.ee/live.php/?ch=140
-#EXTINF:-1 tvg-id="171cd319c8789bb9f1a268a626f48cb7" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E5%8D%8E%E7%BB%8F%E5%85%B8%E5%8F%B0" group-title="Đài Loan", 龙华经典台
-http://tv123.vvvv.ee/live.php/?ch=141
-#EXTINF:-1 tvg-id="d83278857f07c25df0445f97cdae657a" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F" group-title="Đài Loan", 龙华偶像
-http://tv123.vvvv.ee/live.php/?ch=142
-#EXTINF:-1 tvg-id="2197cb071d222130bf2099e8709d1cd5" tvg-logo="https://via.placeholder.com/150x80?text=AXN+Taiwan" group-title="Đài Loan", AXN Taiwan
-http://tv123.vvvv.ee/live.php/?ch=143
-#EXTINF:-1 tvg-id="f041b84008349c906887061ffa2131e7" tvg-logo="https://via.placeholder.com/150x80?text=%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85%E5%8F%B0" group-title="Đài Loan", 靖天国际台
-http://tv123.vvvv.ee/live.php/?ch=144
-#EXTINF:-1 tvg-id="2c3aefae870d058ac9f18e9ad8496321" tvg-logo="https://via.placeholder.com/150x80?text=%E5%B9%B4%E4%BB%A3%E6%96%B0%E9%97%BB" group-title="Đài Loan", 年代新闻
-http://tv123.vvvv.ee/live.php/?ch=145
-#EXTINF:-1 tvg-id="fed5104e601890a571e4e4662deb039c" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E6%97%A5%E6%9C%AC%E5%8F%B0" group-title="Đài Loan", 纬来日本台
-http://tv123.vvvv.ee/live.php/?ch=146
-#EXTINF:-1 tvg-id="900188d15e69c88c2742455e406ffe7f" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E7%94%B5%E5%BD%B1%E5%8F%B0" group-title="Đài Loan", 纬来电影台
-http://tv123.vvvv.ee/live.php/?ch=147
-#EXTINF:-1 tvg-id="8d6457d1b6c00daea5b90e3c3cb2fde8" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0" group-title="Đài Loan", 纬来体育台
-http://tv123.vvvv.ee/live.php/?ch=148
-#EXTINF:-1 tvg-id="ca8d503989822e48b10655ad75cd905e" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E7%BB%BC%E5%90%88%E5%8F%B0" group-title="Đài Loan", 纬来综合台
-http://tv123.vvvv.ee/live.php/?ch=149
-#EXTINF:-1 tvg-id="dad555d691909377b56a8ca8092237d3" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E8%82%B2%E4%B9%90%28%E5%A4%87%E7%94%A8%29" group-title="Đài Loan", 纬来育乐(备用)
-http://tv123.vvvv.ee/live.php/?ch=150
-#EXTINF:-1 tvg-id="c5d801259c031416719e9e7cb3a01795" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BA%AC%E6%9D%A5%E7%B2%BE%E5%BD%A9" group-title="Đài Loan", 纬来精彩
-http://tv123.vvvv.ee/live.php/?ch=151
-#EXTINF:-1 tvg-id="8f419485f5eb1c5eeeebd5b962fe8aa3" tvg-logo="https://via.placeholder.com/150x80?text=%E5%A5%BD%E6%B6%88%E6%81%AF+2" group-title="Đài Loan", 好消息 2
-http://tv123.vvvv.ee/live.php/?ch=152
-#EXTINF:-1 tvg-id="bff2595bce5b84f35bb6bd6de9c9f456" tvg-logo="https://via.placeholder.com/150x80?text=%E5%A4%A7%E7%88%B12%E5%8F%B0" group-title="Đài Loan", 大爱2台
-http://tv123.vvvv.ee/live.php/?ch=153
-#EXTINF:-1 tvg-id="d5f3289879b458e424e27defcd3c0403" tvg-logo="https://via.placeholder.com/150x80?text=%E4%BA%9A%E6%B4%B2%E7%BE%8E%E9%A3%9F" group-title="Đài Loan", 亚洲美食
-http://tv123.vvvv.ee/live.php/?ch=154
-#EXTINF:-1 tvg-id="d8addab13f0194673777b66628b99461" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BE%8E%E9%A3%9F%E6%98%9F%E7%90%83" group-title="Đài Loan", 美食星球
-http://tv123.vvvv.ee/live.php/?ch=155
-#EXTINF:-1 tvg-id="ca4d0608de776c6a9ad72f38bea6d6b4" tvg-logo="https://via.placeholder.com/150x80?text=%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8+TLC+Asia" group-title="Đài Loan", 亚洲旅游 TLC Asia
-http://tv123.vvvv.ee/live.php/?ch=156
-#EXTINF:-1 tvg-id="232c84f1b3fc3fdeab7879ad274664aa" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1+ETTV+Movie" group-title="Đài Loan", 东森电影 ETTV Movie
-http://tv123.vvvv.ee/live.php/?ch=157
-#EXTINF:-1 tvg-id="49c8e1e7cc32c19402ff6d070d34806b" tvg-logo="https://via.placeholder.com/150x80?text=%E9%98%BF%E9%87%8C%E9%83%8E+Arirang" group-title="Đài Loan", 阿里郎 Arirang
-http://tv123.vvvv.ee/live.php/?ch=158
-#EXTINF:-1 tvg-id="e913379c271d619159047b2dd2377a24" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A8+1" group-title="Đài Loan", 博斯运动 1
-http://tv123.vvvv.ee/live.php/?ch=159
-#EXTINF:-1 tvg-id="0562b33e0c18e3850e60279e0ba29f85" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%9A%E6%96%AF%E8%BF%90%E5%8A%A8+2" group-title="Đài Loan", 博斯运动 2
-http://tv123.vvvv.ee/live.php/?ch=160
-#EXTINF:-1 tvg-id="8ea35170d17bbba8a4f91334eaa5446f" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%9A%E6%96%AF%E9%AB%98%E7%90%832+HD" group-title="Đài Loan", 博斯高球2 HD
-http://tv123.vvvv.ee/live.php/?ch=161
-#EXTINF:-1 tvg-id="f58e3fbd9bc8dd2e41d50b7aa86c66fd" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%9A%E6%96%AF%E7%BD%91%E7%90%83+HD" group-title="Đài Loan", 博斯网球 HD
-http://tv123.vvvv.ee/live.php/?ch=162
-#EXTINF:-1 tvg-id="66fbeebcaf00290b0626ab1551ee4837" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E6%B4%8B%E7%89%87+ETTV+Western" group-title="Đài Loan", 东森洋片 ETTV Western
-http://tv123.vvvv.ee/live.php/?ch=163
-#EXTINF:-1 tvg-id="e992809f2b88febc44c0b4c3dc2e4829" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E5%8D%8E%E6%B4%8B%E7%89%87+Lunghua+Western" group-title="Đài Loan", 龙华洋片 Lunghua Western
-http://tv123.vvvv.ee/live.php/?ch=164
-#EXTINF:-1 tvg-id="c29f170a29c5309e0e333e0de4a8b710" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%9A%E6%96%AF%E6%97%A0%E9%99%90" group-title="Đài Loan", 博斯无限
-http://tv123.vvvv.ee/live.php/?ch=165
-#EXTINF:-1 tvg-id="cfb45489c712c89db5a0b7963b318e35" tvg-logo="https://via.placeholder.com/150x80?text=MTV+Live" group-title="Đài Loan", MTV Live
-http://tv123.vvvv.ee/live.php/?ch=166
-#EXTINF:-1 tvg-id="54e88bb1b730136cb0f6f54bf02a0e44" tvg-logo="https://via.placeholder.com/150x80?text=%E9%BE%99%E8%AF%A6%E6%97%B6%E4%BB%A3" group-title="Đài Loan", 龙详时代
-http://tv123.vvvv.ee/live.php/?ch=167
-#EXTINF:-1 tvg-id="e1fc8805a3331a83283c5a9dd0259866" tvg-logo="https://via.placeholder.com/150x80?text=EYETV+%E6%97%85%E6%B8%B8" group-title="Đài Loan", EYETV 旅游
-http://tv123.vvvv.ee/live.php/?ch=168
-#EXTINF:-1 tvg-id="2ed91160f4113c2cd5c6609766fb08bb" tvg-logo="https://via.placeholder.com/150x80?text=%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A%E5%8F%B0" group-title="Đài Loan", 靖天卡通台
-http://tv123.vvvv.ee/live.php/?ch=169
-#EXTINF:-1 tvg-id="e7bc5cb46d9ed7f0e9494a4d1ecb646e" tvg-logo="https://via.placeholder.com/150x80?text=EYETV+%E6%88%8F%E5%89%A7" group-title="Đài Loan", EYETV 戏剧
-http://tv123.vvvv.ee/live.php/?ch=170
-#EXTINF:-1 tvg-id="da7c10b4db5173707c89e0888f73e6c8" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0+Star+Movies+Chinese" group-title="Đài Loan", 卫视中文台 Star Movies Chinese
-http://tv123.vvvv.ee/live.php/?ch=171
-#EXTINF:-1 tvg-id="110514402ef01d1d083557064cae3438" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%9C%E6%A3%AE%E5%B9%BC%E5%B9%BC+Yoyo+TV" group-title="Đài Loan", 东森幼幼 Yoyo TV
-http://tv123.vvvv.ee/live.php/?ch=172
-#EXTINF:-1 tvg-id="c73f35112e74ce77a8ecc4ddb5628bf2" tvg-logo="https://via.placeholder.com/150x80?text=%E5%8D%AB%E8%A7%86%E7%94%B5%E5%BD%B1%E5%8F%B0" group-title="Đài Loan", 卫视电影台
-http://tv123.vvvv.ee/live.php/?ch=173
-#EXTINF:-1 tvg-id="8467323d62ebf5ab353627d4e186969f" tvg-logo="https://via.placeholder.com/150x80?text=%E7%BE%8E%E4%BA%9A%E7%94%B5%E5%BD%B1" group-title="Đài Loan", 美亚电影
-http://tv123.vvvv.ee/live.php/?ch=174
-#EXTINF:-1 tvg-id="2eea13d889e554aba55b1e197da35816" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E5%BD%B1%E5%89%A7%E5%8F%B0" group-title="Đài Loan", 爱尔达影剧台
-http://tv123.vvvv.ee/live.php/?ch=175
-#EXTINF:-1 tvg-id="6420ab30d2ce192f0eb37aba891c5a47" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E7%BB%BC%E5%90%88%E5%8F%B0" group-title="Đài Loan", 爱尔达综合台
-http://tv123.vvvv.ee/live.php/?ch=176
-#EXTINF:-1 tvg-id="061fd1ad76c7e49774baa6343d23393d" tvg-logo="https://via.placeholder.com/150x80?text=%E6%98%9F%E5%8D%AB%E7%94%B5%E5%BD%B1" group-title="Đài Loan", 星卫电影
-http://tv123.vvvv.ee/live.php/?ch=177
-#EXTINF:-1 tvg-id="43a172400f0d651781f593843febc815" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E5%BD%B1%E5%89%A7" group-title="Đài Loan", 爱尔达影剧
-http://tv123.vvvv.ee/live.php/?ch=178
-#EXTINF:-1 tvg-id="31a2ddbc6bf052c44f149f43c5e7850d" tvg-logo="https://via.placeholder.com/150x80?text=AFC+%E4%BA%9A%E6%B4%B2%E6%97%85%E6%B8%B8%E5%8F%B0" group-title="Đài Loan", AFC 亚洲旅游台
-http://tv123.vvvv.ee/live.php/?ch=179
-#EXTINF:-1 tvg-id="255902274560c201dc0da8ed817d7002" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0" group-title="Đài Loan", 爱尔达体育1台
-http://tv123.vvvv.ee/live.php/?ch=180
-#EXTINF:-1 tvg-id="e4c61c912d631f69d37a7c6f2ebc84aa" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B22%E5%8F%B0" group-title="Đài Loan", 爱尔达体育2台
-http://tv123.vvvv.ee/live.php/?ch=181
-#EXTINF:-1 tvg-id="ea382422f252efcaa53800db4f87a05a" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B23%E5%8F%B0" group-title="Đài Loan", 爱尔达体育3台
-http://tv123.vvvv.ee/live.php/?ch=182
-#EXTINF:-1 tvg-id="65d7eb1c641215902ff195aaec98cff4" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B24%E5%8F%B0" group-title="Đài Loan", 爱尔达体育4台
-http://tv123.vvvv.ee/live.php/?ch=183
-#EXTINF:-1 tvg-id="1ed954e561f5a45908a012b533fbfeae" tvg-logo="https://via.placeholder.com/150x80?text=HBO+Family" group-title="Đài Loan", HBO Family
-http://tv123.vvvv.ee/live.php/?ch=184
-#EXTINF:-1 tvg-id="960f72324544843971737b7010bebdd5" tvg-logo="https://via.placeholder.com/150x80?text=%E5%85%AC%E8%A7%86" group-title="Đài Loan", 公视
-http://tv123.vvvv.ee/live.php/?ch=185
-#EXTINF:-1 tvg-id="d77f4a118f1fa06bd2ce0624060d3f22" tvg-logo="https://via.placeholder.com/150x80?text=%E4%B8%AD%E8%A7%86%E7%BB%8F%E5%85%B8" group-title="Đài Loan", 中视经典
-http://tv123.vvvv.ee/live.php/?ch=186
-#EXTINF:-1 tvg-id="fd889e7c75fea45742adaaa67fcd3a73" tvg-logo="https://via.placeholder.com/150x80?text=%E7%88%B1%E5%B0%94%E8%BE%BE%E4%BD%93%E8%82%B21%E5%8F%B0%28%E5%A4%87%E7%94%A8%29" group-title="Đài Loan", 爱尔达体育1台(备用)
-http://tv123.vvvv.ee/live.php/?ch=187
 
 
 --------------------------------------------------------------------------------
@@ -1688,7 +1449,6 @@ https://mt01.utako.moe/ytv/index.m3u8
 https://mt01.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 https://mt01.utako.moe/suntv/index.m3u8
-
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://mt01.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
@@ -1735,7 +1495,6 @@ https://mt02.utako.moe/Animax/index.m3u8
 https://mt02.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://mt02.utako.moe/skya/index.m3u8
-
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
