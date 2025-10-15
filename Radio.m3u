@@ -21,11 +21,11 @@ https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
 https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
-https://media-audio.vov.vn/vovGTHN.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthn2/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
-https://media-audio.vov.vn/vovGTHCM.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
-https://media-audio.vov.vn/vovgtMeKong.sdp_aac/playlist.m3u8
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtduyenhai" group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 
@@ -1517,6 +1517,7 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
 
 
