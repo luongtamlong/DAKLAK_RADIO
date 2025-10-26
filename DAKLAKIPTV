@@ -1331,9 +1331,182 @@ https://globallive.tdm.com.mo/tv/ch21.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Hong Kong và Macao", TDM LegCo Macau (Portuguese)
 https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
-
 --------------------------------------------------------------------------------
 
+#EXTINF:-1 group-title="Đài Loan",TVBS新闻台
+https://live.catvod.com/live.php?id=tvbs_n&token=2b2d08f27112c277795ff6dbb96274c3313178fa81702173d33ad866eff84d5b%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",TVBS欢乐台
+https://live.catvod.com/live.php?id=tvbshuanle_twn&token=8cdbbe881657ec4195918c9680a5acf89ec27d4045e8a3b05c222a6cff091d45%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",TVBSHD
+https://live.catvod.com/live.php?id=tvbs&token=3bf00a4f0fab867bee707f51ddfb37f467292cdbd497f42ee1567a8600d993b9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中天新闻
+https://live.catvod.com/live.php?id=ctinews&token=e68c086a0c8f61a80278f7eb189cc459645efc1fda6d8df0b4f18b2c701a3ecd%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中天综合
+https://live.catvod.com/live.php?id=ctizhonghe&token=3ed77db4a25c4e482202d85e337ce9b6de19a26428cc69143f42b6e9814269fa%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中天娱乐
+https://live.catvod.com/live.php?id=ctient&token=4192848d5c9e75c9e8006f58f9166cf9c9020df5b43216731b5263495c01c659%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中天亚洲
+https://live.catvod.com/live.php?id=ctiasia_twn&token=1ee59b366ae2732f99e5bdc103282a3454bbbf4b08cc6c65abbdc1bdd3533993%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",台视
+https://live.catvod.com/live.php?id=ttv_taiwan&token=e4c37e3317a8898d21490846f690cca09cfb87fa224e5242c2f1ea3a49e8cd5d%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",台视新闻
+https://live.catvod.com/live.php?id=ttvnews_twn&token=be865238af099805b724dbcf95f64ef3d560fc28e2fbfd39e21e06491fd7b068%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",台视综合
+https://live.catvod.com/live.php?id=ttvzhonghe&token=fecb042f7b7c87272221446087072a53c95f7e4ef6c6e1a8ebd31f5a826fe025%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",JET綜合
+https://live.catvod.com/live.php?id=jet&token=ab55f58ebc0531b05354edeca14c48f249ba846bb42cfa3a7766c32c7a24d418%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中视
+https://live.catvod.com/live.php?id=zhongshihd_twn&token=77bb948ca86cb23494fdaa0db80f16e6f6129110f2f83ab03bb05b6a04166517%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中视新闻
+https://live.catvod.com/live.php?id=zhongshinews_twn&token=e4b21aebce017f80c600ca6d186009bd1053209d1069410de452b19225057ae2%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",中视经典
+https://live.catvod.com/live.php?id=zhongshi_twn&token=b19d976a3e1f80f148b8176ac2734696c292506f3ae2e1bf022a5a41eacd0b0d%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",民视
+https://live.catvod.com/live.php?id=ftvhd_taiwan&token=f43864dc13c4307fc63ae0e3c57a38f2dea7ee220afbb1da028f227d29630af7%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",民视新闻台
+https://live.catvod.com/live.php?id=ftvnew_taiwan&token=72735fb04204205843dfe715eb3fbf69d3dc3022d38b1aebe70acc7da1bc3e24%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",民视台湾台
+https://live.catvod.com/live.php?id=ftvtaiwan_twn&token=2086cd2ae52a6157d00e9f4fc74ce03cba723f454831dd61b1c7e2e12b3790c9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",华视
+https://live.catvod.com/live.php?id=ctshd_twn&token=6f1eaa9d9f3b16388cc40bb9b58026744af26219e96e1541190b2f1f37ab722f%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",公视
+https://live.catvod.com/live.php?id=ctv_taiwan&token=85b12169355c7ae7a13e318f21661eee129de6327a9ccb241948ca6057c37457%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",天映频道
+https://live.catvod.com/live.php?id=ctv18_twn&token=46ee0f63bd33f74db587071c3692503cef6837afbea5c7c2424ee8bedc68a9ad%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",八大第一台
+https://live.catvod.com/live.php?id=badafirst&token=844dd6e9964d84b2b08df90c3dd10e594524080fdc46b916417d841b95e6d498%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",八大综合台
+https://live.catvod.com/live.php?id=badazhonghe&token=2840eb728a481d6548a8b4ccf14ad2a21996afdaf76441ed283bfcf839fb423d%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",八大戏剧台
+https://live.catvod.com/live.php?id=badadrama&token=cd070585cc763cf39553f2c0d3647ae4cae20410b0891ad73e3228acff78578c%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",八大娱乐台
+https://live.catvod.com/live.php?id=badaentertain&token=db982e448ea38be25b1746fb2a3b66dc126eb93ae4bef8a3a3978a344fc99372%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",HBO
+https://live.catvod.com/live.php?id=hbohd_twn&token=454e2b0e40533a81eaf3350c639b1886d8d9f79ba89ed240c36992589d6fb1ad%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",HBOHITS
+https://live.catvod.com/live.php?id=hbohit_twn&token=4b013edc0accbd7dca992d4e886f94135dcfee29bd3cab2d10cf78159386a1ad%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",好萊塢電影台
+https://live.catvod.com/live.php?id=hollywoodmovies_twn&token=59ab328fe85407726184b137d31956b607399d1fac807f5a5f458e0ffa772818%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",三立台湾台
+https://live.catvod.com/live.php?id=sanlitaiwan&token=958d810f8f886849630acff2ff77bddc9c2de3bbd84ccfe2dcea7c412877e1d9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",三立戏剧台
+https://live.catvod.com/live.php?id=sanlixiju_twn&token=ed484e14143bce264edb8c28879d61bca4b17abf73870a289d82eecfa13ea2c8%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",三立综合台
+https://live.catvod.com/live.php?id=sanlizhonghe&token=cbf05cb7281f734f99fbbccddc94fc496e77a49745745217cae32552f3a68a33%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",三立都会台
+https://live.catvod.com/live.php?id=sanlidouhui_twn&token=b9bc92f5805ae87c976fc301dbf6082c01135cad3f179e79486adec222d49936%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森新闻台
+https://live.catvod.com/live.php?id=ettvnews&token=e7142be1bb2c531100e8ef3f87509f2fd70447a543552e4a3f29c6e6c5ddf4d1%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",CINEMAX
+https://live.catvod.com/live.php?id=cinemax_twn&token=8ce6d61ec9d6b682ca14fad41956b18ec11a8e85332ee2f9715280d6e643a119%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森综合台
+https://live.catvod.com/live.php?id=ettvzhonghe&token=7e31320e0400eb0b047ec434c66fcfb9f9bbb7d8916f77f96199f62a7d7d15da%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森戏剧台
+https://live.catvod.com/live.php?id=ettvdrama&token=2c85d6a7677aa60929bad0c79bec5d2516eb01e3c35e015a1216fe84cea0adfe%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森超视
+https://live.catvod.com/live.php?id=ettvsuper&token=72ba3fe08452560848d48ed4ac7e0fa9aa884a71184be527e3f1f9b0c0e5d0c6%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森财经新闻台
+https://live.catvod.com/live.php?id=ettvcaijing_twn&token=dfcd2ed1b25a9f947c8a88ca078eb877fc98dadaa2c7a32c6dc666c9068cab21%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",寰宇新闻台
+https://live.catvod.com/live.php?id=huanyuxinwen_twn&token=d4c1b010c3d2e945063c7eef2a442170589bdd51f6134c47617648441fc4bf10%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",寰宇财经台
+https://live.catvod.com/live.php?id=huanyutaiwan_twn&token=f53f8800f79a9343336ce79f7a98eedfdda05c5a04b098425ef74de88c3734f9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",公视台语台
+https://live.catvod.com/live.php?id=ctv2_twn&token=52ed5120ad316f6771a35e55e317dfdc184712c07687e531d88f11ce5a735dc8%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",信大HD
+https://live.catvod.com/live.php?id=xinda_twn&token=469894d5a26fc56de5135563c22039add40479a5116868635487684866b81d3b%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",霹靂台灣台
+https://live.catvod.com/live.php?id=pilitw_twn&token=205ceabfbfcb01aad8fc8f08e734f625fa24f98e2f105bee795b274080d9b6b6%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",大愛電視
+https://live.catvod.com/live.php?id=daai_twn&token=feab1cd7a4bc94653db91ff341c62202034c14799fc07061fb9546a53bf459c9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",壹新聞
+https://live.catvod.com/live.php?id=yinews&token=785dbd6b9b4e108007a1b676e2c77a0d0b59fd04343834fa353f5c46b3c3f552%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",非凡新闻
+https://live.catvod.com/live.php?id=feifannews_twn&token=0594473d937755ddd5587a97a03ab1888feb2250e4130f29d08cb8fb6c08dfda%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",龙华戏剧
+https://live.catvod.com/live.php?id=lunghuaxiju_twn&token=59607cfde3ba76700a65a0ea398f14d499731a08dff3b035662efae674533629%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",龙华偶像
+https://live.catvod.com/live.php?id=lunghuaidol_twn&token=c8c7403d6110f33fef253584a134dec92a17bb41ccd296aa73f460c4f3f82c09%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",AXN台湾
+https://live.catvod.com/live.php?id=axn_twn&token=d395a321f4c9f50e3708d5bc2d1d210a492f63c6e5c613c946e0dc57d50884d1%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",靖天国际
+https://live.catvod.com/live.php?id=jingtianintl_twn&token=3a05477e59ed6ffbdef7f0d641f9220412450078eccd53967fdf2c707f30888e%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",年代新闻
+https://live.catvod.com/live.php?id=niandainews_twn&token=d4475821d8bb98311d05aaa544db0bbf6fa8f5f8a14ca1c8c28f780eb707e8e6%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",年代MUCH
+https://live.catvod.com/live.php?id=niandaitv_twn&token=82d437fa167da8a5bfaab26cbaf87496ddd6e77f6886895c60ee27284946f827%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来日本
+https://live.catvod.com/live.php?id=videolandjapan&token=16da2c300456b75f96f09b5de70708f825d16bd0b6eeeb1b9c8e21cd56412ade%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来电影
+https://live.catvod.com/live.php?id=videolandmovie&token=459d2397a871846d813ab74290826b33a56647f7bd39336423a4e5052927378e%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来体育
+https://live.catvod.com/live.php?id=videolandsport&token=4a7291c5b5b0a84531f96569c13096498a1c97d8eeac4f47547a1e6a0a9fd467%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来综合
+https://live.catvod.com/live.php?id=videolandzonghe&token=1f6526d711a8e93d8de246f339db25f429fec8f593f364c4d2b5299cc2df6439%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来育乐
+https://live.catvod.com/live.php?id=videolandyule&token=abb50ea984ebba0380146f34020b45fd5bc3b6122a84bf8e099a0ca9af7c10df%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来精彩
+https://live.catvod.com/live.php?id=videolandspecial_twn&token=17b6318044eae9cfd054fb9c64113770e569c7225bdb845953ca6ede91d79a1a%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",纬来戏剧
+https://live.catvod.com/live.php?id=videolandtv&token=6db30b8a6988281762018fdb9e26bbcf94b78651f2596f89adf67afaa00c4bc8%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",好消息2
+https://live.catvod.com/live.php?id=good2_twn&token=78dba0831b2b730c248c8bace659d9081d363ebaa77b7fdd0bcb286a5af4c157%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",大愛2台
+https://live.catvod.com/live.php?id=daai2_twn&token=2682f3952f5f597f681ebf9f937227c3e7e535b5bce8d058b9a9ffc9af5f9dd9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",亚洲美食
+https://live.catvod.com/live.php?id=afc_twn&token=851d6720cf67f88bce32da6dfd7998b11a38e279d70ac37384359c0abc09b332%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",美食星球
+https://live.catvod.com/live.php?id=foodplanet_twn&token=37f88b3136f90eaa6467e4e918ee542c44ba2bd85dad49b046487365c3f2e230%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",TLC旅遊生活
+https://live.catvod.com/live.php?id=tlc_twn&token=29f5f1a460068b97d88871d10bcd5b010bc1c9a6168957ccad1f3899699b8313%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森电影台
+https://live.catvod.com/live.php?id=ettvmovie&token=4efe3a28e3fd53f83ed2f9ca1ad591e3ce2c2477f71b5dadf5913106471e5b42%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",ARIRANG
+https://live.catvod.com/live.php?id=arirang_twn&token=ce825fb7979e0810ef16023d2036cf45d3ad51b581931b1a4cc1e445da26ad40%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯运动一台
+https://live.catvod.com/live.php?id=bosisport1_twn&token=5640ce90f0e6fb97fca76eac9db451fecfbabb00616d2cef21a6dcba7299e76c%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯运动二台
+https://live.catvod.com/live.php?id=bosisport2_twn&token=cfbad556375de7d806949f8498d4cd23ef61ef04affeebba54c518ab5ef2fbb4%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯高球一台
+https://live.catvod.com/live.php?id=bosigolf1_twn&token=77cbd18978da5ad1f138b9dce47544bc4e3d24da2770558518a02401bec4d7cf%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯高球二台
+https://live.catvod.com/live.php?id=bosigolf2_twn&token=5256d1441f4cd5f3b1de052cc5cea743a420edc4893baf9b8dff4d8a6e55ad1a%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯网球台
+https://live.catvod.com/live.php?id=bositennis_twn&token=06993f71e46a586e5f0247c0187f4a834b67ce4bddff073d7ff33267d5c523b9%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",博斯无限台
+https://live.catvod.com/live.php?id=bosiunlimited_twn&token=cb68ee25e8fef725f242f6883de6991a1112ffcfc3ac28d556ba8dee4537dbc4%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森洋片台
+https://live.catvod.com/live.php?id=ettvwestern&token=71a9a469dda5dfed97ce28d187512dcd11db6643cd82711ac53ba1e1f3d6ffed%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",龙华洋片
+https://live.catvod.com/live.php?id=lunghuawestern_twn&token=e6a36f4048d8cb2e6ee4e5e50dca79be379fb264c9b1e98f06815c7d4ad0963d%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",MTVLive
+https://live.catvod.com/live.php?id=mtvhd_twn&token=35e1367d660d0a13f541667038855090ab6d3ffaf3af488f2b1b8270a10e7755%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",龙祥时代
+https://live.catvod.com/live.php?id=lungxiangtime_twn&token=1c23d017221e7f2be8414e661c083ca482006c6ce36c2c21b4fc5f7fac8b4ff2%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",EYETV旅游台
+https://live.catvod.com/live.php?id=eyetvtravel_twn&token=a036556977f51b2b2e040f1396f120ef69b25b5be2d152021170c5e7b2db846c%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",EYETV戏剧台
+https://live.catvod.com/live.php?id=eyetvxiju_twn&token=bf1058584a4c0e973f1a03306563f7777b65666fba2b14edc5d591edbeba0597%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",靖天卡通
+https://live.catvod.com/live.php?id=jingtiancartoon_twn&token=e0f56bb3c1a4629198d50f432b5bbe36263b173ecfdeb0efe27c65fc430c5727%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",卫视电影台
+https://live.catvod.com/live.php?id=weishimovie_twn&token=db13173f382a37b4241441db394b6527b7a0d8ff2f44d53163f61b8d0877055c%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",华艺中文台
+https://live.catvod.com/live.php?id=weishichinese_twn&token=8d8c7a80ada522b9b1226179e8af6e59bb2b884b44bfa73df338c25d1a11f579%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",东森幼幼台
+https://live.catvod.com/live.php?id=yoyo_twn&token=e5483525aa6fa988f91b707754636a56b73e9944266d129433cb63911630e5ef%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",美亚电影
+https://live.catvod.com/live.php?id=meiyamovie_twn&token=11d30333a10496a54cdd0323a36228ed6b17b4ad55e13a4506337b380bc21e58%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",爱尔达影剧台
+https://live.catvod.com/live.php?id=eltayingju_twn&token=62d35ea7ba9ae5a84aa6ac2c8e94379b62f54258d91914bce90b6fb2d24a105b%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",爱尔达综合台
+https://live.catvod.com/live.php?id=eltazonghe_twn&token=8e9c0af98e4a678f290266eaeb05918b64212cb8e487bd8205858d22b6a4dcc2%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",龙华电影
+https://live.catvod.com/live.php?id=xingwei_movie&token=3656d8854fff02b84ded310f86e41e040381df3e18dfbc69415e677092f97a53%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 group-title="Đài Loan",亚洲旅游台
+https://live.catvod.com/live.php?id=asiatravel_twn&token=22d871fa4a9f5c31e6c8d1deedd8920d15dba192d8ba8625b76c75b07f7e2453%3A1761441368%3AMTE4LjY4LjIxNS4x
+
+--------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Nhật Bản" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
