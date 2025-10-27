@@ -21,7 +21,7 @@ https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vov247" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
 https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
-https://play.vovgiaothong.vn/live/gthn2/playlist.m3u8
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgthcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
 #EXTINF:-1 tvg-id="vovgtmekong" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
@@ -37,6 +37,8 @@ https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="voh877" group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true, VOH FM92.5MHz
+https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
 
 
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,SON LA (FM96MHz)
@@ -89,12 +91,10 @@ https://stream.thingnet.vn/radio/quangngai_aac/playlist.m3u8
 http://14.224.130.186:8000/binhdinh
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,KHANH HOA RADIO (FM106.5MHz)
 https://tv.ktv.org.vn/hls/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,SCTV HAI DAK LAK FM (FM92.4MHz & FM94.7MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,SCTV HAI DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,LAM DONG (FM97MHz)
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,BTV-FM BINH DUONG (FM92.5MHz) (VTH SINCE JULY 30)
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG NAI RADIO (FM97.5MHz)
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,TAY NINH RADIO 1 (FM96.9MHz)
@@ -1517,6 +1517,7 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
+
 
 
 
