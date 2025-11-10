@@ -411,8 +411,7 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2880px-Das_Erste_2014.svg.png", Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=IE
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+http://162.212.178.69:4242/bysid/608
 #EXTINF:-1 tvg-id="RTNews.ru" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Quốc tế" tvg-logo="https://picon.ml/pervy-kanal-eu.png", OPT1
@@ -486,7 +485,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/57385
 #EXTINF:-1 group-title="Anh Quốc", BBC News Channel
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC One
-http://86.156.254.56:4202/bysid/17545
+http://88.98.244.12:9981/stream/channelid/171213643?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", BBC Two
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
@@ -497,7 +496,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC Parliament
-http://86.156.254.56:4200/bysid/4736
+http://88.98.244.12:9981/stream/channelid/1021877991?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", CBBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
@@ -505,7 +504,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", ITV1
-http://86.156.254.56:4202/bysid/17609
+http://88.98.244.12:9981/stream/channelid/901577102?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", ITV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
@@ -527,6 +526,18 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 group-title="Anh Quốc", Channel 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:0 group-title="Anh Quốc",RTE One
+http://10.0.12.252:4200/bysid/2101
+#EXTINF:0 group-title="Anh Quốc",RTE2 +1
+http://10.0.12.252:4200/bysid/2102
+#EXTINF:0 group-title="Anh Quốc",Virgin Media 3
+http://10.0.12.252:4200/bysid/2103
+#EXTINF:0 group-title="Anh Quốc",Virgin Media 4
+http://10.0.12.252:4200/bysid/2107
+#EXTINF:0 group-title="Anh Quốc",RTE One +1
+http://10.0.12.252:4200/bysid/2111
+#EXTINF:0 group-title="Anh Quốc",RTE Junior
+http://10.0.12.252:4200/bysid/2117
 
 --------------------------------------------------------------------------------
 
@@ -1660,7 +1671,7 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="🇰🇷 Hàn Quốc",MBC 
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="🇰🇷 Hàn Quốc",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+rtmp://210.216.76.120/live/sbsonair
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="🇰🇷 Hàn Quốc",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="🇰🇷 Hàn Quốc",MNet
