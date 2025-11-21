@@ -466,6 +466,8 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", TVB Xing He
 https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", Phoenix Movies Channel
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
 --------------------------------------------------------------------------------
 
@@ -695,8 +697,6 @@ https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 http://178.212.71.253:8000/play/62/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал
 http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал +4
-https://hoiquan.click/OPT1_HANOITIME
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ
