@@ -371,13 +371,21 @@ http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2063
+https://mc-y23j21hvtq.bunny.run/dtv/2063/master.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-https://hls.mskycdn.online/tv/bloomberg/index.m3u8
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2601
+https://mc-y23j21hvtq.bunny.run/dtv/2601/master.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
@@ -415,7 +423,8 @@ http://162.212.178.69:4242/bysid/608
 #EXTINF:-1 tvg-id="RTNews.ru" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Quốc tế" tvg-logo="https://picon.ml/pervy-kanal-eu.png", OPT1
-https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/210.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="Quốc tế" tvg-logo="https://picon.ml/rtr-planeta.png", RTR Planeta
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://i.imgur.com/tpqsFzm.png",Russia 24 International
@@ -424,7 +433,8 @@ https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd0
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/213.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ International
-https://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLC:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -472,17 +482,15 @@ http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Mỹ" tvg-id="KYOUDT2.us",NBC
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-id="KMIZDT1.us",ABC 
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-logo="https://i.imgur.com/bHIK943.png",CBS
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-id="KQFXLD1.us",FOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-logo="https://i.imgur.com/Njl2UVf.png", PBS
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 group-title="Mỹ" tvg-id="CBC",CBC
-http://cord-cutter.net:8080/hq3y4G/234247/57385
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 #EXTINF:-1 group-title="Anh Quốc", BBC News Channel
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
