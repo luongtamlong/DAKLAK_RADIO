@@ -950,6 +950,14 @@ https://stream.rcs.revma.com/kydend74hv8uv
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cityfmtw.png" group-title="QUỐC TẾ" radio=true,City FM 90.1
 https://fm901.cityfm.com.tw:8083/901
+#EXTINF:-1 tvg-name="HitFMTaipei" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMTaipei
+http://202.39.43.67:1935/live/RA000036/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMTaichung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMTaichung
+http://202.39.43.67:1935/live/RA000035/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMEast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMEast
+http://202.39.43.67:1935/live/RA000118/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMYilan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMYilan
+http://202.39.43.67:1935/live/RA000065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Myanmar Radio National Service
 https://lb-as.cdn-perfprod.com/live/myanma_radio
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Tha Pyay Radio
