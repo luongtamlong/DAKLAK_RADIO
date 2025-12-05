@@ -39,10 +39,10 @@ https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="voh877" group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",HTV RADIO FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true, HTV RADIO FM92.5MHz
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Logo_VOH-M_FM_92-92%2C5_MHz_%28%C4%90%C3%A0i_Ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_TP.HCM%29.png/revision/latest/scale-to-width-down/200?cb=20251129151735&path-prefix=vi", HTV RADIO FM92.5MHz
 https://strm.voh.com.vn/radio/channel6/playlist.m3u8
 
-#EXTINF:-1 group-title="VIỆT NAM" radio=true, OVERNIGHT FM107.8MHz
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.ibb.co/dT49V6H/M.png", VNR FM 101.8 MHz
 https://stream.zeno.fm/ojnttdbhgr7tv
 
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,SON LA (FM96MHz)
@@ -138,4 +138,5 @@ https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a5
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/svztgcvwrjew.png", Scientific Sounds Asia
 http://carol.epichosts.co.uk:8270/live.mp3
+
 
