@@ -1,38 +1,42 @@
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1920px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="QUỐC TẾ" radio=true,BBC World Service Asia HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1920px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="QUỐC TẾ" radio=true,BBC World Service Asia
 http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.png?t=2409" group-title="QUỐC TẾ" radio=true,BBC Radio 1 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.png?t=2409" group-title="QUỐC TẾ" radio=true,BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.png?t=2408" group-title="QUỐC TẾ" radio=true,BBC Radio 1Xtra HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.png?t=2408" group-title="QUỐC TẾ" radio=true,BBC Radio 1Xtra
 http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/bbc-radio-1-dance/play_250_250.webp" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Dance HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/bbc-radio-1-dance/play_250_250.webp" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Dance
 http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 2" tvg-logo="https://uk.radio.net/images/broadcasts/88/e1/3244/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 2 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_anthems/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Anthems
+http://as-hls-ww-live.akamaized.net/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 2" tvg-logo="https://uk.radio.net/images/broadcasts/88/e1/3244/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_three/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_three/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4" tvg-logo="https://ie.radio.net/images/broadcasts/d3/09/3246/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three_unwind/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3 Unwind
+http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4" tvg-logo="https://ie.radio.net/images/broadcasts/d3/09/3246/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4 Extra" tvg-logo="https://uk.radio.net/images/broadcasts/f6/75/12534/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 Extra HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4 Extra" tvg-logo="https://uk.radio.net/images/broadcasts/f6/75/12534/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 Extra
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 5 Live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png" group-title="QUỐC TẾ" radio=true,BBC Radio 5 Live HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 5 Live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png" group-title="QUỐC TẾ" radio=true,BBC Radio 5 Live
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ygo-assets-entities-emea.yougov.net/762d8e8a-ce07-11e8-a722-affcf7e3f830.jpg" group-title="QUỐC TẾ" radio=true,BBC Radio 6 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ygo-assets-entities-emea.yougov.net/762d8e8a-ce07-11e8-a722-affcf7e3f830.jpg" group-title="QUỐC TẾ" radio=true,BBC Radio 6
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Asian Network HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Asian Network
 http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p0l0jrdh.jpg.webp" group-title="QUỐC TẾ" radio=true,BBC Sounds News HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p0l0jrdh.jpg.webp" group-title="QUỐC TẾ" radio=true,BBC Sounds News
 https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio=96000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Wales" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_wales/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Wales HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Wales" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_wales/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Wales
 http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru
 http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru 2" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru_2/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru 2 HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru 2" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru_2/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru 2
 http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Scotland" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_scotland/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Scotland HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Scotland" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_scotland/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Scotland
 http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio nan Gaidheal" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_nan_gaidheal/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio nan Gaidheal HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio nan Gaidheal" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_nan_gaidheal/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio nan Gaidheal
 http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Ulster" tvg-logo="hhttps://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_ulster/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Ulster HD
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Ulster" tvg-logo="hhttps://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_ulster/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Ulster
 http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d320000.norewind.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-name="BFBS Radio UK" tvg-logo="https://cdn-profiles.tunein.com/s14137/images/logod.png?t=638367220310000000" group-title="QUỐC TẾ" radio=true,BFBS Radio UK
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs1.aac 
@@ -746,7 +750,7 @@ http://mnet.x10.mx/nhkfm.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ" radio=true,J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1 HD
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1
 https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1 XTra
 https://jenny.torontocast.com:2000/stream/J1XTRA
