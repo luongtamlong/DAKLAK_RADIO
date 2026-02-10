@@ -439,7 +439,7 @@ https://absp-live.akamaized.net/dash/live/2099522/gmapt/manifest.mpd|Referer=htt
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cctv4Asia.cn" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/singapore/cctv4-sg.png",cctv4 Asia 
 http://t.061899.xyz/tl/tl.php?id=cctv4
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://i.ibb.co/yqmsPcx/3.png" group-title="Quốc tế",TVB Jade International
-http://php.jdshipin.com/TVOD/iptv.php?id=huali
+http://cdn6.163189.xyz/163189/jade
 #EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB News International
 https://tvb.860775.xyz/I-NEWS
 #EXTINF:-1 tvg-id="Jade.hk" tvg-logo="https://cdn.tdm.com.mo/uploads/attachment/2021-9/931a1b83173c0557b46f6b7343e7e9f2.png_w250" group-title="Quốc tế",TDM-Macau Satéllite
@@ -1984,9 +1984,9 @@ https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/RTM_Parlimen.png",DewanNegara
 https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
 #EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Astro_AOD_%282024%29.png",Astro AOD
-http://php.jdshipin.com/TVOD/iptv.php?id=aod
+https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Djfmo965gwpcroc6JOPDAVLs9kRg6Z7dOg&s",Astro AEC
-http://php.jdshipin.com/smt.php?id=AEC
+https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Astro_QJ.png",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",Astro欢喜台
