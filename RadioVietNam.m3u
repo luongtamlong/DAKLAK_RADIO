@@ -31,7 +31,7 @@ https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
 https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
-https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
+https://stream.vovmedia.vn/gtduyenhai
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 AUDIO
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 
@@ -139,6 +139,7 @@ https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a5
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/svztgcvwrjew.png", Scientific Sounds Asia
 http://carol.epichosts.co.uk:8270/live.mp3
+
 
 
 
