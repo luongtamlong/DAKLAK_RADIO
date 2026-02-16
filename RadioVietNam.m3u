@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
-http://media.kythuatvov.vn:7001/;stream/
+https://stream.vovmedia.vn/vov-1
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
-http://media.kythuatvov.vn:7003/;stream/
+https://stream.vovmedia.vn/vov-2
 #EXTINF:-1  tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
-http://media.kythuatvov.vn:7005/;stream/
+https://stream.vovmedia.vn/vov-3
 #EXTINF:-1  tvg-logo="https://i.imgur.com/ebnHXbS.png" radio="true",VOV4 TAY BAC
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1  tvg-logo="https://i.imgur.com/u5T9wiD.png" radio="true",VOV4 DONG BAC
@@ -13,23 +13,23 @@ https://stream.vovmedia.vn/vov4db
 #EXTINF:-1  tvg-logo="https://i.imgur.com/AvuIgG0.png" radio="true",VOV4 MIEN TRUNG
 https://stream.vovmedia.vn/vov4mt
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6lFVwWD.png" radio="true",VOV4 TAY NGUYEN
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
+https://stream.vovmedia.vn/vov4tn
 #EXTINF:-1  tvg-logo="https://i.imgur.com/rpYoovn.png" radio="true",VOV4 HCMC
 https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1  tvg-logo="https://i.imgur.com/V1eCcOB.png" radio="true",VOV4 MEKONG
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
+https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1s4kWpx.png" radio="true",VOV5
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jjfSOYm.png" radio="true",VOV 24/7
-https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
+https://audio-lss.vov.vn/han/live/vov24_7/audio/manifest.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/WthfvZR.png" radio="true",VOV6
 https://stream.vovmedia.vn/vov6
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
-http://media.kythuatvov.vn:7025/;stream/
+https://stream.vovmedia.vn/vovgt-hn
 #EXTINF:-1  tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
-http://media.kythuatvov.vn:7023/;stream/
+https://stream.vovmedia.vn/vovgt-hcm
 #EXTINF:-1 tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+https://stream.vovmedia.vn/vovmekong
 #EXTINF:-1 tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
 https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 AUDIO
@@ -139,6 +139,7 @@ https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a5
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/svztgcvwrjew.png", Scientific Sounds Asia
 http://carol.epichosts.co.uk:8270/live.mp3
+
 
 
 
