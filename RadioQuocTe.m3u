@@ -1055,7 +1055,7 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/88.3JIA_radio_station_logo.png" group-title="QUỐC TẾ" radio=true,JIA 88.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304217/images/logod.png?t=161616" group-title="QUỐC TẾ" radio=true,SPH Money FM 89.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3
+ttps://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/ZUyfucULwh.jpg",RIA 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/AWjWGLbzkc.jpg",GOLD 905
@@ -1075,7 +1075,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=truetvg-logo="https://static.mytuner.mobi/media/radios-150px/jKhx2VFARK.jpg",CLASS 95
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/EFUtj72GTd.jpg",CAPITAL 958
-http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
 #EXTINF:-1  tvg-logo="http://gg.gg/1985uo" group-title="QUỐC TẾ" radio=true,SPH Hao FM 96.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg",Oli 968
@@ -1245,22 +1245,16 @@ http://112.121.150.133:9102/stream/1/
 
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chiang-mai-93-75.png" group-title="QUỐC TẾ" radio=true,93.75 FM
 http://112.121.151.133:8124/live
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/kiss-fm.png" group-title="QUỐC TẾ" radio=true,91.75 FM
 http://s1.thailandstreaming.net:8020/listen.pls?sid=1
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mun-forward.png" group-title="QUỐC TẾ" radio=true,Mun FWD FM
 https://cdn-th2.livestreaming.in.th/shoutcast/8730
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/love-93.png" group-title="QUỐC TẾ" radio=true,Love 93 FM
 https://radio14.plathong.net/8060/stream/1/
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/trip.png" group-title="QUỐC TẾ" radio=true,Trip 89.75 FM
 https://cdn-th2.login.in.th/shoutcast/1150
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/q-fm.png" group-title="QUỐC TẾ" radio=true,97 Q FM
 https://cdn-th2.livestreaming.in.th/shoutcast/8610
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/live-phuket.png" group-title="QUỐC TẾ" radio=true,Phuket 89.5 FM
 https://4118.radio4.thzhost.com/stream/1/
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chill-89.png" group-title="QUỐC TẾ" radio=true,Chill 93 FM
