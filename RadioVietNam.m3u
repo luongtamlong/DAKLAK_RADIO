@@ -1,10 +1,10 @@
 
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
-https://stream.vovmedia.vn/vov-1
+https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
-https://stream.vovmedia.vn/vov-2
+https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
-https://stream.vovmedia.vn/vov-3
+https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/ebnHXbS.png" radio="true",VOV4 TAY BAC
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/u5T9wiD.png" radio="true",VOV4 DONG BAC
@@ -18,11 +18,11 @@ https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/V1eCcOB.png" radio="true",VOV4 MEKONG
 https://stream.vovmedia.vn/vov4dbscl
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/1s4kWpx.png" radio="true",VOV5
-https://stream.vovmedia.vn/vov5
+https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/jjfSOYm.png" radio="true",VOV 24/7
 https://audio-lss.vov.vn/han/live/vov24_7/audio/manifest.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/WthfvZR.png" radio="true",VOV6
-https://stream.vovmedia.vn/vov6
+https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
