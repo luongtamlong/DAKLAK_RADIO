@@ -1082,22 +1082,28 @@ https://radio.0472.org/?id=498
 https://radio.0472.org/?id=1065
 #EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="QUỐC TẾ" radio=true,Shenzhen Life 94.2
 https://radio.0472.org/?id=499
-#EXTINF:-1  tvg-name="RTHK1" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 1
-https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
-#EXTINF:-1  tvg-name="RTHK2" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 2
-https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
-#EXTINF:-1  tvg-name="RTHK3" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 3
-https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/index_64_a.m3u8
-#EXTINF:-1  tvg-name="RTHK4" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 4
-https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8
-#EXTINF:-1  tvg-name="RTHK5" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 5
-https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8
-#EXTINF:-1  tvg-name="RTHK5" tvg-logo="https://live.fanmingming.cn/radio/rthk.png" group-title="QUỐC TẾ" radio=true,RTHK Radio Putonghua
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8
+#EXTINF:-1  tvg-name="RTHK1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGhM4JrPUHqU9HP45Dx5R_R1kSlB2khm8zg&s" group-title="QUỐC TẾ" radio=true,RTHK Radio 1
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+#EXTINF:-1  tvg-name="RTHK2" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/952/xiang-gang-dian-tai-di-er-tai-rthk-radio-2.f3d20dbf.png" group-title="QUỐC TẾ" radio=true,RTHK Radio 2
+https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+#EXTINF:-1  tvg-name="RTHK3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVepii_-Q-IB6zUJovKffFQRWduzr7yYMog&s" group-title="QUỐC TẾ" radio=true,RTHK Radio 3
+https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+#EXTINF:-1  tvg-name="RTHK4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_McBru06JlBFFwMYCBV_sRwWTTXB_BGoaVQ&s" group-title="QUỐC TẾ" radio=true,RTHK Radio 4
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+#EXTINF:-1  tvg-name="RTHK5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-d3E7KgpMwg0KfsIjSBrk96e-W8lZ4aGVmA&s" group-title="QUỐC TẾ" radio=true,RTHK Radio 5
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+#EXTINF:-1  tvg-name="RTHK5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG57EeUIq-sGVqDDNhu1LUlYEIxBVA3KiFCQ&s" group-title="QUỐC TẾ" radio=true,RTHK Radio Putonghua
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1  tvg-name="香港之声" tvg-logo="https://radio.0472.org/?id=646&logo" group-title="QUỐC TẾ" radio=true,CNR Hong Kong Service (RTHK FEED)
-https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
 #EXTINF:-1  tvg-name="大湾区之声" tvg-logo="https://radio.0472.org/?id=645&logo" group-title="QUỐC TẾ" radio=true,CNR Voice of the Greater Bay (RTHK FEED)
-https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+#EXTINF:-1  tvg-name="大湾区之声" tvg-logo="https://fltaradio.com/upload/2018/02/leiting-881.jpg" group-title="QUỐC TẾ" radio=true,CRHK FM 88.1
+https://live-s.881903.com/edge-aac/881hd/chunks.m3u8
+#EXTINF:-1  tvg-name="大湾区之声" tvg-logo="https://sao.fm/wp-content/uploads/20240115011051684.jpg" group-title="QUỐC TẾ" radio=true,CRHK FM 90.3
+https://live-s.881903.com/edge-aac/903hd/chunks.m3u8
+#EXTINF:-1  tvg-name="大湾区之声" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/cc/AM864.svg/500px-AM864.svg.png" group-title="QUỐC TẾ" radio=true,CRHK AM 864
+https://live-s.881903.com/edge-aac/864sd/chunks.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg" group-title="QUỐC TẾ" radio=true,Metro Finance
 https://1716664847.rsc.cdn77.org/1716664847/index.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png" group-title="QUỐC TẾ" radio=true,Metro Info
