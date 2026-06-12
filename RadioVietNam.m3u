@@ -33,10 +33,12 @@ https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 group-title="MISCELLANEOUS" tvg-id="" radio=true tvg-logo="https://mmo.aiircdn.com/1859/67a38d6560630.png", ASIA EXPAT RADIO SAIGON
 https://playerservices.streamtheworld.com/api/livestream-redirect/AXRAAC.aac
-#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 AUDIO
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vt3hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV3 AUDIO
-https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vtv1hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv1.png", VTV1 AUDIO
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vt3hd" tvg-logo="http://vietanh18h1.duckdns.org/ic/vtv3.png", VTV3 AUDIO
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vt3hd" tvg-logo="https://image1.vnmedia.xyz/logo/vtv6hd.png", VTV6 WORLD CUP AUDIO
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vietnamtoday" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VIETNAM TODAY AUDIO
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="voh610" radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_HTV RADIO_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",HTV RADIO AM 610Khz
