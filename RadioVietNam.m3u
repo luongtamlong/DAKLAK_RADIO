@@ -72,6 +72,8 @@ https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 http://14.162.146.90:8000/HANOI90
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIO4WBIFqHCwb2YzHt3XmD6Yh7iFsOQsL7vA&s" radio=true,HANOI96 (KENH NAY BI NO BHXH)
 http://222.252.21.96:8000/HANOI96
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/601bd240e83c0b6ba8b2b046/328f97ad-91ea-4097-b2db-e0c5618422a4/HCR+Transparent+Black+Text+Logo.png?format=1500w" radio=true,Hanoi Community Radio
+https://ha-noi-community-radio.radiocult.fm/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21VaHPT.png" radio=true,THP GENERAL SERVICE FM93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,THP TRAFFIC SERVICE FM102.2
